@@ -200,7 +200,29 @@ def pixarkitems():
         data = json.load(pixarkitems_file)
     return data
 
+@app.route('/catalog/api/shared/namespace/showmaker/items', methods=['GET'])
+def showmakeritems():
+    with open('showmakeritems.json', 'r') as showmakeritems_file:
+        data = json.load(showmakeritems_file)
+    return data
 
+@app.route('/catalog/api/shared/namespace/squad/items', methods=['GET'])
+def squaditems():
+    with open('squaditems.json', 'r') as squaditems_items:
+        data = json.load(squaditems_items)
+    return data
+
+@app.route('/catalog/api/shared/namespace/vrfunhouse/items', methods=['GET'])
+def vrfunhouseitems():
+    with open('vrfunhouseitems.json', 'r') as vrfunhouseitems_file:
+        data = json.load(vrfunhouseitems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/fn/items', methods=['GET'])
+def fnitems():
+    with open('fnitems.json', 'r') as fnitems_file:
+        data = json.load(fnitems_file)
+    return data
 
 @app.route('/priceengine/api/shared/offers/price', methods=['POST'])
 def priceengine():
