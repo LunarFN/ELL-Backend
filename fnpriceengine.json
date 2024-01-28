@@ -1,0 +1,3456 @@
+{
+  "accountId": "359976258f2a49959203df3a93c8bfd0",
+  "identityId": "359976258f2a49959203df3a93c8bfd0",
+  "namespace": "fn",
+  "country": "DE",
+  "taxType": "VAT",
+  "taxCalculationStatus": "SUCCEEDED",
+  "totalPrice": {
+    "currencyCode": "EUR",
+    "discountPrice": 20818,
+    "originalPrice": 20818,
+    "discountPercentage": 100,
+    "discount": 0,
+    "voucherDiscount": 0,
+    "sellerVat": 3324,
+    "vat": 3324,
+    "vatRate": 0.19,
+    "convenienceFee": 0,
+    "basePayoutPrice": 18995,
+    "basePayoutCurrencyCode": "USD",
+    "revenueWithoutTax": 18995,
+    "revenueWithoutTaxCurrencyCode": "USD",
+    "payoutCurrencyExchangeRate": 1.0858353307837973
+  },
+  "totalPaymentPrice": {
+    "paymentCurrencyExchangeRate": 1.0,
+    "paymentCurrencyCode": "EUR",
+    "paymentCurrencySymbol": "€",
+    "paymentCurrencyAmount": 20818,
+    "paymentCurrencyDecimal": 2
+  },
+  "coupons": [],
+  "lineOffers": [
+    {
+      "lineId": "1",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "076b7835cc9f4d08ab6a3b3aba19b255",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "076b7835cc9f4d08ab6a3b3aba19b255"
+    },
+    {
+      "lineId": "2",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "09176f4ff7564bbbb499bbe20bd6348f",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "09176f4ff7564bbbb499bbe20bd6348f"
+    },
+    {
+      "lineId": "3",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "0943fed2df0245b1b15cd1ba40dd5e2d",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "0943fed2df0245b1b15cd1ba40dd5e2d"
+    },
+    {
+      "lineId": "4",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "0a9975434dfc4a30aea839a0805366a4",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "0a9975434dfc4a30aea839a0805366a4"
+    },
+    {
+      "lineId": "5",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "0dc0106949134144b0312b7221464f73",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "0dc0106949134144b0312b7221464f73"
+    },
+    {
+      "lineId": "6",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "0e2cbcb3d2c84c9ab26f38b0b619b260",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "0e2cbcb3d2c84c9ab26f38b0b619b260"
+    },
+    {
+      "lineId": "7",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 1849,
+        "unitPrice": 1849,
+        "originalPrice": 1849,
+        "originalUnitPrice": 1849,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 295,
+        "vat": 295,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 1687,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 1687,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "0f733c250fe3481092d83a479b88eabc",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 1554,
+          "rate": 19.0,
+          "amount": 295,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 295, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 1849, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 1849, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 1687, "currency": "USD" },
+        "basePayout": { "amount": 1687, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 1849, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "0f733c250fe3481092d83a479b88eabc"
+    },
+    {
+      "lineId": "8",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "11caf7598d254b86b59962603f81d336",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "11caf7598d254b86b59962603f81d336"
+    },
+    {
+      "lineId": "9",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "11cb0041419740c5966c6f3c41c408bc",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "11cb0041419740c5966c6f3c41c408bc"
+    },
+    {
+      "lineId": "10",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "15b9cde220ef4bc3a223dc783db12a3d",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "15b9cde220ef4bc3a223dc783db12a3d"
+    },
+    {
+      "lineId": "11",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "164ed2fe509a44b89dec47a450f3b8c9",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "164ed2fe509a44b89dec47a450f3b8c9"
+    },
+    {
+      "lineId": "12",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "16a83e3c15074317b44b25485d05a87f",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "16a83e3c15074317b44b25485d05a87f"
+    },
+    {
+      "lineId": "13",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 899,
+        "unitPrice": 899,
+        "originalPrice": 899,
+        "originalUnitPrice": 899,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 144,
+        "vat": 144,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 820,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 820,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "19427b8d3e8f4ba4b0d2ed69adf10bce",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 755,
+          "rate": 19.0,
+          "amount": 144,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 144, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 899, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 899, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 820, "currency": "USD" },
+        "basePayout": { "amount": 820, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 899, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "19427b8d3e8f4ba4b0d2ed69adf10bce"
+    },
+    {
+      "lineId": "14",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "1cfc48130fc94c5080bd9de0e703ef80",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "1cfc48130fc94c5080bd9de0e703ef80"
+    },
+    {
+      "lineId": "15",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "22e0d51678fc4bfea9e6b77aa5c13e62",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "22e0d51678fc4bfea9e6b77aa5c13e62"
+    },
+    {
+      "lineId": "16",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "2c39b9ebebed463c90166d0f9e851efb",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "2c39b9ebebed463c90166d0f9e851efb"
+    },
+    {
+      "lineId": "17",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "3150df134fe646f9959b59ced18c7c06",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "3150df134fe646f9959b59ced18c7c06"
+    },
+    {
+      "lineId": "18",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "378ef698fecd4cd39b762aff2eaf89bf",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "378ef698fecd4cd39b762aff2eaf89bf"
+    },
+    {
+      "lineId": "19",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "38a7aa439bad42fa8c708bf80e47ed8b",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "38a7aa439bad42fa8c708bf80e47ed8b"
+    },
+    {
+      "lineId": "20",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "40b0d67ddab74a749d7796f4b36a58a1",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "40b0d67ddab74a749d7796f4b36a58a1"
+    },
+    {
+      "lineId": "21",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "464d24cd25cd4b3396968332e4193d11",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "464d24cd25cd4b3396968332e4193d11"
+    },
+    {
+      "lineId": "22",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "48291cc600724acc8a11198ba2e95df0",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "48291cc600724acc8a11198ba2e95df0"
+    },
+    {
+      "lineId": "23",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "4926a635a5394b8db98c332bd922a7ff",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "4926a635a5394b8db98c332bd922a7ff"
+    },
+    {
+      "lineId": "24",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 8999,
+        "unitPrice": 8999,
+        "originalPrice": 8999,
+        "originalUnitPrice": 8999,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 1437,
+        "vat": 1437,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 8211,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 8211,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "4daadb392f1c4ee2b5a3af443e614d2a",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 7562,
+          "rate": 19.0,
+          "amount": 1437,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 1437, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 8999, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 8999, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 8211, "currency": "USD" },
+        "basePayout": { "amount": 8211, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 8999, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "4daadb392f1c4ee2b5a3af443e614d2a"
+    },
+    {
+      "lineId": "25",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "4e4a9b38a1ac49fa8ba9d0e1760167e7",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "4e4a9b38a1ac49fa8ba9d0e1760167e7"
+    },
+    {
+      "lineId": "26",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "4fb3d836151a4e8a8f145a13ee426786",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "4fb3d836151a4e8a8f145a13ee426786"
+    },
+    {
+      "lineId": "27",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "50eb5298559b4028ab99b504e927093f",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "50eb5298559b4028ab99b504e927093f"
+    },
+    {
+      "lineId": "28",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "51eee7c318474fad84e6c5205f534cef",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "51eee7c318474fad84e6c5205f534cef"
+    },
+    {
+      "lineId": "29",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "53c7e48ed32744439362b73beb2d9d26",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "53c7e48ed32744439362b73beb2d9d26"
+    },
+    {
+      "lineId": "30",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "554f1353544248d8af51cc42df4f0a42",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "554f1353544248d8af51cc42df4f0a42"
+    },
+    {
+      "lineId": "31",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 2299,
+        "unitPrice": 2299,
+        "originalPrice": 2299,
+        "originalUnitPrice": 2299,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 367,
+        "vat": 367,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 2098,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 2098,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "559f2ba95f874ec987d0ebfd2cc9c70a",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 1932,
+          "rate": 19.0,
+          "amount": 367,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 367, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 2299, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 2299, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 2098, "currency": "USD" },
+        "basePayout": { "amount": 2098, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 2299, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "559f2ba95f874ec987d0ebfd2cc9c70a"
+    },
+    {
+      "lineId": "32",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "641ab8feb34046d3b9a01ae73b3493bc",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "641ab8feb34046d3b9a01ae73b3493bc"
+    },
+    {
+      "lineId": "33",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "6497af50d2aa49b8b902ece42620d039",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "6497af50d2aa49b8b902ece42620d039"
+    },
+    {
+      "lineId": "34",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "6dace5056e1140b4a32758851a933ded",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "6dace5056e1140b4a32758851a933ded"
+    },
+    {
+      "lineId": "35",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "753d44d512e742c4889a0bfb9ac8a5de",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "753d44d512e742c4889a0bfb9ac8a5de"
+    },
+    {
+      "lineId": "36",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "754302c7435a42f18efd7dd77b37d972",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "754302c7435a42f18efd7dd77b37d972"
+    },
+    {
+      "lineId": "37",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "8c89e34e41c346e989631ffbeabefcd3",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "8c89e34e41c346e989631ffbeabefcd3"
+    },
+    {
+      "lineId": "38",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "90686d7f76534167a97f5ba311223acd",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "90686d7f76534167a97f5ba311223acd"
+    },
+    {
+      "lineId": "39",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "91b05490cd364bb882700c7ce51e75cf",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "91b05490cd364bb882700c7ce51e75cf"
+    },
+    {
+      "lineId": "40",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "93cbe4d2659c473bbe9a6ba4e5211696",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "93cbe4d2659c473bbe9a6ba4e5211696"
+    },
+    {
+      "lineId": "41",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "94f3e9f43a314db6980f5fa933c35165",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "94f3e9f43a314db6980f5fa933c35165"
+    },
+    {
+      "lineId": "42",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "95c76f20e5004df5a5bec2ef65ce248c",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "95c76f20e5004df5a5bec2ef65ce248c"
+    },
+    {
+      "lineId": "43",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "9af300f890e74e99a1c51c04c0dfd01e",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "9af300f890e74e99a1c51c04c0dfd01e"
+    },
+    {
+      "lineId": "44",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "9c143d7326ec49adaeb8fd9e891bbeab",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "9c143d7326ec49adaeb8fd9e891bbeab"
+    },
+    {
+      "lineId": "45",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "9e043a6dbe5545cfa59ac699fef54ac2",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "9e043a6dbe5545cfa59ac699fef54ac2"
+    },
+    {
+      "lineId": "46",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "a69e497c481e44e7af851019ddf9032a",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "a69e497c481e44e7af851019ddf9032a"
+    },
+    {
+      "lineId": "47",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "a96d7179c8c646e9a8d22d45fb484fa1",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "a96d7179c8c646e9a8d22d45fb484fa1"
+    },
+    {
+      "lineId": "48",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "ab080d244dfc48868cd7abdd0b1bedad",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "ab080d244dfc48868cd7abdd0b1bedad"
+    },
+    {
+      "lineId": "49",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "b0e709e0102e4a3aacfcae1aca146f51",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "b0e709e0102e4a3aacfcae1aca146f51"
+    },
+    {
+      "lineId": "50",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "b4731658b4d54204a151142341464b90",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "b4731658b4d54204a151142341464b90"
+    },
+    {
+      "lineId": "51",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "b64b013c606c4e25b2641d0efaab12f4",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "b64b013c606c4e25b2641d0efaab12f4"
+    },
+    {
+      "lineId": "52",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "b7c82eb9f5154c3098a7c8b87699b0c8",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "b7c82eb9f5154c3098a7c8b87699b0c8"
+    },
+    {
+      "lineId": "53",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "b8da2458c9fe47e5b66b948e511d51ad",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "b8da2458c9fe47e5b66b948e511d51ad"
+    },
+    {
+      "lineId": "54",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "bb63c5d7185f4352a2173aa44edc7f3d",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "bb63c5d7185f4352a2173aa44edc7f3d"
+    },
+    {
+      "lineId": "55",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "bbab8b2f6d3f4dc5aae337acd40eb023",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "bbab8b2f6d3f4dc5aae337acd40eb023"
+    },
+    {
+      "lineId": "56",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "bc0517d8d08d42cd84893f2a4302f7ca",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "bc0517d8d08d42cd84893f2a4302f7ca"
+    },
+    {
+      "lineId": "57",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "bdad8c8a725846698898e35e5db8ab5a",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "bdad8c8a725846698898e35e5db8ab5a"
+    },
+    {
+      "lineId": "58",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 1725,
+        "unitPrice": 1725,
+        "originalPrice": 1725,
+        "originalUnitPrice": 1725,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 275,
+        "vat": 275,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 1574,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 1574,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "be3b61686d044d86bf7fb5fa46284681",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 1450,
+          "rate": 19.0,
+          "amount": 275,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 275, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 1725, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 1725, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 1574, "currency": "USD" },
+        "basePayout": { "amount": 1574, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 1725, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "be3b61686d044d86bf7fb5fa46284681"
+    },
+    {
+      "lineId": "59",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "c3893b98643942139bce997724177675",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "c3893b98643942139bce997724177675"
+    },
+    {
+      "lineId": "60",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "cb101260ac6a489ab3be52eebcd685b3",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "cb101260ac6a489ab3be52eebcd685b3"
+    },
+    {
+      "lineId": "61",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "d392afbe4a8343f0bd49ca4f111f23c1",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "d392afbe4a8343f0bd49ca4f111f23c1"
+    },
+    {
+      "lineId": "62",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "d3fd27e3e1854443a333c7eac2279486",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "d3fd27e3e1854443a333c7eac2279486"
+    },
+    {
+      "lineId": "63",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "d6e3df963a1d4e1eb390febcebf67320",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "d6e3df963a1d4e1eb390febcebf67320"
+    },
+    {
+      "lineId": "64",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 3699,
+        "unitPrice": 3699,
+        "originalPrice": 3699,
+        "originalUnitPrice": 3699,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 591,
+        "vat": 591,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 3375,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 3375,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "d900ad5da7ec4eac86918bcfa0c3e698",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 3108,
+          "rate": 19.0,
+          "amount": 591,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 591, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 3699, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 3699, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 3375, "currency": "USD" },
+        "basePayout": { "amount": 3375, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 3699, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "d900ad5da7ec4eac86918bcfa0c3e698"
+    },
+    {
+      "lineId": "65",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "da40ec791c8e4c919f20999e5f5af348",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "da40ec791c8e4c919f20999e5f5af348"
+    },
+    {
+      "lineId": "66",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "e66799c68df14de891260dd1408123a9",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "e66799c68df14de891260dd1408123a9"
+    },
+    {
+      "lineId": "67",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "e99117ea349c4c399eb07182cf685d01",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "e99117ea349c4c399eb07182cf685d01"
+    },
+    {
+      "lineId": "68",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 449,
+        "unitPrice": 449,
+        "originalPrice": 449,
+        "originalUnitPrice": 449,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 72,
+        "vat": 72,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 409,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 409,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "eb3be953b32744d2acb91e5a223bf0af",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 377,
+          "rate": 19.0,
+          "amount": 72,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 72, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 449, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 449, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 409, "currency": "USD" },
+        "basePayout": { "amount": 409, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 449, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "eb3be953b32744d2acb91e5a223bf0af"
+    },
+    {
+      "lineId": "69",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "eca149dbc59142f689eada276f71661a",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "eca149dbc59142f689eada276f71661a"
+    },
+    {
+      "lineId": "70",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 899,
+        "unitPrice": 899,
+        "originalPrice": 899,
+        "originalUnitPrice": 899,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 143,
+        "vat": 143,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 821,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 821,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "ede05b3c97e9475a8d9be91da65750f0",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 756,
+          "rate": 19.0,
+          "amount": 143,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 143, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 899, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 899, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 821, "currency": "USD" },
+        "basePayout": { "amount": 821, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 899, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "ede05b3c97e9475a8d9be91da65750f0"
+    },
+    {
+      "lineId": "71",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "f50c37001abc43c592bf67416004e80a",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "f50c37001abc43c592bf67416004e80a"
+    },
+    {
+      "lineId": "72",
+      "quantity": 1,
+      "taxSkuId": "FN_Currency",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "f8c587fecab542fa9cd0841e31a69ca9",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "FN_Currency",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "fn",
+      "ref": "f8c587fecab542fa9cd0841e31a69ca9"
+    }
+  ],
+  "isB2bVatReverseCharge": true,
+  "vatEnabled": true,
+  "priceDetails": {
+    "promotions": [],
+    "tax": {
+      "status": "SUCCEEDED",
+      "taxable": 17494,
+      "rate": 19.0,
+      "amount": 3324,
+      "currency": "EUR",
+      "details": [
+        { "name": "VAT", "amount": 3324, "rate": 19.0, "currency": "EUR" }
+      ]
+    },
+    "taxSettings": {
+      "type": "VAT",
+      "included": true,
+      "enabled": true,
+      "b2bReverseCharge": true
+    },
+    "discountedPrice": { "amount": 20818, "currency": "EUR" },
+    "totalPriceWithoutFee": { "amount": 20818, "currency": "EUR" },
+    "revenueWithoutTax": { "amount": 18995, "currency": "USD" },
+    "basePayout": { "amount": 18995, "currency": "USD" },
+    "convenienceFee": { "amount": 0, "currency": "EUR" },
+    "paymentAmount": {
+      "amount": 20818,
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "currencyDecimal": 2
+    },
+    "exchangeRates": [
+      { "from": "EUR", "to": "USD", "rate": 1.0858353307837973 }
+    ],
+    "purchaseUsedCoupons": [],
+    "basePrice": { "amount": 20818, "currency": "EUR" }
+  }
+}

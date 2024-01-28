@@ -1,0 +1,22 @@
+{
+  "id": "r54hre45h4r5th48r5hrhr54h56rhr",
+  "displayName": "ApfelTeeSaft",
+  "name": "ApfelTeeSaft",
+  "email": "[hidden]@epicgames.dev",
+  "failedLoginAttempts": 0,
+  "lastLogin": "2020-01-01T00:00:00.000Z",
+  "numberOfDisplayNameChanges": 0,
+  "ageGroup": "UNKNOWN",
+  "headless": false,
+  "country": "US",
+  "lastName": "Server",
+  "preferredLanguage": "en",
+  "canUpdateDisplayName": false,
+  "tfaEnabled": false,
+  "emailVerified": true,
+  "minorVerified": false,
+  "minorExpected": false,
+  "minorStatus": "NOT_MINOR",
+  "cabinedMode": false,
+  "hasHashedEmail": false
+}

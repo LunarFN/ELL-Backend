@@ -1,0 +1,354 @@
+{
+  "accountId": "359976258f2a49959203df3a93c8bfd0",
+  "identityId": "359976258f2a49959203df3a93c8bfd0",
+  "namespace": "min",
+  "country": "DE",
+  "taxType": "VAT",
+  "taxCalculationStatus": "SUCCEEDED",
+  "totalPrice": {
+    "currencyCode": "EUR",
+    "discountPrice": 5848,
+    "originalPrice": 5848,
+    "discountPercentage": 100,
+    "discount": 0,
+    "voucherDiscount": 0,
+    "sellerVat": 934,
+    "vat": 934,
+    "vatRate": 0.19,
+    "convenienceFee": 0,
+    "basePayoutPrice": 5336,
+    "basePayoutCurrencyCode": "USD",
+    "revenueWithoutTax": 5336,
+    "revenueWithoutTaxCurrencyCode": "USD",
+    "payoutCurrencyExchangeRate": 1.0858353307837973
+  },
+  "totalPaymentPrice": {
+    "paymentCurrencyExchangeRate": 1.0,
+    "paymentCurrencyCode": "EUR",
+    "paymentCurrencySymbol": "€",
+    "paymentCurrencyAmount": 5848,
+    "paymentCurrencyDecimal": 2
+  },
+  "coupons": [],
+  "lineOffers": [
+    {
+      "lineId": "1",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "23f7f0b20b3147b1b1745c916d8e6e5a",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "min",
+      "ref": "23f7f0b20b3147b1b1745c916d8e6e5a"
+    },
+    {
+      "lineId": "2",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 2450,
+        "unitPrice": 2450,
+        "originalPrice": 2450,
+        "originalUnitPrice": 2450,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 391,
+        "vat": 391,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 2236,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 2236,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "2ae6edb2223c4f8c97e9839b5b6497bb",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 2059,
+          "rate": 19.0,
+          "amount": 391,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 391, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 2450, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 2450, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 2236, "currency": "USD" },
+        "basePayout": { "amount": 2236, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 2450, "currency": "EUR" }
+      },
+      "namespace": "min",
+      "ref": "2ae6edb2223c4f8c97e9839b5b6497bb"
+    },
+    {
+      "lineId": "3",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "55c8de4fde734f3ba2aeee1b8269b568",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "min",
+      "ref": "55c8de4fde734f3ba2aeee1b8269b568"
+    },
+    {
+      "lineId": "4",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "6238c19752ed4d73a52873a857829f8d",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "min",
+      "ref": "6238c19752ed4d73a52873a857829f8d"
+    },
+    {
+      "lineId": "5",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 2599,
+        "unitPrice": 2599,
+        "originalPrice": 2599,
+        "originalUnitPrice": 2599,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 415,
+        "vat": 415,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 2371,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 2371,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "9fe7a1f261d845b28c6d067b5fccc951",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 2184,
+          "rate": 19.0,
+          "amount": 415,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 415, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 2599, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 2599, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 2371, "currency": "USD" },
+        "basePayout": { "amount": 2371, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 2599, "currency": "EUR" }
+      },
+      "namespace": "min",
+      "ref": "9fe7a1f261d845b28c6d067b5fccc951"
+    },
+    {
+      "lineId": "6",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 799,
+        "unitPrice": 799,
+        "originalPrice": 799,
+        "originalUnitPrice": 799,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 128,
+        "vat": 128,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 729,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 729,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "e075a6106e284624a8aacdde3af3f886",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 671,
+          "rate": 19.0,
+          "amount": 128,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 128, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 799, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 799, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 729, "currency": "USD" },
+        "basePayout": { "amount": 729, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 799, "currency": "EUR" }
+      },
+      "namespace": "min",
+      "ref": "e075a6106e284624a8aacdde3af3f886"
+    }
+  ],
+  "isB2bVatReverseCharge": true,
+  "vatEnabled": true,
+  "priceDetails": {
+    "promotions": [],
+    "tax": {
+      "status": "SUCCEEDED",
+      "taxable": 4914,
+      "rate": 19.0,
+      "amount": 934,
+      "currency": "EUR",
+      "details": [
+        { "name": "VAT", "amount": 934, "rate": 19.0, "currency": "EUR" }
+      ]
+    },
+    "taxSettings": {
+      "type": "VAT",
+      "included": true,
+      "enabled": true,
+      "b2bReverseCharge": true
+    },
+    "discountedPrice": { "amount": 5848, "currency": "EUR" },
+    "totalPriceWithoutFee": { "amount": 5848, "currency": "EUR" },
+    "revenueWithoutTax": { "amount": 5336, "currency": "USD" },
+    "basePayout": { "amount": 5336, "currency": "USD" },
+    "convenienceFee": { "amount": 0, "currency": "EUR" },
+    "paymentAmount": {
+      "amount": 5848,
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "currencyDecimal": 2
+    },
+    "exchangeRates": [
+      { "from": "EUR", "to": "USD", "rate": 1.0858353307837973 }
+    ],
+    "purchaseUsedCoupons": [],
+    "basePrice": { "amount": 5848, "currency": "EUR" }
+  }
+}

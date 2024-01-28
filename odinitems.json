@@ -1,0 +1,316 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "26713f9b7f344046b3f3fe8fcc4d86f3",
+      "title": "Call_To_Action_03",
+      "description": "Join the Community on Robo Recall Modding Forums",
+      "technicalDetails": "https://forums.unrealengine.com/forumdisplay.php?86",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/odin/item/LauncherLink_NOTEXT (1)-576x324-20c1bbc578fb8e895eb0bd9a2b41d5e1.png",
+          "md5": "20c1bbc578fb8e895eb0bd9a2b41d5e1",
+          "width": 576,
+          "height": 324,
+          "size": 314047,
+          "uploadedDate": "2017-02-28T22:09:45.982Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-02-24T01:21:51.390Z",
+      "lastModifiedDate": "2017-03-16T08:33:37.028Z",
+      "entitlementName": "26713f9b7f344046b3f3fe8fcc4d86f3",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "25199186fbf0488f9e812e5d1e6169f1",
+      "title": "Call_To_Action_02",
+      "description": "Learn How To Make Your First Mod",
+      "technicalDetails": "https://docs.unrealengine.com/latest/INT/Modding/RoboRecall/QuickStart/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/odin/item/LauncherLink2-576x324-bc14b4a74d475cb6c2bdd2aaf3904002.png",
+          "md5": "bc14b4a74d475cb6c2bdd2aaf3904002",
+          "width": 576,
+          "height": 324,
+          "size": 430957,
+          "uploadedDate": "2017-02-28T22:05:16.714Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-02-24T01:19:40.126Z",
+      "lastModifiedDate": "2017-03-16T08:17:37.132Z",
+      "entitlementName": "25199186fbf0488f9e812e5d1e6169f1",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "620d6b8386334a69b879f4dd9de528e5",
+      "title": "Call_To_Action_01",
+      "description": "Get Robo Recall for Free on the Oculus Store",
+      "technicalDetails": "https://www.oculus.com/experiences/rift/1081190428622821/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/odin/item/LauncherLink1-576x324-07e508e37431c4df8f3ae8e4ca1116f9.png",
+          "md5": "07e508e37431c4df8f3ae8e4ca1116f9",
+          "width": 576,
+          "height": 324,
+          "size": 248605,
+          "uploadedDate": "2017-02-28T22:16:14.432Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-02-24T01:17:48.549Z",
+      "lastModifiedDate": "2017-03-16T08:32:01.776Z",
+      "entitlementName": "620d6b8386334a69b879f4dd9de528e5",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "aff99c6f39554f28abdac81921830cfe",
+      "title": "TestItem",
+      "description": "TestItem",
+      "keyImages": [],
+      "categories": [{ "path": "applications" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-02-22T15:59:47.709Z",
+      "lastModifiedDate": "2017-02-22T15:59:47.709Z",
+      "entitlementName": "aff99c6f39554f28abdac81921830cfe",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "131c4dd06bc54f35853a9f4eebba470d",
+      "title": "CreateCallToAction03",
+      "description": "Join the Community on Robo Recall Modding Forums",
+      "technicalDetails": "https://forums.unrealengine.com/forumdisplay.php?86",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/odin/item/LauncherLink_NOTEXT (1)-576x324-20c1bbc578fb8e895eb0bd9a2b41d5e1.png",
+          "md5": "20c1bbc578fb8e895eb0bd9a2b41d5e1",
+          "width": 576,
+          "height": 324,
+          "size": 314047,
+          "uploadedDate": "2017-02-28T22:08:20.887Z"
+        }
+      ],
+      "categories": [{ "path": "create" }, { "path": "create/calltoaction" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-16T19:56:09.412Z",
+      "lastModifiedDate": "2017-03-16T08:37:30.265Z",
+      "entitlementName": "131c4dd06bc54f35853a9f4eebba470d",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "e61acbbf95d94633946ce0001236eb61",
+      "title": "CreateCallToAction02",
+      "description": "Learn How To Make Your First Mod",
+      "technicalDetails": "https://docs.unrealengine.com/latest/INT/Modding/RoboRecall/QuickStart/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/odin/item/LauncherLink2-576x324-bc14b4a74d475cb6c2bdd2aaf3904002.png",
+          "md5": "bc14b4a74d475cb6c2bdd2aaf3904002",
+          "width": 576,
+          "height": 324,
+          "size": 430957,
+          "uploadedDate": "2017-02-28T22:04:06.420Z"
+        }
+      ],
+      "categories": [{ "path": "create" }, { "path": "create/calltoaction" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-16T19:55:27.976Z",
+      "lastModifiedDate": "2017-03-16T08:33:15.710Z",
+      "entitlementName": "e61acbbf95d94633946ce0001236eb61",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "988f13008c1a4bdd9689410c33eaa042",
+      "title": "CreateCallToAction01",
+      "description": "Get Robo Recall for Free on the Oculus Store",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/odin/item/Launcher_1-400x200-eafe7ce23cac5bd8f5d9dd21f3c72c02.png",
+          "md5": "eafe7ce23cac5bd8f5d9dd21f3c72c02",
+          "width": 400,
+          "height": 200,
+          "size": 139692,
+          "uploadedDate": "2017-01-27T19:38:01.989Z"
+        }
+      ],
+      "categories": [{ "path": "create" }, { "path": "create/calltoaction" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-16T19:54:48.356Z",
+      "lastModifiedDate": "2017-03-16T08:31:47.707Z",
+      "entitlementName": "988f13008c1a4bdd9689410c33eaa042",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "7ec9fdad2f3d4eba903a125ed6238c9c",
+      "title": "Robo Recall",
+      "description": "ROBO RECALL",
+      "longDescription": "Bring all-new experiences to Recallers everywhere with the Robo Recall Mod Kit. Build new RoboReady-approved products including over-the-top weapons for dispatching rogue robots! Or, change up the fight by adding your own opponents in need of recalling and creative decimation. Create and share new levels for others to explore, and build custom versions of the Robo Recall maps with your own gameplay. “Go get 'em, Champ!”",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/odin/item/LauncherBanner-1536x862-318c7879e7b974e3f60390cd02acaa7f.png",
+          "md5": "318c7879e7b974e3f60390cd02acaa7f",
+          "width": 1536,
+          "height": 862,
+          "size": 1773734,
+          "uploadedDate": "2017-02-28T22:14:54.306Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/odin/item/fb_rr-1920x1080-5f7d6bc442e88fa501f9279fd3c903c8-1920x1080-627c486c9cfad875b5c89cced93c8a3d.jpg",
+          "md5": "627c486c9cfad875b5c89cced93c8a3d",
+          "width": 1920,
+          "height": 1080,
+          "size": 207487,
+          "uploadedDate": "2019-11-20T16:29:21.067Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-16T19:54:04.236Z",
+      "lastModifiedDate": "2019-11-20T16:29:37.793Z",
+      "entitlementName": "7ec9fdad2f3d4eba903a125ed6238c9c",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "577992887048448fa933f9c645680d43",
+      "title": "Robo Recall Mod Kit",
+      "description": "Robo Recall Mod Kit",
+      "keyImages": [
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/odin/item/odinkeyart-2580x1450-9be887b951b69c0bcc2dd030baadd664.jpg",
+          "md5": "9be887b951b69c0bcc2dd030baadd664",
+          "width": 2580,
+          "height": 1450,
+          "size": 1227295,
+          "uploadedDate": "2018-11-29T15:16:13.912Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/odin/item/logo_RR_white-384x100-9c25ec0e5d809814699475d183cb08f7-384x100-9c25ec0e5d809814699475d183cb08f7.png",
+          "md5": "9c25ec0e5d809814699475d183cb08f7",
+          "width": 384,
+          "height": 100,
+          "size": 9846,
+          "uploadedDate": "2018-11-29T15:32:01.909Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/odin/item/Robo Recall 3_4-1280x1420-c0d7becec89cbbfc90d0d0e913471e7f.jpg",
+          "md5": "c0d7becec89cbbfc90d0d0e913471e7f",
+          "width": 1280,
+          "height": 1420,
+          "size": 215138,
+          "uploadedDate": "2018-12-06T23:09:34.400Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/odin/item/odinkeyart-2580x1450-9be887b951b69c0bcc2dd030baadd664-2580x1450-9be887b951b69c0bcc2dd030baadd664.jpg",
+          "md5": "9be887b951b69c0bcc2dd030baadd664",
+          "width": 2580,
+          "height": 1450,
+          "size": 1227295,
+          "uploadedDate": "2019-11-20T20:57:42.433Z"
+        }
+      ],
+      "categories": [{ "path": "engines" }, { "path": "applications" }],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-16T19:52:36.107Z",
+      "lastModifiedDate": "2022-04-05T14:14:33.700Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "AllowMultipleInstances": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "RoboRecallModKit" }
+      },
+      "entitlementName": "OdinEditor",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "afab51c3f01b4ab8b413f0dc801c338f",
+          "appId": "OdinEditor",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2017-01-16T00:00:00.000Z"
+        }
+      ],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": ["(odin && unreal_engine)"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 9 }
+}

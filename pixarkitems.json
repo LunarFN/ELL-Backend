@@ -1,0 +1,195 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "9490dd48752d408aad3108677c3b4158",
+      "title": "PixArk",
+      "description": "PixArk",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/pixark/item/pixarklogo-1474x1152-05711a730aff9fbf94b42ef162111664.png",
+          "md5": "05711a730aff9fbf94b42ef162111664",
+          "width": 1474,
+          "height": 1152,
+          "size": 38616,
+          "uploadedDate": "2018-11-15T18:44:04.786Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/pixark/item/pixarktile-516x290-d1652d229b096efdbd5422476fddd406-516x290-d1652d229b096efdbd5422476fddd406.jpg",
+          "md5": "d1652d229b096efdbd5422476fddd406",
+          "width": 516,
+          "height": 290,
+          "size": 98732,
+          "uploadedDate": "2018-12-06T20:32:56.937Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/pixark/item/header-460x215-928f1c6cc1bf7f03129dec5188ffdae6.jpg",
+          "md5": "928f1c6cc1bf7f03129dec5188ffdae6",
+          "width": 460,
+          "height": 215,
+          "size": 113829,
+          "uploadedDate": "2018-12-06T23:24:06.377Z"
+        }
+      ],
+      "categories": [{ "path": "engines" }, { "path": "applications" }],
+      "namespace": "pixark",
+      "status": "ACTIVE",
+      "creationDate": "2018-06-25T17:20:46.711Z",
+      "lastModifiedDate": "2022-04-05T14:15:03.580Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "AllowMultipleInstances": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "PixARK_ModKit" }
+      },
+      "entitlementName": "PixArk",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "3031857535484179b552016f348edaa9",
+          "appId": "PixArk",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-06-25T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Snail Games USA",
+      "developerId": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+      "eulaIds": ["(pixark && unreal_engine)"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    },
+    {
+      "id": "933d5ff8c00a457e84c5daae5897a887",
+      "title": "Call_To_Action_03",
+      "description": "PIXARK WIKI\nREAD MORE",
+      "technicalDetails": "https://pixark.gamepedia.com/Pixark_Wiki",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/pixark/item/PixARK(Resource)03-960x497-f2124ec5eebf64cc7e37955063d366a0.png",
+          "md5": "f2124ec5eebf64cc7e37955063d366a0",
+          "width": 960,
+          "height": 497,
+          "size": 1478606,
+          "uploadedDate": "2018-06-25T17:19:54.858Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "pixark",
+      "status": "ACTIVE",
+      "creationDate": "2018-06-25T17:19:58.283Z",
+      "lastModifiedDate": "2018-07-16T19:21:49.371Z",
+      "entitlementName": "933d5ff8c00a457e84c5daae5897a887",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "3d2bd0dfd3c442069c0d23024aac0f8c",
+      "title": "Call_To_Action_02",
+      "description": "FORUMS\nLEARN MORE",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/pixark/item/PixARK(Resource)02-960x497-a8c21ba40d2c4119981dc807fef63ac3.png",
+          "md5": "a8c21ba40d2c4119981dc807fef63ac3",
+          "width": 960,
+          "height": 497,
+          "size": 1478606,
+          "uploadedDate": "2018-06-25T17:19:06.085Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "pixark",
+      "status": "ACTIVE",
+      "creationDate": "2018-06-25T17:19:09.998Z",
+      "lastModifiedDate": "2018-07-16T19:21:49.371Z",
+      "entitlementName": "3d2bd0dfd3c442069c0d23024aac0f8c",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "1219a9877190449aa6b0d548b70c2180",
+      "title": "Call_To_Action_01",
+      "description": "PLAY PIXARK \nBUY NOW",
+      "technicalDetails": "https://store.steampowered.com/app/593600/PixARK/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/pixark/item/PixARK(Resource)01-960x497-b49d5a628e5974a38527a7469c9603ca.png",
+          "md5": "b49d5a628e5974a38527a7469c9603ca",
+          "width": 960,
+          "height": 497,
+          "size": 1478606,
+          "uploadedDate": "2018-06-25T17:17:49.739Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "pixark",
+      "status": "ACTIVE",
+      "creationDate": "2018-06-25T17:17:34.683Z",
+      "lastModifiedDate": "2018-07-16T19:21:49.371Z",
+      "entitlementName": "1219a9877190449aa6b0d548b70c2180",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "4ad1102552a44254969f10843c338eab",
+      "title": "PixArk",
+      "description": "PIXARK MOD KIT",
+      "longDescription": "Create your own voxel based world with the PixARK Dev Kit! Integrated with the Steam workshop for distribution, bring your modifications to life with our Dev Kit! PixARK is a mix of creature taming with elements of magic and firearms combat. We've also left some surprises in there for the ARK franchise enthusiast!",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/pixark/item/banner0627-1920x983-dc76913bb2be68e6e0d4cfc113ba146c.png",
+          "md5": "dc76913bb2be68e6e0d4cfc113ba146c",
+          "width": 1920,
+          "height": 983,
+          "size": 5711777,
+          "uploadedDate": "2018-06-27T18:52:41.934Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "pixark",
+      "status": "ACTIVE",
+      "creationDate": "2018-06-25T17:15:29.762Z",
+      "lastModifiedDate": "2018-07-16T19:21:49.371Z",
+      "entitlementName": "4ad1102552a44254969f10843c338eab",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 5 }
+}

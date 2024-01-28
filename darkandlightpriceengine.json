@@ -1,0 +1,99 @@
+{
+  "accountId": "359976258f2a49959203df3a93c8bfd0",
+  "identityId": "359976258f2a49959203df3a93c8bfd0",
+  "namespace": "darkandlight",
+  "country": "DE",
+  "taxType": "VAT",
+  "taxCalculationStatus": "NOT_APPLICABLE",
+  "totalPrice": {
+    "currencyCode": "EUR",
+    "discountPrice": 0,
+    "originalPrice": 0,
+    "discountPercentage": 0,
+    "discount": 0,
+    "voucherDiscount": 0,
+    "sellerVat": 0,
+    "vat": 0,
+    "vatRate": 0.19,
+    "convenienceFee": 0,
+    "basePayoutPrice": 0,
+    "basePayoutCurrencyCode": "USD",
+    "revenueWithoutTax": 0,
+    "revenueWithoutTaxCurrencyCode": "USD",
+    "payoutCurrencyExchangeRate": 1.0858353307837973
+  },
+  "totalPaymentPrice": {
+    "paymentCurrencyExchangeRate": 1.0,
+    "paymentCurrencyCode": "EUR",
+    "paymentCurrencySymbol": "€",
+    "paymentCurrencyAmount": 0,
+    "paymentCurrencyDecimal": 2
+  },
+  "coupons": [],
+  "lineOffers": [
+    {
+      "lineId": "1",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "74447ad08cc34e2e8ca18a2651abacae",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "darkandlight",
+      "ref": "74447ad08cc34e2e8ca18a2651abacae"
+    }
+  ],
+  "isB2bVatReverseCharge": true,
+  "vatEnabled": true,
+  "priceDetails": {
+    "promotions": [],
+    "taxSettings": {
+      "type": "VAT",
+      "included": true,
+      "enabled": true,
+      "b2bReverseCharge": true
+    },
+    "discountedPrice": { "amount": 0, "currency": "EUR" },
+    "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+    "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+    "basePayout": { "amount": 0, "currency": "USD" },
+    "convenienceFee": { "amount": 0, "currency": "EUR" },
+    "paymentAmount": {
+      "amount": 0,
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "currencyDecimal": 2
+    },
+    "exchangeRates": [
+      { "from": "EUR", "to": "USD", "rate": 1.0858353307837973 }
+    ],
+    "purchaseUsedCoupons": [],
+    "basePrice": { "amount": 0, "currency": "EUR" }
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "b2191ff80136437a83a391df333af5b0",
+      "title": "Conan Exiles Mod Dev Kit Test Live",
+      "description": "Conan Exiles Mod Dev Kit Test Live",
+      "keyImages": [
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/conan-860x500-bcbb170bb6bf85720e3aebcd8cc0b467.png",
+          "md5": "bcbb170bb6bf85720e3aebcd8cc0b467",
+          "width": 860,
+          "height": 500,
+          "size": 470119,
+          "uploadedDate": "2018-09-17T20:53:30.811Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/Conan_White-1114x302-833450058e1c6ebbf005f6aab50ae6ff.png",
+          "md5": "833450058e1c6ebbf005f6aab50ae6ff",
+          "width": 1114,
+          "height": 302,
+          "size": 44193,
+          "uploadedDate": "2018-11-15T18:04:47.522Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/conan_diesel-430x250-9495e4ef940b5667bc1ff1f13ab24301.png",
+          "md5": "9495e4ef940b5667bc1ff1f13ab24301",
+          "width": 430,
+          "height": 250,
+          "size": 172700,
+          "uploadedDate": "2018-12-06T23:08:53.965Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/conan-860x500-bcbb170bb6bf85720e3aebcd8cc0b467-860x500-bcbb170bb6bf85720e3aebcd8cc0b467.png",
+          "md5": "bcbb170bb6bf85720e3aebcd8cc0b467",
+          "width": 860,
+          "height": 500,
+          "size": 470119,
+          "uploadedDate": "2019-11-20T20:59:42.543Z"
+        }
+      ],
+      "categories": [{ "path": "engines" }, { "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-11-25T15:17:48.406Z",
+      "lastModifiedDate": "2022-08-26T20:20:31.038Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "AllowMultipleInstances": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "ConanExilesDevKitTest" }
+      },
+      "entitlementName": "b2191ff80136437a83a391df333af5b0",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "e8fb2cca33f149d683d98dcb0b9531a3",
+          "appId": "026fa05f995646f19eb950f2cb6e7b79",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2017-01-16T00:00:00.000Z"
+        }
+      ],
+      "developer": "Funcom Oslo AS",
+      "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+      "eulaIds": ["(conanexiles && unreal_engine)"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    },
+    {
+      "id": "633465661b4e4d45a38c5497f93d3769",
+      "title": "JacinthDev",
+      "description": "JacinthDev",
+      "keyImages": [],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-05-21T18:20:38.406Z",
+      "lastModifiedDate": "2023-06-22T17:00:40.229Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceId": { "type": "STRING", "value": "conanexiles" },
+        "MonitorPresence": { "type": "STRING", "value": "false" },
+        "UseAccessControl": { "type": "STRING", "value": "false" },
+        "RequirementsJson": { "type": "STRING", "value": "[]" },
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "JacinthDev" }
+      },
+      "entitlementName": "633465661b4e4d45a38c5497f93d3769",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "a68a5e874a4e47dcb6320741d7037d99",
+          "appId": "b10d1f967ceb4c04ba7c00dab55cb7f3",
+          "platform": ["Windows"],
+          "dateAdded": "2020-03-09T00:00:00.000Z"
+        }
+      ],
+      "developer": "Funcom Oslo AS",
+      "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+      "eulaIds": ["egstore"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    },
+    {
+      "id": "4af8823f2bed437283c5f9cb011f0fa2",
+      "title": "JacinthQA",
+      "description": "JacinthQA",
+      "keyImages": [],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-05-21T18:20:23.122Z",
+      "lastModifiedDate": "2023-06-22T17:00:40.221Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceId": { "type": "STRING", "value": "conanexiles" },
+        "MonitorPresence": { "type": "STRING", "value": "false" },
+        "UseAccessControl": { "type": "STRING", "value": "false" },
+        "RequirementsJson": { "type": "STRING", "value": "[]" },
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "JacinthQA" }
+      },
+      "entitlementName": "4af8823f2bed437283c5f9cb011f0fa2",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "7f1f3a9c7f804ddea1203d026f5d7a99",
+          "appId": "1c45c43710b240c4be8c5c7c9a00a448",
+          "platform": ["Windows"],
+          "dateAdded": "2020-03-09T00:00:00.000Z"
+        }
+      ],
+      "developer": "Funcom Oslo AS",
+      "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+      "eulaIds": ["egstore"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    },
+    {
+      "id": "07281377302343ad940e1d48af55801f",
+      "title": "Isle of Siptah Staging",
+      "description": "Isle of Siptah Staging",
+      "keyImages": [],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-05-21T18:03:38.178Z",
+      "lastModifiedDate": "2021-11-16T06:38:52.287Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceId": { "type": "STRING", "value": "conanexiles" },
+        "MonitorPresence": { "type": "STRING", "value": "false" },
+        "UseAccessControl": { "type": "STRING", "value": "false" },
+        "RequirementsJson": { "type": "STRING", "value": "[]" },
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "DLC 11 Staging" }
+      },
+      "entitlementName": "07281377302343ad940e1d48af55801f",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "79ffde84703d4c23aaeff72c722859fc",
+          "appId": "b1c3da44cfcb4fa083587cd08bf7d124",
+          "platform": ["Windows"],
+          "dateAdded": "2020-03-09T00:00:00.000Z"
+        }
+      ],
+      "developer": "Funcom Oslo AS",
+      "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "unsearchable": false
+    },
+    {
+      "id": "58f6418842a842bfb0a01ef135ae464a",
+      "title": "Conan Exiles - Dedicated Server",
+      "description": "Conan Exiles - Dedicated Server",
+      "keyImages": [
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/item/conanexiles/egs-conanexiles-funcom-s1-2560x1440-191437834_2560x1440-97a51d6c605471c9a7ee43cd068b0e93",
+          "md5": "97a51d6c605471c9a7ee43cd068b0e93",
+          "width": 2560,
+          "height": 1440,
+          "size": 356461,
+          "uploadedDate": "2021-11-18T05:29:06.892Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/item/conanexiles/egs-conanexiles-funcom-s2-1200x1600-191439762_1200x1600-f22d814f9871be4cd3d53cfe4917d1e2",
+          "md5": "f22d814f9871be4cd3d53cfe4917d1e2",
+          "width": 1200,
+          "height": 1600,
+          "size": 163157,
+          "uploadedDate": "2021-11-18T05:29:10.859Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-04-30T20:40:46.020Z",
+      "lastModifiedDate": "2021-11-23T07:40:30.501Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "ConanExilesServer" }
+      },
+      "entitlementName": "58f6418842a842bfb0a01ef135ae464a",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "7608baa6e61e47e49d2f111632e1c884",
+          "appId": "8efabb9c553b4a43a7ec95d452307429",
+          "platform": ["Windows"],
+          "dateAdded": "2020-03-09T00:00:00.000Z"
+        }
+      ],
+      "developer": "Funcom Oslo AS",
+      "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+      "eulaIds": ["egstore"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    },
+    {
+      "id": "b013aca6347d4e198a0494cd92301918",
+      "title": "DevJacinthAudience",
+      "description": "DevJacinthAudience",
+      "categories": [{ "path": "audience" }, { "path": "developer" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-09T19:51:59.370Z",
+      "lastModifiedDate": "2023-08-18T09:54:41.725Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows" }
+      },
+      "entitlementName": "b013aca6347d4e198a0494cd92301918",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "developer": "Funcom Oslo AS",
+      "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "b4fcc5199ab745799f960282446df09c",
+      "title": "Call_To_Action_02",
+      "description": "VISIT THE OFFICIAL WEBSITE\nLEARN MORE",
+      "technicalDetails": "www.conanexiles.com",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/image_2-400x200-6ee8b43b23ec2efc6bce2f457293e98b.png",
+          "md5": "6ee8b43b23ec2efc6bce2f457293e98b",
+          "width": 400,
+          "height": 200,
+          "size": 128377,
+          "uploadedDate": "2017-02-24T00:51:34.797Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2017-02-24T00:51:47.073Z",
+      "lastModifiedDate": "2020-06-25T14:28:27.423Z",
+      "entitlementName": "b4fcc5199ab745799f960282446df09c",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "433c308da17d4fc6a2e669302b9e5f4b",
+      "title": "CreateCallToAction02",
+      "description": "Visit the official website",
+      "technicalDetails": "www.conanexiles.com",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/image_2-400x200-6ee8b43b23ec2efc6bce2f457293e98b.png",
+          "md5": "6ee8b43b23ec2efc6bce2f457293e98b",
+          "width": 400,
+          "height": 200,
+          "size": 128377,
+          "uploadedDate": "2017-01-16T19:47:19.239Z"
+        }
+      ],
+      "categories": [{ "path": "create" }, { "path": "create/calltoaction" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-16T19:47:24.243Z",
+      "lastModifiedDate": "2020-06-25T14:28:27.423Z",
+      "entitlementName": "433c308da17d4fc6a2e669302b9e5f4b",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "d67ca3851cc444918cd4bf92bf7717bc",
+      "title": "MOD Conan Exiles Dev Kit",
+      "description": "MOD Conan Exiles Dev Kit",
+      "longDescription": "Download the custom Conan Exiles Unreal Editor and start making modifications! Do everything from changing aspects of gameplay to adding new monsters and items. Distribute your mods via Steam Workshop.",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/main_header-1400x400-dfbc8cbb9f2e311c455c9142ef236748.png",
+          "md5": "dfbc8cbb9f2e311c455c9142ef236748",
+          "width": 1400,
+          "height": 400,
+          "size": 714563,
+          "uploadedDate": "2017-01-16T19:44:09.017Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-16T19:44:22.717Z",
+      "lastModifiedDate": "2023-08-18T09:54:41.468Z",
+      "entitlementName": "d67ca3851cc444918cd4bf92bf7717bc",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Funcom Oslo AS",
+      "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "4b24951512584889ad1224b8efb49bb1",
+      "title": "Conan Exiles Dev Kit",
+      "description": "Conan Exiles Dev Kit",
+      "keyImages": [
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/conan-860x500-bcbb170bb6bf85720e3aebcd8cc0b467.png",
+          "md5": "bcbb170bb6bf85720e3aebcd8cc0b467",
+          "width": 860,
+          "height": 500,
+          "size": 470119,
+          "uploadedDate": "2018-09-17T20:53:30.811Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/Conan_White-1114x302-833450058e1c6ebbf005f6aab50ae6ff.png",
+          "md5": "833450058e1c6ebbf005f6aab50ae6ff",
+          "width": 1114,
+          "height": 302,
+          "size": 44193,
+          "uploadedDate": "2018-11-15T18:04:47.522Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/conan_diesel-430x250-9495e4ef940b5667bc1ff1f13ab24301.png",
+          "md5": "9495e4ef940b5667bc1ff1f13ab24301",
+          "width": 430,
+          "height": 250,
+          "size": 172700,
+          "uploadedDate": "2018-12-06T23:08:53.965Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/item/conan-860x500-bcbb170bb6bf85720e3aebcd8cc0b467-860x500-bcbb170bb6bf85720e3aebcd8cc0b467.png",
+          "md5": "bcbb170bb6bf85720e3aebcd8cc0b467",
+          "width": 860,
+          "height": 500,
+          "size": 470119,
+          "uploadedDate": "2019-11-20T20:59:42.543Z"
+        }
+      ],
+      "categories": [{ "path": "engines" }, { "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-16T19:41:54.055Z",
+      "lastModifiedDate": "2022-04-05T14:55:39.196Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "AllowMultipleInstances": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "ConanExilesDevKit" }
+      },
+      "entitlementName": "ConanExilesEditor",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "e8fb2cca33f149d683d98dcb0b9531a3",
+          "appId": "ConanExiles",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2017-01-16T00:00:00.000Z"
+        }
+      ],
+      "developer": "Funcom Oslo AS",
+      "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+      "eulaIds": ["(conanexiles && unreal_engine)"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 10 }
+}

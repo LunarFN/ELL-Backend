@@ -1,0 +1,227 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "940a1716edfa4df0b12b669726cdba82",
+      "title": "Bus 18 logo",
+      "description": "Logo",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/bussim18/item/Untitled-1-400x200-64ace846f18ca0f27354817b92e67020.png",
+          "md5": "64ace846f18ca0f27354817b92e67020",
+          "width": 400,
+          "height": 200,
+          "size": 33206,
+          "uploadedDate": "2018-05-17T20:29:53.678Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "bussim18",
+      "status": "ACTIVE",
+      "creationDate": "2018-05-17T20:18:35.970Z",
+      "lastModifiedDate": "2018-12-14T20:08:11.581Z",
+      "entitlementName": "940a1716edfa4df0b12b669726cdba82",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "c12bec93fccb4d4f8086556e777242bf",
+      "title": "Call_To_Action_03",
+      "description": "COMMUNITY OFFICIAL WEBSITE\nJOIN NOW",
+      "technicalDetails": "https://www.bussimulator-game.de/index-de.php",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/bussim18/item/bus4-600x337-ef6cd0a812f9e20bff348ad304c6ea81.png",
+          "md5": "ef6cd0a812f9e20bff348ad304c6ea81",
+          "width": 600,
+          "height": 337,
+          "size": 242273,
+          "uploadedDate": "2018-05-17T20:37:25.852Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "bussim18",
+      "status": "ACTIVE",
+      "creationDate": "2018-05-17T19:14:42.661Z",
+      "lastModifiedDate": "2018-12-14T20:08:11.581Z",
+      "entitlementName": "c12bec93fccb4d4f8086556e777242bf",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "090bfa1e6f3c4f18b81f59f5bcb72cac",
+      "title": "Call_To_Action_02",
+      "description": "BUS SIMULATOR 18 HOME PAGE\nLEARN MORE",
+      "technicalDetails": "https://www.astragon.de/en/games/bus-simulator-18/#/bilder-videos",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/bussim18/item/bus3-600x337-815c179b4f44957cb66067fb57fa0ab9.png",
+          "md5": "815c179b4f44957cb66067fb57fa0ab9",
+          "width": 600,
+          "height": 337,
+          "size": 304805,
+          "uploadedDate": "2018-05-17T20:36:57.298Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "bussim18",
+      "status": "ACTIVE",
+      "creationDate": "2018-05-17T19:14:03.559Z",
+      "lastModifiedDate": "2018-12-14T20:08:11.581Z",
+      "entitlementName": "090bfa1e6f3c4f18b81f59f5bcb72cac",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "b575f57b60e344d1af8fc65255df9863",
+      "title": "Call_To_Action_01",
+      "description": "PLAY BUS SIMULATOR 18\nBUY NOW",
+      "longDescription": "",
+      "technicalDetails": "https://store.steampowered.com/app/515180/Bus_Simulator_18/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/bussim18/item/bus2-600x337-db2519bcd647435aba03b318c5dcb519.png",
+          "md5": "db2519bcd647435aba03b318c5dcb519",
+          "width": 600,
+          "height": 337,
+          "size": 359524,
+          "uploadedDate": "2018-05-17T20:36:35.917Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "bussim18",
+      "status": "ACTIVE",
+      "creationDate": "2018-05-17T19:12:39.212Z",
+      "lastModifiedDate": "2018-12-14T20:08:11.581Z",
+      "entitlementName": "b575f57b60e344d1af8fc65255df9863",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "4e1744f6d5d142a29c45fb29cd49f7fd",
+      "title": "Bus Simulator 18 Editor",
+      "description": "BUS SIMULATOR 18 DEV KIT",
+      "longDescription": "With the extensive modding support of Bus Simulator 18 there are no limits: create routes, build your own buses, create bus liveries, design new maps and share them with the community, or download and install the modding content available from the Steam Workshop to enhance your game experience.",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/bussim18/item/bus1-600x337-56fe6e5166822eade97660bc59c5efce.png",
+          "md5": "56fe6e5166822eade97660bc59c5efce",
+          "width": 600,
+          "height": 337,
+          "size": 341128,
+          "uploadedDate": "2018-05-17T20:09:03.097Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "bussim18",
+      "status": "ACTIVE",
+      "creationDate": "2018-05-17T19:11:03.065Z",
+      "lastModifiedDate": "2018-12-14T20:08:11.581Z",
+      "entitlementName": "4e1744f6d5d142a29c45fb29cd49f7fd",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "3c3a1798ca0a4a5b933d764c3e519f0e",
+      "title": "Bus Simulator 18",
+      "description": "Bus Simulator 18",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/bussim18/item/BS18-Logo-2802x652-7a69079078d57e9b10e05dc26c6c85ff.png",
+          "md5": "7a69079078d57e9b10e05dc26c6c85ff",
+          "width": 2802,
+          "height": 652,
+          "size": 71382,
+          "uploadedDate": "2018-11-15T17:59:28.868Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/bussim18/item/bus1-600x337-56fe6e5166822eade97660bc59c5efce-600x337-56fe6e5166822eade97660bc59c5efce.png",
+          "md5": "56fe6e5166822eade97660bc59c5efce",
+          "width": 600,
+          "height": 337,
+          "size": 341128,
+          "uploadedDate": "2018-12-05T02:22:50.845Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/bussim18/item/bus1-600x337-56fe6e5166822eade97660bc59c5efce.png",
+          "md5": "56fe6e5166822eade97660bc59c5efce",
+          "width": 600,
+          "height": 337,
+          "size": 341128,
+          "uploadedDate": "2019-11-21T17:48:15.554Z"
+        }
+      ],
+      "categories": [{ "path": "engines" }, { "path": "applications" }],
+      "namespace": "bussim18",
+      "status": "ACTIVE",
+      "creationDate": "2018-05-17T19:05:27.776Z",
+      "lastModifiedDate": "2022-04-05T14:08:12.391Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "AllowMultipleInstances": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "BusSimulator18" }
+      },
+      "entitlementName": "BusSim18",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "aa7827e11e144cae87dae6875c1b4af6",
+          "appId": "BusSimulator18",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-06-04T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": ["(bussim18 && unreal_engine)"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 6 }
+}

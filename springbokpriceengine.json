@@ -1,0 +1,307 @@
+{
+  "accountId": "359976258f2a49959203df3a93c8bfd0",
+  "identityId": "359976258f2a49959203df3a93c8bfd0",
+  "namespace": "springbok",
+  "country": "DE",
+  "taxType": "VAT",
+  "taxCalculationStatus": "SUCCEEDED",
+  "totalPrice": {
+    "currencyCode": "EUR",
+    "discountPrice": 5997,
+    "originalPrice": 5997,
+    "discountPercentage": 100,
+    "discount": 0,
+    "voucherDiscount": 0,
+    "sellerVat": 958,
+    "vat": 958,
+    "vatRate": 0.19,
+    "convenienceFee": 0,
+    "basePayoutPrice": 5471,
+    "basePayoutCurrencyCode": "USD",
+    "revenueWithoutTax": 5471,
+    "revenueWithoutTaxCurrencyCode": "USD",
+    "payoutCurrencyExchangeRate": 1.0858353307837973
+  },
+  "totalPaymentPrice": {
+    "paymentCurrencyExchangeRate": 1.0,
+    "paymentCurrencyCode": "EUR",
+    "paymentCurrencySymbol": "€",
+    "paymentCurrencyAmount": 5997,
+    "paymentCurrencyDecimal": 2
+  },
+  "coupons": [],
+  "lineOffers": [
+    {
+      "lineId": "1",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 1299,
+        "unitPrice": 1299,
+        "originalPrice": 1299,
+        "originalUnitPrice": 1299,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 207,
+        "vat": 207,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 1186,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 1186,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "1079068ba1144d60967b171b446492b2",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 1092,
+          "rate": 19.0,
+          "amount": 207,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 207, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 1299, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 1299, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 1186, "currency": "USD" },
+        "basePayout": { "amount": 1186, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 1299, "currency": "EUR" }
+      },
+      "namespace": "springbok",
+      "ref": "1079068ba1144d60967b171b446492b2"
+    },
+    {
+      "lineId": "2",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "9136099a91ec47ebb5d1e5eae00cbe0a",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "springbok",
+      "ref": "9136099a91ec47ebb5d1e5eae00cbe0a"
+    },
+    {
+      "lineId": "3",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 3999,
+        "unitPrice": 3999,
+        "originalPrice": 3999,
+        "originalUnitPrice": 3999,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 638,
+        "vat": 638,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 3649,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 3649,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "95e743aa01c6410680916acb796246b5",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 3361,
+          "rate": 19.0,
+          "amount": 638,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 638, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 3999, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 3999, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 3649, "currency": "USD" },
+        "basePayout": { "amount": 3649, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 3999, "currency": "EUR" }
+      },
+      "namespace": "springbok",
+      "ref": "95e743aa01c6410680916acb796246b5"
+    },
+    {
+      "lineId": "4",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 0,
+        "unitPrice": 0,
+        "originalPrice": 0,
+        "originalUnitPrice": 0,
+        "discountPercentage": 0,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 0,
+        "vat": 0,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 0,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 0,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "9f466200def04ccb9670a54e81b1d550",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 0,
+          "rate": 19.0,
+          "amount": 0,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 0, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 0, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 0, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 0, "currency": "USD" },
+        "basePayout": { "amount": 0, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 0, "currency": "EUR" }
+      },
+      "namespace": "springbok",
+      "ref": "9f466200def04ccb9670a54e81b1d550"
+    },
+    {
+      "lineId": "5",
+      "quantity": 1,
+      "taxSkuId": "DS_Diesel",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 699,
+        "unitPrice": 699,
+        "originalPrice": 699,
+        "originalUnitPrice": 699,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 113,
+        "vat": 113,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 636,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 636,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "e2180aefb2b44aa0b290377b0fd5986b",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "DS_Diesel",
+          "taxable": 586,
+          "rate": 19.0,
+          "amount": 113,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 113, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 699, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 699, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 636, "currency": "USD" },
+        "basePayout": { "amount": 636, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 699, "currency": "EUR" }
+      },
+      "namespace": "springbok",
+      "ref": "e2180aefb2b44aa0b290377b0fd5986b"
+    }
+  ],
+  "isB2bVatReverseCharge": true,
+  "vatEnabled": true,
+  "priceDetails": {
+    "promotions": [],
+    "tax": {
+      "status": "SUCCEEDED",
+      "taxable": 5039,
+      "rate": 19.0,
+      "amount": 958,
+      "currency": "EUR",
+      "details": [
+        { "name": "VAT", "amount": 958, "rate": 19.0, "currency": "EUR" }
+      ]
+    },
+    "taxSettings": {
+      "type": "VAT",
+      "included": true,
+      "enabled": true,
+      "b2bReverseCharge": true
+    },
+    "discountedPrice": { "amount": 5997, "currency": "EUR" },
+    "totalPriceWithoutFee": { "amount": 5997, "currency": "EUR" },
+    "revenueWithoutTax": { "amount": 5471, "currency": "USD" },
+    "basePayout": { "amount": 5471, "currency": "USD" },
+    "convenienceFee": { "amount": 0, "currency": "EUR" },
+    "paymentAmount": {
+      "amount": 5997,
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "currencyDecimal": 2
+    },
+    "exchangeRates": [
+      { "from": "EUR", "to": "USD", "rate": 1.0858353307837973 }
+    ],
+    "purchaseUsedCoupons": [],
+    "basePrice": { "amount": 5997, "currency": "EUR" }
+  }
+}

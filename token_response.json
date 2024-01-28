@@ -1,0 +1,17 @@
+{
+  "access_token": "eg1~h1e35h4tr5h456r4h75r4h8r4h5r45h4r5",
+  "expires_in": 28800,
+  "expires_at": "2050-01-01T00:00:00.000Z",
+  "token_type": "bearer",
+  "refresh_token": "hjbehjiptjhioptrjhiojeroih",
+  "refresh_expires": 86400,
+  "refresh_expires_at": "2050-01-01T00:00:00.000Z",
+  "account_id": "r54hre45h4r5th48r5hrhr54h56rhr",
+  "client_id": "he454e5h48te77h48eh",
+  "internal_client": true,
+  "client_service": "prod-fn",
+  "displayName": "ApfelTeeSaft",
+  "app": "EpicPortal",
+  "in_app_id": "r54hre45h4r5th48r5hrhr54h56rhr",
+  "device_id": "he75h4et7hr52h"
+}

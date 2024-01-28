@@ -1,0 +1,119 @@
+{
+  "accountId": "359976258f2a49959203df3a93c8bfd0",
+  "identityId": "359976258f2a49959203df3a93c8bfd0",
+  "namespace": "vpr",
+  "country": "DE",
+  "taxType": "VAT",
+  "taxCalculationStatus": "SUCCEEDED",
+  "totalPrice": {
+    "currencyCode": "EUR",
+    "discountPrice": 1499,
+    "originalPrice": 1499,
+    "discountPercentage": 100,
+    "discount": 0,
+    "voucherDiscount": 0,
+    "sellerVat": 239,
+    "vat": 239,
+    "vatRate": 0.19,
+    "convenienceFee": 0,
+    "basePayoutPrice": 1368,
+    "basePayoutCurrencyCode": "USD",
+    "revenueWithoutTax": 1368,
+    "revenueWithoutTaxCurrencyCode": "USD",
+    "payoutCurrencyExchangeRate": 1.0858353307837973
+  },
+  "totalPaymentPrice": {
+    "paymentCurrencyExchangeRate": 1.0,
+    "paymentCurrencyCode": "EUR",
+    "paymentCurrencySymbol": "€",
+    "paymentCurrencyAmount": 1499,
+    "paymentCurrencyDecimal": 2
+  },
+  "coupons": [],
+  "lineOffers": [
+    {
+      "lineId": "1",
+      "quantity": 1,
+      "taxSkuId": "SC_Game",
+      "price": {
+        "currencyCode": "EUR",
+        "discountPrice": 1499,
+        "unitPrice": 1499,
+        "originalPrice": 1499,
+        "originalUnitPrice": 1499,
+        "discountPercentage": 100,
+        "discount": 0,
+        "voucherDiscount": 0,
+        "sellerVat": 239,
+        "vat": 239,
+        "vatRate": 0.19,
+        "convenienceFee": 0,
+        "basePayoutPrice": 1368,
+        "basePayoutCurrencyCode": "USD",
+        "revenueWithoutTax": 1368,
+        "revenueWithoutTaxCurrencyCode": "USD",
+        "payoutCurrencyExchangeRate": 1.0858353307837973
+      },
+      "offerId": "497cdc35842e458ca10a1edae95ae181",
+      "appliedRules": [],
+      "priceDetails": {
+        "promotions": [],
+        "tax": {
+          "taxCode": "SC_Game",
+          "taxable": 1260,
+          "rate": 19.0,
+          "amount": 239,
+          "currency": "EUR",
+          "details": [
+            { "name": "VAT", "amount": 239, "rate": 19.0, "currency": "EUR" }
+          ]
+        },
+        "discountedPrice": { "amount": 1499, "currency": "EUR" },
+        "totalPriceWithoutFee": { "amount": 1499, "currency": "EUR" },
+        "revenueWithoutTax": { "amount": 1368, "currency": "USD" },
+        "basePayout": { "amount": 1368, "currency": "USD" },
+        "convenienceFee": { "amount": 0, "currency": "EUR" },
+        "basePrice": { "amount": 1499, "currency": "EUR" }
+      },
+      "namespace": "vpr",
+      "ref": "497cdc35842e458ca10a1edae95ae181"
+    }
+  ],
+  "isB2bVatReverseCharge": true,
+  "vatEnabled": true,
+  "priceDetails": {
+    "promotions": [],
+    "tax": {
+      "status": "SUCCEEDED",
+      "taxable": 1260,
+      "rate": 19.0,
+      "amount": 239,
+      "currency": "EUR",
+      "details": [
+        { "name": "VAT", "amount": 239, "rate": 19.0, "currency": "EUR" }
+      ]
+    },
+    "taxSettings": {
+      "type": "VAT",
+      "included": true,
+      "enabled": true,
+      "b2bReverseCharge": true
+    },
+    "discountedPrice": { "amount": 1499, "currency": "EUR" },
+    "totalPriceWithoutFee": { "amount": 1499, "currency": "EUR" },
+    "revenueWithoutTax": { "amount": 1368, "currency": "USD" },
+    "basePayout": { "amount": 1368, "currency": "USD" },
+    "convenienceFee": { "amount": 0, "currency": "EUR" },
+    "paymentAmount": {
+      "amount": 1499,
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "currencyDecimal": 2
+    },
+    "exchangeRates": [
+      { "from": "EUR", "to": "USD", "rate": 1.0858353307837973 }
+    ],
+    "purchaseUsedCoupons": [],
+    "basePrice": { "amount": 1499, "currency": "EUR" }
+  }
+}
