@@ -1,0 +1,617 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "22b37f8659804243bc79f1f7b1ed0f80",
+      "title": "Call_To_Action_03",
+      "description": "WATCH OUR GAMEPLAY TRAILER\nVIEW NOW",
+      "technicalDetails": "https://www.youtube.com/watch?v=b6wGaDmIkQY",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/vpr_img2-1280x720-e78efd69ed8f074f52683404d888e9bf.png",
+          "md5": "e78efd69ed8f074f52683404d888e9bf",
+          "width": 1280,
+          "height": 720,
+          "size": 708445,
+          "uploadedDate": "2017-03-15T20:21:58.272Z"
+        }
+      ],
+      "categories": [{ "path": "layout" }],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2017-03-15T20:22:00.506Z",
+      "lastModifiedDate": "2017-06-26T19:23:55.319Z",
+      "entitlementName": "22b37f8659804243bc79f1f7b1ed0f80",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "c2a47306250e4d18b6008ae92140041a",
+      "title": "Call_To_Action_02",
+      "description": "SHADOW COMPLEX FORUMS\nREAD MORE",
+      "technicalDetails": "https://www.epicgames.com/shadowcomplex/forums/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/vpr_img3-1280x720-754cc4dff4d06f5b0a5f969ddc09b252.png",
+          "md5": "754cc4dff4d06f5b0a5f969ddc09b252",
+          "width": 1280,
+          "height": 720,
+          "size": 1087846,
+          "uploadedDate": "2017-03-15T20:26:16.806Z"
+        }
+      ],
+      "categories": [{ "path": "layout" }],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2017-03-15T20:19:41.468Z",
+      "lastModifiedDate": "2017-06-26T19:23:55.319Z",
+      "entitlementName": "c2a47306250e4d18b6008ae92140041a",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "ddc6b781937042779aabe9dd958f0a7e",
+      "title": "Call_To_Action_01",
+      "description": "SHADOW COMPLEX NEWS\nREAD MORE",
+      "technicalDetails": "https://www.epicgames.com/shadowcomplex/news",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/vpr_img1-1280x720-668881575c799929cf86d6c987898a6c.png",
+          "md5": "668881575c799929cf86d6c987898a6c",
+          "width": 1280,
+          "height": 720,
+          "size": 1604118,
+          "uploadedDate": "2017-03-15T20:29:00.152Z"
+        }
+      ],
+      "categories": [{ "path": "layout" }],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2017-03-15T20:19:15.177Z",
+      "lastModifiedDate": "2017-06-26T19:23:55.319Z",
+      "entitlementName": "ddc6b781937042779aabe9dd958f0a7e",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "d2d9fe0863344afcadefa47218edf0f0",
+      "title": "Play_Header",
+      "description": "SHADOW COMPLEX",
+      "longDescription": "Powered by Unreal Engine 3 and winner of 50+ Game of the Year and Editor's Choice Awards, Shadow Complex is back for more!\n\nShadow Complex Remastered features all the great gameplay from the award-winning classic, updated with exciting new enhancements and achievements to support its debut on PC, PlayStation 4, and Xbox One.",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/VPR_header-1920x694-1b78c63921a89f2252e3c76450333680.png",
+          "md5": "1b78c63921a89f2252e3c76450333680",
+          "width": 1920,
+          "height": 694,
+          "size": 1118659,
+          "uploadedDate": "2017-06-05T22:22:10.534Z"
+        }
+      ],
+      "categories": [{ "path": "layout" }],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2017-03-15T19:43:18.358Z",
+      "lastModifiedDate": "2017-12-04T22:06:33.858Z",
+      "entitlementName": "d2d9fe0863344afcadefa47218edf0f0",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "ae73e85580ff445db5374d210419b60a",
+      "title": "System Requirements",
+      "description": "System Requirements",
+      "longDescription": "",
+      "technicalDetails": "http://shadowcomplexhelp.epicgames.com/customer/en/portal/articles/2232464-what-are-the-system-requirements-for-shadow-complex-remastered-pc-mac-",
+      "keyImages": [],
+      "categories": [{ "path": "layout" }],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2017-03-15T19:32:53.612Z",
+      "lastModifiedDate": "2017-06-26T19:23:55.319Z",
+      "entitlementName": "ae73e85580ff445db5374d210419b60a",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "dcbe7decc3d44d549a5359229ce51e3d",
+      "title": "MAC Message of the Day",
+      "description": "Viper MOTD TEXT",
+      "longDescription": "Keep an eye on Shadow Complex.com for news.\n\nPowered by Unreal Engine 3 and winner of 50+ Game of the Year and Editor’s Choice Awards, Shadow Complex is back for more!\n\nShadow Complex Remastered features all the great gameplay from the award-winning classic, updated with exciting new enhancements and achievements to support its debut on PC, PlayStation 4, and Xbox One.\n\nFeatures:\n- Experience the pivotal modern platform adventure inspired by the classic side-scrolling genre.\n- Explore a huge, mysterious game world populated with legions of enemies, challenges, and jaw-dropping boss battles.\n- Discover unique game-altering power-ups and 100+ additional items and enhancements.\n- Complete all-new achievements and master challenges.\n- Journey through an exciting action-thriller story penned by renowned comic book writer Peter David.",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/comp-MOTD-mac-440x90-8f03dfce005d1ad449140bbb5e4b9036.png",
+          "md5": "8f03dfce005d1ad449140bbb5e4b9036",
+          "width": 440,
+          "height": 90,
+          "size": 4968,
+          "uploadedDate": "2015-12-10T00:19:11.749Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-12-09T20:18:28.904Z",
+      "lastModifiedDate": "2017-08-04T19:16:58.878Z",
+      "entitlementName": "dcbe7decc3d44d549a5359229ce51e3d",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "cc4033a1f8a949be881a007f35d7069d",
+      "title": "SmallLogo",
+      "description": "eom",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/StarLogosmall-400x432-c7d5a2b636c88020f9ab7aceff019aa0.png",
+          "md5": "c7d5a2b636c88020f9ab7aceff019aa0",
+          "width": 400,
+          "height": 432,
+          "size": 101568,
+          "uploadedDate": "2015-10-22T18:06:56.354Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:35:37.038Z",
+      "lastModifiedDate": "2017-08-04T19:17:07.295Z",
+      "entitlementName": "cc4033a1f8a949be881a007f35d7069d",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "389fe54b263540d6a8ae1cce7e52be78",
+      "title": "Message of the Day",
+      "description": "Viper MOTD TEXT",
+      "longDescription": "Powered by Unreal Engine 3 and winner of 50+ Game of the Year and Editor’s Choice Awards, Shadow Complex is back for more!\n\nShadow Complex Remastered features all the great gameplay from the award-winning classic, updated with exciting new enhancements and achievements to support its debut on PC, PlayStation 4, and Xbox One.\n\nFeatures:\n- Experience the pivotal modern platform adventure inspired by the classic side-scrolling genre.\n- Explore a huge, mysterious game world populated with legions of enemies, challenges, and jaw-dropping boss battles.\n- Discover unique game-altering power-ups and 100+ additional items and enhancements.\n- Complete all-new achievements and master challenges.\n- Journey through an exciting action-thriller story penned by renowned comic book writer Peter David.\n\nPC Minimum Requirements:\n- OS: Windows 7 and up\n- CPU: Intel Core 2 Duo/AMD Athlon 2x2\n- System RAM: 2GB\n- Video Card: Nvidia Geforce 7800 (512mb)/AMD Radeon HD 4600 (512MB)/Intel HD 4000\n- DirectX 9.0c\n \nPC Recommended:\n- CPU: Intel i5/AMD A4\n- System RAM: 4GB\n- Video Card: Nvidia GT 540 1GB/AMD 5550 1GB\n- DirectX 11\n\nMac Minimum Requirements:\n- OS: OSX 10.10.5 (Yosemite)\n- CPU: Dual-Core Processor, min 2.5 GHZ\n- System RAM: 4GB\n- Video Card: GTX 670M (1GB)\n\nMac Recommended:\n- OS: OSX 10.11 (El Capitan)\n- CPU: Quad-Core Processor, ~2 GHZ\n- System RAM: 8GB\n- Video Card: GTX 750M (2GB)",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/comp-MOTD-03-notfree-440x90-a689034a946d547b2521895705c0aac3.png",
+          "md5": "a689034a946d547b2521895705c0aac3",
+          "width": 440,
+          "height": 90,
+          "size": 6338,
+          "uploadedDate": "2016-01-05T23:47:41.609Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:25:33.475Z",
+      "lastModifiedDate": "2016-08-04T03:01:49.259Z",
+      "entitlementName": "389fe54b263540d6a8ae1cce7e52be78",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "3422318af5bb403e8177ee25eae622c0",
+      "title": "Blurb_2",
+      "description": "TWITTER",
+      "technicalDetails": "https://twitter.com/shadowcomplex",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/small-tile_b-355x190-355x190-e5c93acf4b6a635695b14d0dbf0b0382.png",
+          "md5": "e5c93acf4b6a635695b14d0dbf0b0382",
+          "width": 355,
+          "height": 190,
+          "size": 37011,
+          "uploadedDate": "2016-09-30T20:46:30.095Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:12:10.659Z",
+      "lastModifiedDate": "2016-09-30T20:46:35.588Z",
+      "entitlementName": "3422318af5bb403e8177ee25eae622c0",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "00e8c9c36ed24c9cb7c06db1b8494a7b",
+      "title": "Carousel_2",
+      "description": "Join the Live Stream - Every Wednesday at 4pm EST",
+      "technicalDetails": "http://www.twitch.tv/shadowcomplex",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/carousel-news_02-1000x290-1000x290-6205a541a8842dc50274b2a0f8c9a0b5.png",
+          "md5": "6205a541a8842dc50274b2a0f8c9a0b5",
+          "width": 1000,
+          "height": 290,
+          "size": 158042,
+          "uploadedDate": "2016-09-30T20:59:34.095Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:09:44.109Z",
+      "lastModifiedDate": "2016-09-30T20:59:40.105Z",
+      "entitlementName": "00e8c9c36ed24c9cb7c06db1b8494a7b",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "8820dc155ad5472ab8e113728da1ac7c",
+      "title": "Carousel_3",
+      "description": "Join Our Weekly Challenge and Prove Your Skill",
+      "technicalDetails": "https://www.epicgames.com/shadowcomplex/news/weekly-challenges",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/carousel-news_03-1000x290-1000x290-b17c6c7c601c7dc844b23ae9d771f660.png",
+          "md5": "b17c6c7c601c7dc844b23ae9d771f660",
+          "width": 1000,
+          "height": 290,
+          "size": 95791,
+          "uploadedDate": "2016-09-30T21:00:02.338Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:09:38.609Z",
+      "lastModifiedDate": "2016-09-30T21:00:08.555Z",
+      "entitlementName": "8820dc155ad5472ab8e113728da1ac7c",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "057aaec61a424318a323bc1026673eb0",
+      "title": "Blurb_1",
+      "description": "FORUMS",
+      "technicalDetails": "https://www.epicgames.com/shadowcomplex/forums/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/small-tile_a-355x190-355x190-cbeb535d23afff32ca9303c80856dc81.png",
+          "md5": "cbeb535d23afff32ca9303c80856dc81",
+          "width": 355,
+          "height": 190,
+          "size": 48689,
+          "uploadedDate": "2016-09-30T20:45:45.542Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:08:07.417Z",
+      "lastModifiedDate": "2016-09-30T20:46:09.942Z",
+      "entitlementName": "057aaec61a424318a323bc1026673eb0",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "d7b1a4c9225048ceba41cae5a67e6482",
+      "title": "Carousel_1",
+      "description": "Visit ShadowComplex.com",
+      "technicalDetails": "http://www.shadowcomplex.com",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/carousel-news_01-1000x290-1000x290-377bc98dcb1e72e2a7aa1a49f467e415.png",
+          "md5": "377bc98dcb1e72e2a7aa1a49f467e415",
+          "width": 1000,
+          "height": 290,
+          "size": 152516,
+          "uploadedDate": "2016-09-30T20:47:30.472Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:07:03.884Z",
+      "lastModifiedDate": "2016-09-30T20:47:36.102Z",
+      "entitlementName": "d7b1a4c9225048ceba41cae5a67e6482",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "f2a344e4bbf84299b9268f09050c9408",
+      "title": "CharacterRender_01",
+      "description": "eom",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/carousel-character-01-500x700-33a84c087b27a15979fd94e47f371ab2.png",
+          "md5": "33a84c087b27a15979fd94e47f371ab2",
+          "width": 500,
+          "height": 700,
+          "size": 223950,
+          "uploadedDate": "2015-10-19T20:51:38.431Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:05:40.847Z",
+      "lastModifiedDate": "2017-08-04T19:17:29.356Z",
+      "entitlementName": "f2a344e4bbf84299b9268f09050c9408",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "d9763b78216c4510a21a9ee3501bc1ab",
+      "title": "CharacterRender_03",
+      "description": "eom",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/carousel-character-03-500x700-33dd535ed717719ddc2cd116d8b975dc.png",
+          "md5": "33dd535ed717719ddc2cd116d8b975dc",
+          "width": 500,
+          "height": 700,
+          "size": 227711,
+          "uploadedDate": "2015-10-19T20:52:30.768Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:03:47.375Z",
+      "lastModifiedDate": "2015-12-04T02:41:02.356Z",
+      "entitlementName": "d9763b78216c4510a21a9ee3501bc1ab",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "4f5ebf9564d340659116339501d5a9b7",
+      "title": "CharacterRender_02",
+      "description": "eom",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/vpr/item/carousel-character-02-500x700-69fc2efe6210cc355c37128c4cb1d97b.png",
+          "md5": "69fc2efe6210cc355c37128c4cb1d97b",
+          "width": 500,
+          "height": 700,
+          "size": 255676,
+          "uploadedDate": "2015-10-19T20:52:05.381Z"
+        }
+      ],
+      "categories": [
+        { "path": "applications/prod" },
+        { "path": "applications/prod/content" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-10-19T18:03:40.221Z",
+      "lastModifiedDate": "2017-08-04T19:15:45.378Z",
+      "entitlementName": "4f5ebf9564d340659116339501d5a9b7",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "afa04be9e4e5416c8641cc0398889220",
+      "title": "Shadow Complex Remastered",
+      "description": "Shadow Complex Remastered",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/vpr/item/StarLogosmall-short-400x430-825bf96a0909d12f61b05df735fc4b91.png",
+          "md5": "825bf96a0909d12f61b05df735fc4b91",
+          "width": 400,
+          "height": 430,
+          "size": 77143,
+          "uploadedDate": "2016-01-07T20:22:54.284Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/vpr/item/shadown_logo-548x552-907ea59706669232c47ceb46ac71956b.png",
+          "md5": "907ea59706669232c47ceb46ac71956b",
+          "width": 548,
+          "height": 552,
+          "size": 300933,
+          "uploadedDate": "2018-10-10T14:03:53.813Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/vpr/item/SC-1600x1000-9105f267a12d219772b5b9f6a20949f9.png",
+          "md5": "9105f267a12d219772b5b9f6a20949f9",
+          "width": 1600,
+          "height": 1000,
+          "size": 1570520,
+          "uploadedDate": "2018-10-10T14:18:55.204Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/vpr/item/tall-1288x1450-784edc73d4f0d6b1fb992b9dcbd64c83.jpg",
+          "md5": "784edc73d4f0d6b1fb992b9dcbd64c83",
+          "width": 1288,
+          "height": 1450,
+          "size": 587672,
+          "uploadedDate": "2018-11-29T00:25:25.986Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/vpr/item/vprwide-2580x1450-cd162e962cf30240f8ae6521c91f1aa5.jpg",
+          "md5": "cd162e962cf30240f8ae6521c91f1aa5",
+          "width": 2580,
+          "height": 1450,
+          "size": 1689635,
+          "uploadedDate": "2018-11-29T00:25:35.905Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/vpr/item/EpicStore_Medium_NoLogo_1288x1450-1288x1450-784edc73d4f0d6b1fb992b9dcbd64c83-1288x1450-c2a14a218ef6167440f9e0b57c88269a-1288x1450-c2a14a218ef6167440f9e0b57c88269a.jpg",
+          "md5": "c2a14a218ef6167440f9e0b57c88269a",
+          "width": 1288,
+          "height": 1450,
+          "size": 93429,
+          "uploadedDate": "2019-11-20T20:54:46.080Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-07-30T18:05:49.489Z",
+      "lastModifiedDate": "2021-08-25T13:55:17.449Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "CloudSaveFolder_MAC": {
+          "type": "STRING",
+          "value": "{UserLibrary}/Application Support/My Games/Shadow Complex/{EpicID}/"
+        },
+        "CloudSaveFolder": {
+          "type": "STRING",
+          "value": "{UserDir}/My Games/Shadow Complex/{EpicID}/"
+        },
+        "NotarizedAndSigned": { "type": "STRING", "value": "true" },
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "ShadowComplexRemastered" }
+      },
+      "entitlementName": "afa04be9e4e5416c8641cc0398889220",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "0228efb4864840cbb0392173dff85812",
+          "appId": "Viper",
+          "compatibleApps": [],
+          "platform": ["Windows", "Mac", "Win32"],
+          "dateAdded": "2015-07-29T00:00:00.000Z"
+        }
+      ],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": ["vpr"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 17 }
+}

@@ -1,0 +1,497 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "5cd953a3341b43b791fcee6739b7e665",
+      "title": "Hades Test Branch",
+      "description": "Hades Test Branch",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/min/item/Hades_Portrait_01_Title-1200x1600-eb267156efded262edf78ec01a3f4ad5.png",
+          "md5": "eb267156efded262edf78ec01a3f4ad5",
+          "width": 1200,
+          "height": 1600,
+          "size": 93776,
+          "uploadedDate": "2020-10-01T18:30:11.262Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/min/item/Hades_Portrait_01_Title_1920x1080-1920x1080-60675ab8452538e7e29e4c82e508dd5d.png",
+          "md5": "60675ab8452538e7e29e4c82e508dd5d",
+          "width": 1920,
+          "height": 1080,
+          "size": 97135,
+          "uploadedDate": "2020-10-01T22:00:36.725Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2020-06-09T19:17:19.629Z",
+      "lastModifiedDate": "2020-10-01T22:01:03.256Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceId": { "type": "STRING", "value": "min" },
+        "MonitorPresence": { "type": "STRING", "value": "true" },
+        "com.epicgames.app.whitelist": { "type": "STRING", "value": "US" },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "{\"Requirements\": {\"DirectX\": {\"FeatureLevels\": \"D3D_FEATURE_LEVEL_11_0\"}}}"
+        },
+        "FolderName": { "type": "STRING", "value": "HadesTechBeta" }
+      },
+      "entitlementName": "5cd953a3341b43b791fcee6739b7e665",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "e4bcca5128c348a1bc5f79fe87e5828d",
+          "appId": "3b586acd98e146ee9a92549c158d870f",
+          "compatibleApps": [],
+          "platform": ["Windows", "Mac", "Win32"],
+          "dateAdded": "2018-11-28T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "unsearchable": false
+    },
+    {
+      "id": "d6c3519c087c4a5e92e7ab3fee2dd4f5",
+      "title": "HadesGeneralAudienceNew",
+      "description": "HadesGeneralAudienceNew",
+      "keyImages": [
+        {
+          "type": "ESRB",
+          "url": "https://cdn1.epicgames.com/min/item/HadesESRB-200x103-5f4d6b58b155dbed4ac0f1d97f2d7a57.png",
+          "md5": "5f4d6b58b155dbed4ac0f1d97f2d7a57",
+          "width": 200,
+          "height": 103,
+          "size": 6165,
+          "uploadedDate": "2021-03-17T23:22:42.465Z"
+        }
+      ],
+      "categories": [{ "path": "audience" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2019-12-09T14:02:11.538Z",
+      "lastModifiedDate": "2020-09-17T15:57:22.050Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows,Win32,Mac" }
+      },
+      "entitlementName": "d6c3519c087c4a5e92e7ab3fee2dd4f5",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "esrbGameRatingValue": "TEEN",
+      "ageGatings": {},
+      "unsearchable": false
+    },
+    {
+      "id": "b8027699678a42ca8d72ac18d9da3834",
+      "title": "MinSoundtrackAudience",
+      "description": "MinSoundtrackAudience",
+      "keyImages": [
+        {
+          "type": "ESRB",
+          "url": "https://cdn1.epicgames.com/min/item/HadesESRB-200x103-5f4d6b58b155dbed4ac0f1d97f2d7a57.png",
+          "md5": "5f4d6b58b155dbed4ac0f1d97f2d7a57",
+          "width": 200,
+          "height": 103,
+          "size": 6165,
+          "uploadedDate": "2021-03-17T23:24:58.770Z"
+        }
+      ],
+      "categories": [{ "path": "audience" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2019-11-14T22:50:37.916Z",
+      "lastModifiedDate": "2020-09-17T14:59:12.610Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows,Win32,Mac" }
+      },
+      "entitlementName": "b8027699678a42ca8d72ac18d9da3834",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "esrbGameRatingValue": "TEEN",
+      "ageGatings": {},
+      "unsearchable": false
+    },
+    {
+      "id": "6f2e26e7cb2a4dbb894f1fa8d8fe9c4c",
+      "title": "Hades Soundtrack",
+      "description": "Hades Soundtrack",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/min/item/C57GViYA-510x680-f59c1f22e4f53fcab5800fca938dbb81.png",
+          "md5": "f59c1f22e4f53fcab5800fca938dbb81",
+          "width": 510,
+          "height": 680,
+          "size": 563033,
+          "uploadedDate": "2019-12-09T15:26:03.983Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/min/item/C57GViYA-510x680-f59c1f22e4f53fcab5800fca938dbb81-510x680-f59c1f22e4f53fcab5800fca938dbb81.png",
+          "md5": "f59c1f22e4f53fcab5800fca938dbb81",
+          "width": 510,
+          "height": 680,
+          "size": 563033,
+          "uploadedDate": "2020-01-06T17:56:57.634Z"
+        }
+      ],
+      "categories": [{ "path": "digitalextras" }, { "path": "applications" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2019-11-14T22:50:14.736Z",
+      "lastModifiedDate": "2021-08-12T14:06:37.807Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceId": { "type": "STRING", "value": "min" },
+        "MonitorPresence": { "type": "STRING", "value": "true" },
+        "UseAccessControl": { "type": "STRING", "value": "false" },
+        "RequirementsJson": { "type": "STRING", "value": "[]" },
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "HadesSoundtrack" }
+      },
+      "entitlementName": "6f2e26e7cb2a4dbb894f1fa8d8fe9c4c",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "06be0984e9194f2294c7532dbe626849",
+          "appId": "MinSoundtrack",
+          "compatibleApps": [],
+          "platform": ["Windows", "Mac", "Win32"],
+          "dateAdded": "2019-11-14T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": ["egstore"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    },
+    {
+      "id": "6ba9887aeb3042cab8f4e237b4475636",
+      "title": "MinDebugAudience",
+      "description": "MinDebugAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2019-01-29T21:37:08.134Z",
+      "lastModifiedDate": "2020-09-17T14:59:12.609Z",
+      "entitlementName": "6ba9887aeb3042cab8f4e237b4475636",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "20f0a878f9764fdd81ba621684b2c0fc",
+      "title": "MinDebug",
+      "description": "MinDebug",
+      "longDescription": "MinDebug",
+      "keyImages": [
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/min/item/Hades_Post_BigBad-2580x1450-2e83205956fb71112a6cdeaa937fded2.jpg",
+          "md5": "2e83205956fb71112a6cdeaa937fded2",
+          "width": 2580,
+          "height": 1450,
+          "size": 240642,
+          "uploadedDate": "2019-08-02T20:40:01.265Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/min/item/Hades_Logo_EA_Update_BigBad-2650x1166-a48ab94b04d9fff1480a9f2bede3f21d.png",
+          "md5": "a48ab94b04d9fff1480a9f2bede3f21d",
+          "width": 2650,
+          "height": 1166,
+          "size": 115405,
+          "uploadedDate": "2019-08-02T20:40:10.409Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2019-01-02T14:55:47.781Z",
+      "lastModifiedDate": "2020-09-17T16:52:24.839Z",
+      "customAttributes": {
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "MinDebug" }
+      },
+      "entitlementName": "20f0a878f9764fdd81ba621684b2c0fc",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "ebe0866219fb405b943ee27083e8a080",
+          "appId": "MinDebug",
+          "compatibleApps": [],
+          "platform": ["Windows", "Mac", "Win32"],
+          "dateAdded": "2019-01-02T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "unsearchable": false
+    },
+    {
+      "id": "eb15fe291855406bbc6b7d5756323c6d",
+      "title": "MinDevAudience",
+      "description": "MinDevAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-12T16:23:06.479Z",
+      "lastModifiedDate": "2020-09-17T14:59:12.610Z",
+      "entitlementName": "eb15fe291855406bbc6b7d5756323c6d",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "337e72d75262415fa7f8e71befc73b2c",
+      "title": "Min",
+      "description": "Hades",
+      "longDescription": "Defy the god of death as you hack and slash your way out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion and Transistor.\n\nPlay In Early Access: This is a living game in active development! Expect regular updates with new features, events, characters, places, powers, and more.",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/min/item/Hades_SecondaryPromo_01-(1)-2580x1450-2580x1450-a88a60789a43f57553ccb84573cbcd88-2580x1450-a88a60789a43f57553ccb84573cbcd88.png",
+          "md5": "a88a60789a43f57553ccb84573cbcd88",
+          "width": 2580,
+          "height": 1450,
+          "size": 957075,
+          "uploadedDate": "2018-12-06T19:47:50.030Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-06T19:47:55.242Z",
+      "lastModifiedDate": "2020-09-17T14:57:56.923Z",
+      "entitlementName": "337e72d75262415fa7f8e71befc73b2c",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "3f6a236b41a649a99b4f35cbe44b556c",
+      "title": "HadesGeneralAudience",
+      "description": "HadesGeneralAudience",
+      "keyImages": [
+        {
+          "type": "ESRB",
+          "url": "https://cdn1.epicgames.com/min/item/HadesESRB-200x103-5f4d6b58b155dbed4ac0f1d97f2d7a57.png",
+          "md5": "5f4d6b58b155dbed4ac0f1d97f2d7a57",
+          "width": 200,
+          "height": 103,
+          "size": 6165,
+          "uploadedDate": "2021-03-17T23:23:15.489Z"
+        }
+      ],
+      "categories": [{ "path": "audience" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-04T00:53:24.490Z",
+      "lastModifiedDate": "2020-09-17T15:57:50.900Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows,Win32,Mac" }
+      },
+      "entitlementName": "3f6a236b41a649a99b4f35cbe44b556c",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "esrbGameRatingValue": "TEEN",
+      "ageGatings": {},
+      "unsearchable": false
+    },
+    {
+      "id": "5e12a24365634025bcfe8fcb6f87d940",
+      "title": "MinNightly",
+      "description": "MinNightly",
+      "longDescription": "MinNightly",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/min/item/Hades_Logo_EA_Update_BigBad-2650x1166-a48ab94b04d9fff1480a9f2bede3f21d.png",
+          "md5": "a48ab94b04d9fff1480a9f2bede3f21d",
+          "width": 2650,
+          "height": 1166,
+          "size": 115405,
+          "uploadedDate": "2019-08-02T20:39:20.036Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/min/item/Hades_PrimaryPromo_BigBad-2580x1450-69357744f34b20b23105213a772353db.jpg",
+          "md5": "69357744f34b20b23105213a772353db",
+          "width": 2580,
+          "height": 1450,
+          "size": 264223,
+          "uploadedDate": "2019-08-02T20:39:26.899Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-15T19:01:43.635Z",
+      "lastModifiedDate": "2020-11-20T12:09:28.958Z",
+      "customAttributes": {
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" }
+      },
+      "entitlementName": "minnightly",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "e9125be2b52545a9b539b1cbf7743ba9",
+          "appId": "MinNightly",
+          "compatibleApps": [],
+          "platform": ["Windows", "Mac", "Win32"],
+          "dateAdded": "2018-11-15T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "unsearchable": false
+    },
+    {
+      "id": "6fc1c5ede3d24032a40d9f0480b8e0a1",
+      "title": "Min Header",
+      "description": "Min",
+      "longDescription": "Min",
+      "keyImages": [],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2018-09-26T20:25:21.571Z",
+      "lastModifiedDate": "2020-09-17T14:57:56.924Z",
+      "entitlementName": "6fc1c5ede3d24032a40d9f0480b8e0a1",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "fb39bac8278a4126989f0fe12e7353af",
+      "title": "Hades",
+      "description": "Hades",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/min/item/1200x1600-1200x1600-e92fa6b99bb20c9edee19c361b8853b9.jpg",
+          "md5": "e92fa6b99bb20c9edee19c361b8853b9",
+          "width": 1200,
+          "height": 1600,
+          "size": 1012660,
+          "uploadedDate": "2020-09-29T17:48:39.013Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/min/item/2560x1440-2560x1440-5e710b93049cbd2125cf0261dcfbf943.jpg",
+          "md5": "5e710b93049cbd2125cf0261dcfbf943",
+          "width": 2560,
+          "height": 1440,
+          "size": 1001590,
+          "uploadedDate": "2020-09-29T17:48:49.473Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "min",
+      "status": "ACTIVE",
+      "creationDate": "2018-09-26T20:24:34.338Z",
+      "lastModifiedDate": "2020-09-29T17:48:54.414Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceId": { "type": "STRING", "value": "min" },
+        "MonitorPresence": { "type": "STRING", "value": "true" },
+        "UseAccessControl": { "type": "STRING", "value": "false" },
+        "com.epicgames.app.whitelist": { "type": "STRING", "value": "US" },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "{\"Requirements\": {\"DirectX\": {\"FeatureLevels\": \"D3D_FEATURE_LEVEL_11_0\"}}}"
+        },
+        "FolderName": { "type": "STRING", "value": "Hades" }
+      },
+      "entitlementName": "Min",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "e4bcca5128c348a1bc5f79fe87e5828d",
+          "appId": "Min",
+          "compatibleApps": [],
+          "platform": ["Windows", "Mac", "Win32"],
+          "dateAdded": "2018-11-28T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Supergiant Games LLC",
+      "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "fghi4567FnAE6GHjc6FEIL6YL4cnG1wp",
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 12 }
+}

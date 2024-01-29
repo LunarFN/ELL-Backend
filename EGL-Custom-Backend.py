@@ -224,6 +224,54 @@ def fnitems():
         data = json.load(fnitems_file)
     return data
 
+@app.route('/catalog/api/shared/namespace/jaguar/items', methods=['GET'])
+def jaguaritems():
+    with open('jaguaritems.json', 'r') as jaguaritems_file:
+        data = json.load(jaguaritems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/min/items', methods=['GET'])
+def minitems():
+    with open('minitems.json', 'r') as minitems_file:
+        data = json.load(minitems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/morpho/items', methods=['GET'])
+def morphoitems():
+    with open('morphoitems.json', 'r') as morphoitems_file:
+        data = json.load(morphoitems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/springbok/items', methods=['GET'])
+def springbokitems():
+    with open('springbokitems.json', 'r') as springbokitems_file:
+        data = json.load(springbokitems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/ut/items', methods=['GET'])
+def utitems():
+    with open('utitems.json', 'r') as utitems_file:
+        data = json.load(utitems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/vpr/items', methods=['GET'])
+def vpritems():
+    with open('vpritems.json', 'r') as vpritems_file:
+        data = json.load(vpritems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/wren/items', methods=['GET'])
+def wrenitems():
+    with open('wrenitems.json', 'r') as wrenitems_file:
+        data = json.load(wrenitems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/ark/offers', methods=['GET'])
+def arkoffers():
+    with open('arkoffers.json', 'r') as arkoffers_file:
+        data = json.load(arkoffers_file)
+    return data
+
 @app.route('/priceengine/api/shared/offers/price', methods=['POST'])
 def priceengine():
     try:

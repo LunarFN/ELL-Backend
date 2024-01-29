@@ -1,0 +1,402 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "4c01dfdcdcd14595a8581217f5f0a255",
+      "title": "WrenDLCGeneralAudience",
+      "description": "WrenDLCGeneralAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }, { "path": "public" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2019-04-01T21:37:50.565Z",
+      "lastModifiedDate": "2019-09-06T15:45:37.374Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows" }
+      },
+      "entitlementName": "4c01dfdcdcd14595a8581217f5f0a255",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "55c6294210e5469aaa21c44fa04f96ab",
+      "title": "WrenDLCDevAudience",
+      "description": "WrenDLCDevAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }, { "path": "developer" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2019-04-01T21:35:56.976Z",
+      "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+      "entitlementName": "55c6294210e5469aaa21c44fa04f96ab",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "ce04a7a8e3d6472194e2f128524eb730",
+      "title": "WrenDLCStaging",
+      "description": "WrenDLCStaging",
+      "keyImages": [],
+      "categories": [
+        { "path": "games" },
+        { "path": "dlc" },
+        { "path": "applications" }
+      ],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2019-04-01T21:29:28.093Z",
+      "lastModifiedDate": "2019-10-25T17:32:42.994Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceID": { "type": "STRING", "value": "wren" },
+        "MonitorPresence": { "type": "STRING", "value": "true" },
+        "UseAccessControl": { "type": "STRING", "value": "true" },
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "AshenDLCstage" },
+        "developerName": { "type": "STRING", "value": "A44 Games" }
+      },
+      "entitlementName": "ce04a7a8e3d6472194e2f128524eb730",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "f59cd7b5c9de4886a9c6fe36812be7de",
+          "appId": "WrenDLCStaging",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2019-04-01T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "d8af774841684f0c8d465bcfcb24d442",
+      "title": "Nightstorm Isle - DLC",
+      "description": "Nightstorm Isle - DLC",
+      "keyImages": [],
+      "categories": [{ "path": "public" }, { "path": "dlc" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2019-04-01T21:19:55.257Z",
+      "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceID": { "type": "STRING", "value": "wren" },
+        "MonitorPresence": { "type": "STRING", "value": "true" },
+        "UseAccessControl": { "type": "STRING", "value": "true" },
+        "CanSkipKoreanIdVerification": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "AshenDLC" },
+        "developerName": { "type": "STRING", "value": "A44 Games" }
+      },
+      "entitlementName": "d8af774841684f0c8d465bcfcb24d442",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "95624830dd8e4932b1473a0a44d7f58c",
+          "appId": "WrenDLC",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2019-04-01T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "b2e4a9b2f8474048bc258a23307b43d1",
+      "title": "WrenDevAudience",
+      "description": "WrenDevAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }, { "path": "developer" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-12T15:49:06.440Z",
+      "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows" }
+      },
+      "entitlementName": "b2e4a9b2f8474048bc258a23307b43d1",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "a58322b8682f4e1d9fde15fa7b354836",
+      "title": "WrenStaging",
+      "description": "WrenStaging",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/wren/item/AshenLog_1024x269-1024x269-8e32ab9392f4144ecbaf2595baa64849-1024x269-8e32ab9392f4144ecbaf2595baa64849.png",
+          "md5": "8e32ab9392f4144ecbaf2595baa64849",
+          "width": 1024,
+          "height": 269,
+          "size": 20025,
+          "uploadedDate": "2018-12-12T20:39:02.325Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/wren/item/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-a1fbd8413573ff7712913594c67d80ba.png",
+          "md5": "a1fbd8413573ff7712913594c67d80ba",
+          "width": 1288,
+          "height": 1450,
+          "size": 502211,
+          "uploadedDate": "2018-12-12T20:39:13.652Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/wren/item/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-8bb212f8736486f6e5e0fc056920c042.jpg",
+          "md5": "8bb212f8736486f6e5e0fc056920c042",
+          "width": 2580,
+          "height": 1450,
+          "size": 152165,
+          "uploadedDate": "2018-12-13T20:03:35.427Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-11T11:03:52.684Z",
+      "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "{\"Requirements\": {\"DirectX\": {\"FeatureLevels\": \"D3D_FEATURE_LEVEL_11_0\"}}}"
+        },
+        "FolderName": { "type": "STRING", "value": "WrenStaging" }
+      },
+      "entitlementName": "WrenStaging",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "e2aa09bf8f084238a78250cd5ab18506",
+          "appId": "WrenStaging",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-12-11T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "26e2fb059d1e433ba91291f6789c7136",
+      "title": "Wren",
+      "description": "Ashen",
+      "longDescription": "Ashen is an action RPG about a wanderer in search of a place to call home. This is a world where nothing lasts, no matter how tightly you cling to it. At its core, Ashen is about forging relationships. Players can guide those they trust to their camp - together, you might just stand a chance.",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/wren/item/Ashen_Store_PrimaryPromo_2580x1456-2580x1456-e01227641057a1d85386596b94575650.png",
+          "md5": "e01227641057a1d85386596b94575650",
+          "width": 2580,
+          "height": 1456,
+          "size": 2044040,
+          "uploadedDate": "2018-12-06T20:06:33.376Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-06T20:06:39.569Z",
+      "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+      "entitlementName": "26e2fb059d1e433ba91291f6789c7136",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "f0cacc038f734388a2983c7b7100f0f3",
+      "title": "AshenGeneralAudience",
+      "description": "AshenGeneralAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-04T19:54:02.112Z",
+      "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+      "entitlementName": "f0cacc038f734388a2983c7b7100f0f3",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "selfRefundable": true,
+      "unsearchable": false
+    },
+    {
+      "id": "babd819da5f540c59eb188a25d4beabb",
+      "title": "Ashen",
+      "description": "Ashen",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/wren/item/AshenLog_1024x269-1024x269-8e32ab9392f4144ecbaf2595baa64849.png",
+          "md5": "8e32ab9392f4144ecbaf2595baa64849",
+          "width": 1024,
+          "height": 269,
+          "size": 20025,
+          "uploadedDate": "2018-12-05T20:04:49.540Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/wren/item/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba.png",
+          "md5": "a1fbd8413573ff7712913594c67d80ba",
+          "width": 1288,
+          "height": 1450,
+          "size": 502211,
+          "uploadedDate": "2018-12-05T20:05:00.032Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/wren/item/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-8bb212f8736486f6e5e0fc056920c042.jpg",
+          "md5": "8bb212f8736486f6e5e0fc056920c042",
+          "width": 2580,
+          "height": 1450,
+          "size": 152165,
+          "uploadedDate": "2018-12-13T20:04:02.915Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/wren/item/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-ce82217f72fb3ed06188d98dd7563f89.jpg",
+          "md5": "ce82217f72fb3ed06188d98dd7563f89",
+          "width": 1288,
+          "height": 1450,
+          "size": 102738,
+          "uploadedDate": "2019-10-22T09:41:44.790Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-28T19:08:28.555Z",
+      "lastModifiedDate": "2019-11-19T17:02:15.945Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "PresenceId": { "type": "STRING", "value": "wren" },
+        "MonitorPresence": { "type": "STRING", "value": "true" },
+        "UseAccessControl": { "type": "STRING", "value": "true" },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "{\"Requirements\": {\"DirectX\": {\"FeatureLevels\": \"D3D_FEATURE_LEVEL_11_0\"}}}"
+        },
+        "FolderName": { "type": "STRING", "value": "Ashen" }
+      },
+      "entitlementName": "babd819da5f540c59eb188a25d4beabb",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "bc03c50bfc574d0e9ead4bb0f36855cb",
+          "appId": "Wren",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-11-28T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "selfRefundable": true,
+      "unsearchable": false
+    },
+    {
+      "id": "25dcc8aa6b174704a7ebd614706b703b",
+      "title": "WrenEarlyCodeRedemptionAudience",
+      "description": "WrenEarlyCodeRedemptionAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2018-10-08T13:38:05.142Z",
+      "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+      "customAttributes": {},
+      "entitlementName": "Wren",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Annapurna Interactive",
+      "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "4dfac3cf58004135a39e92877fc227ab",
+      "title": "Wren Header",
+      "description": "Wren",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/wren/item/wren-1024x683-c2032b3e2d735c93357fc6c928133222.png",
+          "md5": "c2032b3e2d735c93357fc6c928133222",
+          "width": 1024,
+          "height": 683,
+          "size": 1246626,
+          "uploadedDate": "2018-10-08T13:44:50.443Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2018-10-08T13:36:01.725Z",
+      "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+      "entitlementName": "4dfac3cf58004135a39e92877fc227ab",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 11 }
+}

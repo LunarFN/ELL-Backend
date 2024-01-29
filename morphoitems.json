@@ -1,0 +1,460 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "e68461b3d4d44c9d9e90df6bfca124cf",
+      "title": "HelloNeighborHumbleBundleAudience",
+      "description": "HelloNeighborHumbleBundleAudience",
+      "keyImages": [
+        {
+          "type": "ESRB",
+          "url": "https://cdn1.epicgames.com/morpho/item/HN_HideNSeak-842x404-3551cd52f85392f8ba5ea5f2abf0d29b.png",
+          "md5": "3551cd52f85392f8ba5ea5f2abf0d29b",
+          "width": 842,
+          "height": 404,
+          "size": 40843,
+          "uploadedDate": "2019-04-23T21:12:35.396Z"
+        }
+      ],
+      "categories": [{ "path": "audience" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2019-06-11T22:38:12.771Z",
+      "lastModifiedDate": "2019-06-11T22:53:00.146Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows" }
+      },
+      "entitlementName": "e68461b3d4d44c9d9e90df6bfca124cf",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "tinyBuild Games",
+      "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "esrbGameRatingValue": "TEEN",
+      "selfRefundable": false,
+      "unsearchable": false
+    },
+    {
+      "id": "979e1eeca76241cb84cd843fa9e287d9",
+      "title": "MorphoDemoStaging",
+      "description": "MorphoDemoStaging",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/morpho/item/Medium Size 1288 x 1450 (1)-1288x1450-89e000b255d99d495ba53b7d33b8f5c7-1288x1450-89e000b255d99d495ba53b7d33b8f5c7.png",
+          "md5": "89e000b255d99d495ba53b7d33b8f5c7",
+          "width": 1288,
+          "height": 1450,
+          "size": 1732674,
+          "uploadedDate": "2018-12-14T16:49:36.660Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/morpho/item/2018-12-06-540x336-b72da4a7d7637fbbf09c4061dde784ff-540x336-b72da4a7d7637fbbf09c4061dde784ff.png",
+          "md5": "b72da4a7d7637fbbf09c4061dde784ff",
+          "width": 540,
+          "height": 336,
+          "size": 60790,
+          "uploadedDate": "2018-12-14T16:49:43.851Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/morpho/item/HelloNeighbor_HeroImage_1290x725-1290x725-ac10d115e946ba8f6329d8b354b11c71-1290x725-ac10d115e946ba8f6329d8b354b11c71.jpg",
+          "md5": "ac10d115e946ba8f6329d8b354b11c71",
+          "width": 1290,
+          "height": 725,
+          "size": 181702,
+          "uploadedDate": "2018-12-14T16:49:51.292Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-14T16:41:32.284Z",
+      "lastModifiedDate": "2019-05-14T17:54:04.639Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "MorphoDemoStaging" }
+      },
+      "entitlementName": "979e1eeca76241cb84cd843fa9e287d9",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "d385a673ce6a4d2c862588c00fa2b629",
+          "appId": "MorphoDemoStaging",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-12-14T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "tinyBuild Games",
+      "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "05226d67cd28416caec9434f38b58f3d",
+      "title": "MorphoStaging",
+      "description": "MorphoStaging",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/morpho/item/Medium Size 1288 x 1450 (1)-1288x1450-89e000b255d99d495ba53b7d33b8f5c7-1288x1450-89e000b255d99d495ba53b7d33b8f5c7.png",
+          "md5": "89e000b255d99d495ba53b7d33b8f5c7",
+          "width": 1288,
+          "height": 1450,
+          "size": 1732674,
+          "uploadedDate": "2018-12-14T16:49:04.158Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/morpho/item/2018-12-06-540x336-b72da4a7d7637fbbf09c4061dde784ff-540x336-b72da4a7d7637fbbf09c4061dde784ff.png",
+          "md5": "b72da4a7d7637fbbf09c4061dde784ff",
+          "width": 540,
+          "height": 336,
+          "size": 60790,
+          "uploadedDate": "2018-12-14T16:49:13.365Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/morpho/item/HelloNeighbor_HeroImage_1290x725-1290x725-ac10d115e946ba8f6329d8b354b11c71-1290x725-ac10d115e946ba8f6329d8b354b11c71.jpg",
+          "md5": "ac10d115e946ba8f6329d8b354b11c71",
+          "width": 1290,
+          "height": 725,
+          "size": 181702,
+          "uploadedDate": "2018-12-14T16:49:23.511Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-14T16:39:59.201Z",
+      "lastModifiedDate": "2019-08-12T14:21:10.838Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "CloudSaveFolder": {
+          "type": "STRING",
+          "value": "{AppData}/HelloNeighbor/Saved/SaveGames/"
+        },
+        "CloudExcludeList": { "type": "STRING", "value": "ws.sav,exp_ws.sav" },
+        "FolderName": { "type": "STRING", "value": "MorphoStaging" }
+      },
+      "entitlementName": "05226d67cd28416caec9434f38b58f3d",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "1e2ff04e786943939c359c83a6d52a0c",
+          "appId": "MorphoStaging",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-12-14T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "tinyBuild Games",
+      "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "be54b2d375114c42927ecb8d79ece5a2",
+      "title": "MorphoDevAudience",
+      "description": "MorphoDevAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-12T16:19:12.415Z",
+      "lastModifiedDate": "2019-05-13T14:39:19.433Z",
+      "entitlementName": "be54b2d375114c42927ecb8d79ece5a2",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "tinyBuild Games",
+      "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "37d70869dc18486698d121ae59ddb224",
+      "title": "HelloNeighborDemoGeneralAudience",
+      "description": "HelloNeighborDemoGeneralAudience",
+      "keyImages": [
+        {
+          "type": "ESRB",
+          "url": "https://cdn1.epicgames.com/morpho/item/HN_HideNSeak-842x404-3551cd52f85392f8ba5ea5f2abf0d29b.png",
+          "md5": "3551cd52f85392f8ba5ea5f2abf0d29b",
+          "width": 842,
+          "height": 404,
+          "size": 40843,
+          "uploadedDate": "2019-04-23T21:12:35.396Z"
+        }
+      ],
+      "categories": [{ "path": "audience" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-11T15:49:32.600Z",
+      "lastModifiedDate": "2019-05-13T14:39:19.433Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows" }
+      },
+      "entitlementName": "37d70869dc18486698d121ae59ddb224",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "tinyBuild Games",
+      "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "esrbGameRatingValue": "TEEN",
+      "unsearchable": false
+    },
+    {
+      "id": "e8e77c9ce4a045e192bdae5dd73e54d6",
+      "title": "Hello Neighbor Hide and Seek Demo",
+      "description": "Hello Neighbor Hide and Seek Demo",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/morpho/item/thumbnail-1288x1450-89e000b255d99d495ba53b7d33b8f5c7.png",
+          "md5": "89e000b255d99d495ba53b7d33b8f5c7",
+          "width": 1288,
+          "height": 1450,
+          "size": 1732674,
+          "uploadedDate": "2018-12-11T15:46:03.805Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/morpho/item/2018-12-06-540x336-b72da4a7d7637fbbf09c4061dde784ff-540x336-b72da4a7d7637fbbf09c4061dde784ff.png",
+          "md5": "b72da4a7d7637fbbf09c4061dde784ff",
+          "width": 540,
+          "height": 336,
+          "size": 60790,
+          "uploadedDate": "2018-12-11T15:46:28.224Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/morpho/item/Small-Size-1290x725-1290x725-2e7c7d3e228033ea2b02e6e040e2515f-1290x725-2e7c7d3e228033ea2b02e6e040e2515f-1290x725-2e7c7d3e228033ea2b02e6e040e2515f.png",
+          "md5": "2e7c7d3e228033ea2b02e6e040e2515f",
+          "width": 1290,
+          "height": 725,
+          "size": 309391,
+          "uploadedDate": "2018-12-14T19:15:59.027Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/morpho/item/Small-Size-1290x725-1290x725-2e7c7d3e228033ea2b02e6e040e2515f-1290x725-2e7c7d3e228033ea2b02e6e040e2515f-1290x725-2e7c7d3e228033ea2b02e6e040e2515f-1290x725-2e7c7d3e228033ea2b02e6e040e2515f.png",
+          "md5": "2e7c7d3e228033ea2b02e6e040e2515f",
+          "width": 1290,
+          "height": 725,
+          "size": 309391,
+          "uploadedDate": "2019-11-20T21:40:53.114Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-11T15:47:44.138Z",
+      "lastModifiedDate": "2019-11-20T21:40:58.014Z",
+      "customAttributes": {
+        "PresenceId": { "type": "STRING", "value": "morpho" },
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "MonitorPresence": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "HideAndSeekDemo" }
+      },
+      "entitlementName": "e8e77c9ce4a045e192bdae5dd73e54d6",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "27b4a06a6e7042f98253c32930e2c558",
+          "appId": "MorphoDemo",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-12-11T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "tinyBuild Games",
+      "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "49f655ac145544ecaec049b55927512c",
+      "title": "Hello Neighbor Hide and Seek",
+      "description": "Hello Neighbor: Hide and Seek",
+      "longDescription": "Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor’s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with a loss of a family member. The game explains events that lead up to the original Stealth Horror hit Hello Neighbor.",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/morpho/item/Small Size 2580x1450-2580x1450-12eb17c2d91a649da6e51442bbb28544.png",
+          "md5": "12eb17c2d91a649da6e51442bbb28544",
+          "width": 2580,
+          "height": 1450,
+          "size": 4522755,
+          "uploadedDate": "2018-12-06T19:29:44.333Z"
+        }
+      ],
+      "categories": [{ "path": "layout" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-06T19:26:56.460Z",
+      "lastModifiedDate": "2018-12-06T19:32:00.194Z",
+      "entitlementName": "49f655ac145544ecaec049b55927512c",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "60517ad2be01459eb8d56af55ec755bb",
+      "title": "Hello Neighbor: Hide and Seek",
+      "description": "HelloNeighborGeneralAudience",
+      "keyImages": [
+        {
+          "type": "ESRB",
+          "url": "https://cdn1.epicgames.com/morpho/item/HN_HideNSeak-842x404-3551cd52f85392f8ba5ea5f2abf0d29b.png",
+          "md5": "3551cd52f85392f8ba5ea5f2abf0d29b",
+          "width": 842,
+          "height": 404,
+          "size": 40843,
+          "uploadedDate": "2019-04-23T21:13:00.764Z"
+        }
+      ],
+      "categories": [{ "path": "audience" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-04T20:32:29.176Z",
+      "lastModifiedDate": "2023-09-27T18:08:36.328Z",
+      "customAttributes": {
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows" }
+      },
+      "entitlementName": "60517ad2be01459eb8d56af55ec755bb",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "tinyBuild Games",
+      "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "esrbGameRatingValue": "TEEN",
+      "ageGatings": {},
+      "selfRefundable": true,
+      "applicationId": "",
+      "unsearchable": false
+    },
+    {
+      "id": "365a9de6e47d42ab9183808941ed69e1",
+      "title": "Hello Neighbor Hide and Seek",
+      "description": "Hello Neighbor Hide and Seek",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/morpho/item/Medium Size 1288 x 1450 (1)-1288x1450-89e000b255d99d495ba53b7d33b8f5c7.png",
+          "md5": "89e000b255d99d495ba53b7d33b8f5c7",
+          "width": 1288,
+          "height": 1450,
+          "size": 1732674,
+          "uploadedDate": "2018-11-28T22:19:02.864Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/morpho/item/2018-12-06-540x336-b72da4a7d7637fbbf09c4061dde784ff.png",
+          "md5": "b72da4a7d7637fbbf09c4061dde784ff",
+          "width": 540,
+          "height": 336,
+          "size": 60790,
+          "uploadedDate": "2018-12-06T21:24:14.622Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/morpho/item/HelloNeighbor_HeroImage_1290x725-1290x725-ac10d115e946ba8f6329d8b354b11c71.jpg",
+          "md5": "ac10d115e946ba8f6329d8b354b11c71",
+          "width": 1290,
+          "height": 725,
+          "size": 181702,
+          "uploadedDate": "2018-12-06T23:29:53.190Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/morpho/item/HN_HS_Portrait-644x725-5afef6f77959d34a4b70e95410cc6277-644x725-5afef6f77959d34a4b70e95410cc6277.jpg",
+          "md5": "5afef6f77959d34a4b70e95410cc6277",
+          "width": 644,
+          "height": 725,
+          "size": 118310,
+          "uploadedDate": "2019-11-20T21:40:02.920Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-28T21:43:57.255Z",
+      "lastModifiedDate": "2019-11-20T21:40:05.712Z",
+      "customAttributes": {
+        "PresenceId": { "type": "STRING", "value": "morpho" },
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "MonitorPresence": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "HelloNeighborHideAndSeek" }
+      },
+      "entitlementName": "365a9de6e47d42ab9183808941ed69e1",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "2a81d6bb911b403fb91a39101966f467",
+          "appId": "Morpho",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-11-28T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "tinyBuild Games",
+      "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+      "eulaIds": ["egstore"],
+      "endOfSupport": false,
+      "selfRefundable": true,
+      "unsearchable": false
+    },
+    {
+      "id": "e931d6a52f6e49cc90595bd79919ea99",
+      "title": "MorphoEarlyCodeRedemptionAudience",
+      "description": "MorphoEarlyCodeRedemptionAudience",
+      "keyImages": [],
+      "categories": [{ "path": "audience" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-28T17:03:33.411Z",
+      "lastModifiedDate": "2018-12-05T19:18:56.997Z",
+      "customAttributes": {},
+      "entitlementName": "e931d6a52f6e49cc90595bd79919ea99",
+      "entitlementType": "AUDIENCE",
+      "itemType": "DURABLE",
+      "releaseInfo": [],
+      "developer": "Epic Dev Test Account",
+      "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 10 }
+}

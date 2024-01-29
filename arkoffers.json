@@ -1,0 +1,1343 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "fdbda0f6878a42aa8c09a3e42f82f664",
+      "title": "ARK Fjordur",
+      "description": "Explore a cold and hostile Norse-inspired archipelago in ARK's newest official community map, featuring four new creatures for you to tame! Fjordur contains over 140 square kilometers of new biomes, new challenges, and rewarding discoveries!",
+      "longDescription": "",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_FjordurARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-e908f469c1dace302a88fc8e6a1ad5e0",
+          "md5": "e908f469c1dace302a88fc8e6a1ad5e0",
+          "width": 1200,
+          "height": 1600,
+          "size": 934812,
+          "uploadedDate": "2022-06-10T20:15:44.182Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_FjordurARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-e908f469c1dace302a88fc8e6a1ad5e0",
+          "md5": "e908f469c1dace302a88fc8e6a1ad5e0",
+          "width": 1200,
+          "height": 1600,
+          "size": 934812,
+          "uploadedDate": "2022-06-10T20:15:49.055Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_FjordurARKExpansionMap_StudioWildcard_DLC_S1_2560x1440-3265804dd9b793d785e5fc0c88f66793",
+          "md5": "3265804dd9b793d785e5fc0c88f66793",
+          "width": 2560,
+          "height": 1440,
+          "size": 995921,
+          "uploadedDate": "2022-06-10T20:15:55.576Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_FjordurARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-e908f469c1dace302a88fc8e6a1ad5e0",
+          "md5": "e908f469c1dace302a88fc8e6a1ad5e0",
+          "width": 1200,
+          "height": 1600,
+          "size": 934812,
+          "uploadedDate": "2022-06-10T20:16:02.711Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_FjordurARKExpansionMap_StudioWildcard_DLC_S1_2560x1440-3265804dd9b793d785e5fc0c88f66793",
+          "md5": "3265804dd9b793d785e5fc0c88f66793",
+          "width": 2560,
+          "height": 1440,
+          "size": 995921,
+          "uploadedDate": "2022-06-10T20:16:07.638Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_FjordurARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-e908f469c1dace302a88fc8e6a1ad5e0",
+          "md5": "e908f469c1dace302a88fc8e6a1ad5e0",
+          "width": 1200,
+          "height": 1600,
+          "size": 934812,
+          "uploadedDate": "2022-06-10T20:16:11.769Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2022-04-22T21:07:44.542Z",
+      "lastModifiedDate": "2022-06-12T19:05:14.866Z",
+      "customAttributes": {
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/fjordur"
+        }
+      },
+      "internalName": "ARK Fjordur",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "b69fcfebdd444695b7baaf84e50307fb",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "viewableDate": "2022-06-12T17:00:00.000Z",
+      "effectiveDate": "2022-06-12T17:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_0",
+      "urlSlug": "ark--fjordur-02",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2022-06-12T17:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK Fjordur",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2022-06-12T17:00:00.000Z",
+      "publisherDisplayName": "Studio Wildcard ",
+      "developerDisplayName": "Studio Wildcard ",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "76ef8561c8f54ad995ab3e66ecf50f46",
+      "title": "ARK Lost Island",
+      "description": "Explore the soaring heights and hidden depths of ARK's newest official community map, featuring three new creatures for you to tame! Lost Island boasts 150 square kilometers of new biomes, challenges, and mysterious ruins!",
+      "longDescription": "",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_LostIslandARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-bb7e0723c03d1173be423b64bd6b9db1",
+          "md5": "bb7e0723c03d1173be423b64bd6b9db1",
+          "width": 1200,
+          "height": 1600,
+          "size": 780075,
+          "uploadedDate": "2021-12-13T20:03:09.095Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_LostIslandARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-bb7e0723c03d1173be423b64bd6b9db1",
+          "md5": "bb7e0723c03d1173be423b64bd6b9db1",
+          "width": 1200,
+          "height": 1600,
+          "size": 780075,
+          "uploadedDate": "2021-12-13T20:03:13.077Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_LostIslandARKExpansionMap_StudioWildcard_DLC_S1_2560x1440-b129a1d99e5afec1d4c492ac5f756f78",
+          "md5": "b129a1d99e5afec1d4c492ac5f756f78",
+          "width": 2560,
+          "height": 1440,
+          "size": 864505,
+          "uploadedDate": "2021-12-13T20:03:17.516Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_LostIslandARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-bb7e0723c03d1173be423b64bd6b9db1",
+          "md5": "bb7e0723c03d1173be423b64bd6b9db1",
+          "width": 1200,
+          "height": 1600,
+          "size": 780075,
+          "uploadedDate": "2021-12-13T20:03:21.690Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_LostIslandARKExpansionMap_StudioWildcard_DLC_S1_2560x1440-b129a1d99e5afec1d4c492ac5f756f78",
+          "md5": "b129a1d99e5afec1d4c492ac5f756f78",
+          "width": 2560,
+          "height": 1440,
+          "size": 864505,
+          "uploadedDate": "2021-12-13T20:03:25.868Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_LostIslandARKExpansionMap_StudioWildcard_DLC_S2_1200x1600-bb7e0723c03d1173be423b64bd6b9db1",
+          "md5": "bb7e0723c03d1173be423b64bd6b9db1",
+          "width": 1200,
+          "height": 1600,
+          "size": 780075,
+          "uploadedDate": "2021-12-13T20:03:30.701Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2021-12-13T20:00:52.846Z",
+      "lastModifiedDate": "2021-12-14T19:52:19.684Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Studio Wildcard" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/lost-island"
+        }
+      },
+      "internalName": "ARK Lost Island",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "0d9206637bc54c32a48c06695ed6908d",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "viewableDate": "2021-12-14T20:00:00.000Z",
+      "effectiveDate": "2021-12-14T20:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_0",
+      "urlSlug": "ark--lost-island",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-12-14T20:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK Lost Island",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2021-12-14T20:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "46beb0b8a8214d6c91ac746cdbf334c8",
+      "title": "ARK: Ultimate Survivor Edition",
+      "description": "Experience everything that the ARK franchise has to offer in this definitive collection, with thousands of hours of unique content! Tame and ride primeval beasts, explore savage lands, and dive into the ultimate dinosaur-filled adventure together!",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKUltimateSurvivorEdition_StudioWildcard_Bundles_S1_2560x1440-9271500d584d8d0f075828975a10e00e",
+          "md5": "9271500d584d8d0f075828975a10e00e",
+          "width": 2560,
+          "height": 1440,
+          "size": 975668,
+          "uploadedDate": "2021-05-26T03:09:33.541Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKUltimateSurvivorEdition_StudioWildcard_Bundles_S2_1200x1600-5ae8bdca6728b60fc5cd480f766be1cf",
+          "md5": "5ae8bdca6728b60fc5cd480f766be1cf",
+          "width": 1200,
+          "height": 1600,
+          "size": 915275,
+          "uploadedDate": "2021-05-26T03:09:41.011Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKUltimateSurvivorEdition_StudioWildcard_Bundles_S2_1200x1600-5ae8bdca6728b60fc5cd480f766be1cf",
+          "md5": "5ae8bdca6728b60fc5cd480f766be1cf",
+          "width": 1200,
+          "height": 1600,
+          "size": 915275,
+          "uploadedDate": "2021-05-26T03:09:44.086Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKUltimateSurvivorEdition_StudioWildcard_Bundles_S2_1200x1600-5ae8bdca6728b60fc5cd480f766be1cf",
+          "md5": "5ae8bdca6728b60fc5cd480f766be1cf",
+          "width": 1200,
+          "height": 1600,
+          "size": 915275,
+          "uploadedDate": "2021-05-26T03:09:49.373Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKUltimateSurvivorEdition_StudioWildcard_Bundles_S1_2560x1440-9271500d584d8d0f075828975a10e00e",
+          "md5": "9271500d584d8d0f075828975a10e00e",
+          "width": 2560,
+          "height": 1440,
+          "size": 975668,
+          "uploadedDate": "2021-05-26T03:09:52.611Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKUltimateSurvivorEdition_StudioWildcard_Bundles_S2_1200x1600-5ae8bdca6728b60fc5cd480f766be1cf",
+          "md5": "5ae8bdca6728b60fc5cd480f766be1cf",
+          "width": 1200,
+          "height": 1600,
+          "size": 915275,
+          "uploadedDate": "2021-05-26T03:09:56.805Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2021-05-18T14:44:46.081Z",
+      "lastModifiedDate": "2023-02-07T09:18:39.460Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/ultimate-survivor-edition"
+        }
+      },
+      "internalName": "ARK: Ultimate Survivor Edition",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "70b36bb8a5434f5b8f21851a191f20d1",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 3499,
+      "price": 3499,
+      "basePrice": 3499,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "viewableDate": "2021-05-27T17:00:00.000Z",
+      "effectiveDate": "2021-05-27T17:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_4999",
+      "urlSlug": "ark-ultimate-edition",
+      "roleNamesToGrant": [],
+      "tags": [1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2021-05-27T17:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK: Ultimate Survivor Edition",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "pcReleaseDate": "2021-05-27T17:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "3fe7dfb6066c44a292869beca1525d95",
+      "title": "ARK Crystal Isles",
+      "description": "Crystal Isles is 150 square kilometers of awe-inspiring biomes. Build bases high in forest canopy and floating islands, and tame your own Tropeognathus—ARK’s newest pterosaur—to ride into aerial combat!",
+      "longDescription": "Celebrate the return of an ARK community classic, updated with a new real-world dinosaur for you to tame, and now added to ARK’s Official Server networks! Crystal Isles is 150 square kilometers of colorful scenery and awe-inspiring biomes teeming with life.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_CrystalIslesARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-69362bdd35ee84abc616f06b9c5430e3.jpg",
+          "md5": "69362bdd35ee84abc616f06b9c5430e3",
+          "width": 2560,
+          "height": 1440,
+          "size": 839439,
+          "uploadedDate": "2020-06-10T23:47:12.067Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_CrystalIslesARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-728f7f9cec6d40b17e06e35fe7f5edb1.jpg",
+          "md5": "728f7f9cec6d40b17e06e35fe7f5edb1",
+          "width": 1200,
+          "height": 1600,
+          "size": 654232,
+          "uploadedDate": "2020-06-10T23:47:21.166Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_CrystalIslesARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-728f7f9cec6d40b17e06e35fe7f5edb1.jpg",
+          "md5": "728f7f9cec6d40b17e06e35fe7f5edb1",
+          "width": 1200,
+          "height": 1600,
+          "size": 654232,
+          "uploadedDate": "2020-06-10T23:47:31.702Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_CrystalIslesARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-728f7f9cec6d40b17e06e35fe7f5edb1.jpg",
+          "md5": "728f7f9cec6d40b17e06e35fe7f5edb1",
+          "width": 1200,
+          "height": 1600,
+          "size": 654232,
+          "uploadedDate": "2020-06-10T23:47:54.757Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "games" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2020-06-01T17:18:10.621Z",
+      "lastModifiedDate": "2020-10-20T14:04:04.954Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/crystal-isles"
+        }
+      },
+      "internalName": "ARK Crystal Isles",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "9ce34907af1042bc91f69b8fa2f3940b",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "effectiveDate": "2020-06-11T15:00:00.000Z",
+      "vatIncluded": false,
+      "numOfCodes": 1,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_0",
+      "urlSlug": "ark--crystal-isles",
+      "roleNamesToGrant": [],
+      "tags": [1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2020-06-11T15:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK Crystal Isles",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "19d333757fc7497ab364841603d2e410",
+      "title": "ARK Genesis Season Pass",
+      "description": "Continue your quest for survival and unlock the next chapter in the saga of ARK: Survival Evolved with the ARK: Genesis Season Pass! Two new huge expansions: ARK: Genesis Part 1, ARK: Genesis Part 2 and one exclusive in-game robotic AI companion.",
+      "longDescription": "Unlock a whole new chapter in ARK: Survival Evolved! This Season Pass gives access to two huge expansion packs that further the ARK storyline while adventuring through exotic new worlds with your robotic AI companion HLN-A’ in all-new mission-based gameplay.",
+      "keyImages": [
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2_1200x1600-4eb44319441ebbbecf3ad99af058bd65",
+          "md5": "4eb44319441ebbbecf3ad99af058bd65",
+          "width": 1200,
+          "height": 1600,
+          "size": 936932,
+          "uploadedDate": "2021-06-02T01:20:09.300Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S1_2560x1440-a9103a10c8c823435ca9c57429985ca9",
+          "md5": "a9103a10c8c823435ca9c57429985ca9",
+          "width": 2560,
+          "height": 1440,
+          "size": 890396,
+          "uploadedDate": "2021-06-02T01:20:12.091Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2_1200x1600-4eb44319441ebbbecf3ad99af058bd65",
+          "md5": "4eb44319441ebbbecf3ad99af058bd65",
+          "width": 1200,
+          "height": 1600,
+          "size": 936932,
+          "uploadedDate": "2021-06-02T01:20:14.770Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2_1200x1600-4eb44319441ebbbecf3ad99af058bd65",
+          "md5": "4eb44319441ebbbecf3ad99af058bd65",
+          "width": 1200,
+          "height": 1600,
+          "size": 936932,
+          "uploadedDate": "2021-06-02T01:20:17.502Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2_1200x1600-4eb44319441ebbbecf3ad99af058bd65",
+          "md5": "4eb44319441ebbbecf3ad99af058bd65",
+          "width": 1200,
+          "height": 1600,
+          "size": 936932,
+          "uploadedDate": "2021-06-02T01:20:20.750Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S1_2560x1440-a9103a10c8c823435ca9c57429985ca9",
+          "md5": "a9103a10c8c823435ca9c57429985ca9",
+          "width": 2560,
+          "height": 1440,
+          "size": 890396,
+          "uploadedDate": "2021-06-02T01:20:26.945Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2020-05-11T23:31:26.315Z",
+      "lastModifiedDate": "2023-02-07T09:18:35.720Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Snail Games USA" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/genesis-season-pass"
+        }
+      },
+      "internalName": "ARK Genesis Season Pass",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "cd487143cd9148de964a4965b660e110",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 1499,
+      "price": 1499,
+      "basePrice": 1499,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "effectiveDate": "2020-06-11T15:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_2999_1623893875372",
+      "urlSlug": "ark--genesis-season-pass",
+      "roleNamesToGrant": [],
+      "tags": [1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2020-06-11T15:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK Genesis Season Pass",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2020-06-11T15:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "f93e0016910b4a47854b3310ed0778ba",
+      "title": "ARK Ragnarok",
+      "description": "Journey through an expansive 144 sq. kilometer environment where elements from The Island, Scorched Earth, and all new biomes are combined to bring the ultimate survivor experience.",
+      "longDescription": "Journey through an expansive 144 sq. kilometer environment where elements from The Island, Scorched Earth, and all new biomes are combined to bring the ultimate survivor experience.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-57a08b3edd6d54d179427a7e7af8d7fd.jpg",
+          "md5": "57a08b3edd6d54d179427a7e7af8d7fd",
+          "width": 2560,
+          "height": 1440,
+          "size": 745003,
+          "uploadedDate": "2020-06-01T16:15:06.821Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg",
+          "md5": "cebef6fbf975e9be62a11bdf52a77672",
+          "width": 1200,
+          "height": 1600,
+          "size": 441308,
+          "uploadedDate": "2020-06-01T16:15:14.076Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg",
+          "md5": "cebef6fbf975e9be62a11bdf52a77672",
+          "width": 1200,
+          "height": 1600,
+          "size": 441308,
+          "uploadedDate": "2020-06-01T16:15:23.950Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg",
+          "md5": "cebef6fbf975e9be62a11bdf52a77672",
+          "width": 1200,
+          "height": 1600,
+          "size": 441308,
+          "uploadedDate": "2020-06-01T16:15:31.376Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "games" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2020-06-01T16:15:35.767Z",
+      "lastModifiedDate": "2020-10-20T14:02:14.419Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/ragnarok"
+        }
+      },
+      "internalName": "ARK Ragnarok",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "b4a9385a08914abea753a3545c1a9773",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "effectiveDate": "2020-06-11T15:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_0",
+      "urlSlug": "ark--ragnarok",
+      "roleNamesToGrant": [],
+      "tags": [1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2020-06-11T15:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK Ragnarok",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "54afda1bc17244deaff5a4f738becf72",
+      "title": "ARK Season Pass",
+      "description": "The ARK: Survival Evolved Season Pass gives you access to three huge expansion packs - Scorched Earth (available now), Aberration (available now), and Extinction (available now)!",
+      "longDescription": "The ARK: Survival Evolved Season Pass gives you access to three huge expansion packs: ARK: Scorched Earth, ARK: Aberration and ARK Extinction. Owning the base game is required in order to play.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S1-2560x1440-53d4fc0ddeed81d89a8bbe828adf89d6.jpg",
+          "md5": "53d4fc0ddeed81d89a8bbe828adf89d6",
+          "width": 2560,
+          "height": 1440,
+          "size": 1007968,
+          "uploadedDate": "2020-06-01T16:55:17.535Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg",
+          "md5": "99404c44ac8fb17f8961f3bc6111a27f",
+          "width": 1200,
+          "height": 1600,
+          "size": 991243,
+          "uploadedDate": "2020-06-01T16:55:27.417Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg",
+          "md5": "99404c44ac8fb17f8961f3bc6111a27f",
+          "width": 1200,
+          "height": 1600,
+          "size": 991243,
+          "uploadedDate": "2020-06-01T16:55:37.849Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg",
+          "md5": "99404c44ac8fb17f8961f3bc6111a27f",
+          "width": 1200,
+          "height": 1600,
+          "size": 991243,
+          "uploadedDate": "2020-06-01T16:55:47.652Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "games" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2020-05-11T23:27:04.825Z",
+      "lastModifiedDate": "2023-02-07T09:18:36.404Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/season-pass"
+        }
+      },
+      "internalName": "ARK Season Pass",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "cf2bc883b2884b6ba91cf8b2e40a3c7d",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 1499,
+      "price": 1499,
+      "basePrice": 1499,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "effectiveDate": "2020-06-11T15:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_2499_1623893945488",
+      "urlSlug": "ark--season-pass",
+      "roleNamesToGrant": [],
+      "tags": [1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2020-06-11T15:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK Season Pass",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "237ce9ad0601415bb29d5215f8e5589d",
+      "title": "ARK The Center",
+      "description": "The Center is a free add-on for ARK: Survival Evolved that includes a massive new map for survivors to explore, nearly double the size of the playable geography of the standard ARK Island landscape making it about 70 sq. kilometers.",
+      "longDescription": "The Center is a free add-on for ARK: Survival Evolved that includes a massive new map for survivors to explore, nearly double the size of the playable geography of the standard ARK Island landscape making it about 70 sq. kilometers.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-89babcad6baf67d8543742d8de919db2.jpg",
+          "md5": "89babcad6baf67d8543742d8de919db2",
+          "width": 2560,
+          "height": 1440,
+          "size": 1010707,
+          "uploadedDate": "2020-06-01T17:11:11.463Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-7542bcf9b85934d5ac62d53efeef6416.jpg",
+          "md5": "7542bcf9b85934d5ac62d53efeef6416",
+          "width": 1200,
+          "height": 1600,
+          "size": 918346,
+          "uploadedDate": "2020-06-01T17:11:19.933Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-7542bcf9b85934d5ac62d53efeef6416.jpg",
+          "md5": "7542bcf9b85934d5ac62d53efeef6416",
+          "width": 1200,
+          "height": 1600,
+          "size": 918346,
+          "uploadedDate": "2020-06-01T17:11:27.608Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-7542bcf9b85934d5ac62d53efeef6416.jpg",
+          "md5": "7542bcf9b85934d5ac62d53efeef6416",
+          "width": 1200,
+          "height": 1600,
+          "size": 918346,
+          "uploadedDate": "2020-06-01T17:11:39.466Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "games" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2020-06-01T17:11:51.764Z",
+      "lastModifiedDate": "2020-10-20T14:03:24.864Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/the-center"
+        }
+      },
+      "internalName": "ARK The Center",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "7cb0281930c744b588845c25f73c7f89",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "effectiveDate": "2020-06-11T15:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_0",
+      "urlSlug": "ark--the-center",
+      "roleNamesToGrant": [],
+      "tags": [1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2020-06-11T15:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK The Center",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "cf4d4f7961a74902b2442336fa2f355f",
+      "title": "ARK Valguero",
+      "description": "Survivors, come explore a vast and diverse 63 km map with a multitude of new land to build on! Witness familiar ARK creatures in an expansive environment and meet, Deinonychus, ARK’s newest feathered theropod, found only in Valguero.",
+      "longDescription": "Survivors, come explore a vast and diverse 63 km map with a multitude of new land to build on! Witness familiar ARK creatures in an expansive environment and meet, Deinonychus, ARK’s newest feathered theropod, found only in Valguero.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-ac1543ffc6225457c0d4c8b93557d951.jpg",
+          "md5": "ac1543ffc6225457c0d4c8b93557d951",
+          "width": 2560,
+          "height": 1440,
+          "size": 1014057,
+          "uploadedDate": "2020-06-01T17:08:31.474Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-f9b0a95b6536d99e18384643d8898465.jpg",
+          "md5": "f9b0a95b6536d99e18384643d8898465",
+          "width": 1200,
+          "height": 1600,
+          "size": 1000864,
+          "uploadedDate": "2020-06-01T17:08:43.490Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-f9b0a95b6536d99e18384643d8898465.jpg",
+          "md5": "f9b0a95b6536d99e18384643d8898465",
+          "width": 1200,
+          "height": 1600,
+          "size": 1000864,
+          "uploadedDate": "2020-06-01T17:08:51.584Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-f9b0a95b6536d99e18384643d8898465.jpg",
+          "md5": "f9b0a95b6536d99e18384643d8898465",
+          "width": 1200,
+          "height": 1600,
+          "size": 1000864,
+          "uploadedDate": "2020-06-01T17:08:59.538Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "games" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2020-06-01T17:09:18.117Z",
+      "lastModifiedDate": "2020-10-20T14:04:24.793Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ark/valguero"
+        }
+      },
+      "internalName": "ARK Valguero",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "d6edab6f34af4062aab05d0ef66c8832",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "effectiveDate": "2020-06-11T15:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_0",
+      "urlSlug": "ark--valguero",
+      "roleNamesToGrant": [],
+      "tags": [1367, 1080, 1370, 9547, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2020-06-11T15:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK Valguero",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "16b7c8509ea8427898981145d244316c",
+      "title": "ARK: Survival Evolved",
+      "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43.jpg",
+          "md5": "c316afb7c33a9dfb892eef6b99169e43",
+          "width": 2560,
+          "height": 1440,
+          "size": 966339,
+          "uploadedDate": "2020-06-01T16:23:58.058Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+          "md5": "5b58fdefea9f885c7426e894a1034921",
+          "width": 1200,
+          "height": 1600,
+          "size": 710510,
+          "uploadedDate": "2020-06-01T16:24:06.588Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+          "md5": "5b58fdefea9f885c7426e894a1034921",
+          "width": 1200,
+          "height": 1600,
+          "size": 710510,
+          "uploadedDate": "2020-06-01T16:24:20.036Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+          "md5": "5b58fdefea9f885c7426e894a1034921",
+          "width": 1200,
+          "height": 1600,
+          "size": 710510,
+          "uploadedDate": "2020-06-01T16:24:30.849Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43.jpg",
+          "md5": "c316afb7c33a9dfb892eef6b99169e43",
+          "width": 2560,
+          "height": 1440,
+          "size": 966339,
+          "uploadedDate": "2020-06-01T16:24:41.725Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+          "md5": "5b58fdefea9f885c7426e894a1034921",
+          "width": 1200,
+          "height": 1600,
+          "size": 710510,
+          "uploadedDate": "2020-06-01T16:24:50.016Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition" },
+        { "path": "games/edition/base" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-23T17:43:29.883Z",
+      "lastModifiedDate": "2024-01-28T18:24:12.368Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "Studio Wildcard" },
+        "com.epicgames.app.productSlug": { "type": "STRING", "value": "ark" }
+      },
+      "internalName": "ARK: Survival Evolved",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "84fb5b8e338d49d0aae5977eedf937b3",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 1499,
+      "price": 1499,
+      "basePrice": 1499,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "effectiveDate": "2020-06-11T15:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_1999_1659995617700",
+      "urlSlug": "ark-survival-evolved",
+      "roleNamesToGrant": [],
+      "tags": [
+        21122, 1188, 21129, 9547, 21138, 21139, 21140, 21141, 1367, 1080, 1370,
+        21146, 21147, 1117, 21149
+      ],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2020-06-11T15:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK: Survival Evolved",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "alias": "ark",
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "6a0dadfed285488bafec6f01f30f67d0",
+      "title": "ARK ModKit (UE4)",
+      "description": "Create your own ARK: Survival Evolved Mods to share with fellow survivors! The ARK Dev Kit is a streamlined version of the Unreal Engine 4 Editor that simplifies the creation and sharing process for ARK: Survival Evolved.",
+      "keyImages": [
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921_1200x1600-5b58fdefea9f885c7426e894a1034921",
+          "md5": "5b58fdefea9f885c7426e894a1034921",
+          "width": 1200,
+          "height": 1600,
+          "size": 710510,
+          "uploadedDate": "2023-10-19T23:28:21.369Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43_2560x1440-c316afb7c33a9dfb892eef6b99169e43",
+          "md5": "c316afb7c33a9dfb892eef6b99169e43",
+          "width": 2560,
+          "height": 1440,
+          "size": 966339,
+          "uploadedDate": "2023-10-19T23:28:25.299Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/ark/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921_1200x1600-5b58fdefea9f885c7426e894a1034921",
+          "md5": "5b58fdefea9f885c7426e894a1034921",
+          "width": 1200,
+          "height": 1600,
+          "size": 710510,
+          "uploadedDate": "2023-10-19T23:28:28.644Z"
+        }
+      ],
+      "categories": [
+        { "path": "engines" },
+        { "path": "editors" },
+        { "path": "applications" }
+      ],
+      "namespace": "ark",
+      "status": "ACTIVE",
+      "creationDate": "2015-07-20T20:05:25.743Z",
+      "lastModifiedDate": "2023-10-19T23:35:39.867Z",
+      "customAttributes": {
+        "com.epicgames.app.productSlug": { "type": "STRING", "value": "ark" }
+      },
+      "internalName": "ARK ModKit (UE4)",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "8077d89481064a9097dd4b8fe7bca090",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "ark",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "name": "Studio Wildcard"
+      },
+      "viewableDate": "2015-07-20T00:00:00.000Z",
+      "effectiveDate": "2015-07-20T00:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-ark_USD_0",
+      "urlSlug": "ark-modkit-ue4",
+      "roleNamesToGrant": [],
+      "tags": [9559],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": true,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "releaseDate": "2015-07-20T00:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "ARK ModKit (UE4)",
+      "selfRefundable": false,
+      "refundType": "NON_REFUNDABLE",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 11 }
+}
