@@ -1,0 +1,205 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "91168365595f4a9aa88b96fc13b66f02",
+      "title": "Dark And Light Editor",
+      "description": "DARK AND LIGHT DEV KIT",
+      "longDescription": "Forge your own Dark and Light realms!! With the Dark and Light Dev Kit, a streamlined version of the Unreal Engine 4 Editor, you have the power to create and distribute your own designs within the environs of Archos. We can’t wait to see what amazing worlds you create! (The Kit comes packed with all of the assets contained in the game, so be ready for a sizable download.)",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/darkandlight/item/DNL_HEADER-1920x959-8fd75dae8d1eb30cec3faa8200f62881.png",
+          "md5": "8fd75dae8d1eb30cec3faa8200f62881",
+          "width": 1920,
+          "height": 959,
+          "size": 2439914,
+          "uploadedDate": "2018-04-10T18:19:37.812Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "darkandlight",
+      "status": "ACTIVE",
+      "creationDate": "2018-03-06T20:04:10.403Z",
+      "lastModifiedDate": "2018-12-12T15:13:32.048Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "AllowMultipleInstances": { "type": "STRING", "value": "true" }
+      },
+      "entitlementName": "91168365595f4a9aa88b96fc13b66f02",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Snail Games USA",
+      "developerId": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "b6cc87486877459a91005b63da291b9d",
+      "title": "Call_To_Action_03",
+      "description": "OFFICAL FORUMS\nJOIN NOW",
+      "technicalDetails": "https://support.playdnl.com/hc/en-us",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/darkandlight/item/DNL_Forum-960x540-661aaa3b7c80f50e488141a09aa68532.png",
+          "md5": "661aaa3b7c80f50e488141a09aa68532",
+          "width": 960,
+          "height": 540,
+          "size": 632803,
+          "uploadedDate": "2018-04-10T18:13:41.605Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "darkandlight",
+      "status": "ACTIVE",
+      "creationDate": "2018-03-06T20:01:34.017Z",
+      "lastModifiedDate": "2018-04-10T18:13:47.314Z",
+      "entitlementName": "b6cc87486877459a91005b63da291b9d",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "7219fd0219fa492da426a79c8078f1e4",
+      "title": "Call_To_Action_02",
+      "description": "DARK AND LIGHT HOME PAGE\nLEARN MORE",
+      "technicalDetails": "https://www.playdnl.com/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/darkandlight/item/DNL_Homepage-960x540-e9cc7884e836438810b65ca7edf35104.png",
+          "md5": "e9cc7884e836438810b65ca7edf35104",
+          "width": 960,
+          "height": 540,
+          "size": 1145511,
+          "uploadedDate": "2018-04-10T18:12:27.728Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "darkandlight",
+      "status": "ACTIVE",
+      "creationDate": "2018-03-06T20:00:42.237Z",
+      "lastModifiedDate": "2018-04-10T18:12:35.374Z",
+      "entitlementName": "7219fd0219fa492da426a79c8078f1e4",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "5144c0c2d38849e8be8d25b9e2d4cca5",
+      "title": "Call_To_Action_01",
+      "description": "PLAY DARK AND LIGHT\nBUY NOW",
+      "technicalDetails": "https://store.steampowered.com/app/529180/",
+      "keyImages": [
+        {
+          "type": "Screenshot",
+          "url": "https://cdn1.epicgames.com/darkandlight/item/DNL_Play-960x540-c5e99902c7d52880cb048a8c8a68d0a0.png",
+          "md5": "c5e99902c7d52880cb048a8c8a68d0a0",
+          "width": 960,
+          "height": 540,
+          "size": 949733,
+          "uploadedDate": "2018-04-10T18:09:32.482Z"
+        }
+      ],
+      "categories": [{ "path": "layoutcontent" }],
+      "namespace": "darkandlight",
+      "status": "ACTIVE",
+      "creationDate": "2018-03-06T19:59:13.715Z",
+      "lastModifiedDate": "2018-04-10T18:11:05.140Z",
+      "entitlementName": "5144c0c2d38849e8be8d25b9e2d4cca5",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "developer": "Epic Games",
+      "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+      "eulaIds": [],
+      "endOfSupport": false,
+      "unsearchable": false
+    },
+    {
+      "id": "d9e2844f41154a6986b9ef6d11811726",
+      "title": "Dark and Light Editor",
+      "description": "Dark and Light Editor",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/darkandlight/item/DarkLight__White-993x398-81593dccc12d9dddebfbfe9fb3309e13.png",
+          "md5": "81593dccc12d9dddebfbfe9fb3309e13",
+          "width": 993,
+          "height": 398,
+          "size": 47472,
+          "uploadedDate": "2018-11-15T18:06:40.449Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/darkandlight/item/darkandlighttile-1920x959-8fd75dae8d1eb30cec3faa8200f62881.png",
+          "md5": "8fd75dae8d1eb30cec3faa8200f62881",
+          "width": 1920,
+          "height": 959,
+          "size": 2439914,
+          "uploadedDate": "2018-12-05T02:25:42.097Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/darkandlight/item/Dark-and-Light-1280x720-29f1272e5ef00e9a25a8a0a42fefa08d.jpg",
+          "md5": "29f1272e5ef00e9a25a8a0a42fefa08d",
+          "width": 1280,
+          "height": 720,
+          "size": 120558,
+          "uploadedDate": "2018-12-06T23:20:35.898Z"
+        },
+        {
+          "type": "DieselGameBoxTall",
+          "url": "https://cdn1.epicgames.com/darkandlight/item/darkandlighttile-1920x959-8fd75dae8d1eb30cec3faa8200f62881.png",
+          "md5": "8fd75dae8d1eb30cec3faa8200f62881",
+          "width": 1920,
+          "height": 959,
+          "size": 2439914,
+          "uploadedDate": "2019-11-21T16:30:14.284Z"
+        }
+      ],
+      "categories": [{ "path": "engines" }, { "path": "applications" }],
+      "namespace": "darkandlight",
+      "status": "ACTIVE",
+      "creationDate": "2018-03-06T19:57:06.585Z",
+      "lastModifiedDate": "2022-04-05T14:11:28.634Z",
+      "customAttributes": {
+        "CanRunOffline": { "type": "STRING", "value": "true" },
+        "AllowMultipleInstances": { "type": "STRING", "value": "true" },
+        "FolderName": { "type": "STRING", "value": "DarkandLightEditor" }
+      },
+      "entitlementName": "DarkAndLightEditor",
+      "entitlementType": "EXECUTABLE",
+      "itemType": "DURABLE",
+      "releaseInfo": [
+        {
+          "id": "d82ad1e40b514592be5831b59ebe93af",
+          "appId": "DarkAndLightEditor",
+          "compatibleApps": [],
+          "platform": ["Windows"],
+          "dateAdded": "2018-03-06T00:00:00.000Z",
+          "releaseNote": "",
+          "versionTitle": ""
+        }
+      ],
+      "developer": "Snail Games USA",
+      "developerId": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+      "eulaIds": ["(darkandlight && unreal_engine)"],
+      "installModes": [],
+      "endOfSupport": false,
+      "ageGatings": {},
+      "applicationId": "",
+      "unsearchable": false
+    }
+  ],
+  "paging": { "count": 1000, "start": 0, "total": 5 }
+}

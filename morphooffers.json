@@ -1,0 +1,451 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "de82fb11f23b42f79f0eab849d60bfc0",
+      "title": "Hello Neighbor: Hide and Seek - Humble Bundle",
+      "description": "Hello Neighbor: Hide and Seek - Humble Bundle",
+      "keyImages": [
+        {
+          "type": "ESRB",
+          "url": "https://cdn1.epicgames.com/morpho/item/HN_HideNSeak-842x404-3551cd52f85392f8ba5ea5f2abf0d29b.png",
+          "md5": "3551cd52f85392f8ba5ea5f2abf0d29b",
+          "width": 842,
+          "height": 404,
+          "size": 40843,
+          "uploadedDate": "2019-04-23T21:12:35.396Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionHNHS-330x440-d14dcbc2a5ec820e719dc0d252ade195.jpg",
+          "md5": "d14dcbc2a5ec820e719dc0d252ade195",
+          "width": 330,
+          "height": 440,
+          "size": 97326,
+          "uploadedDate": "2019-06-11T22:48:54.089Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2019-06-11T22:49:05.663Z",
+      "lastModifiedDate": "2020-04-29T00:38:36.810Z",
+      "internalName": "Hello Neighbor: Hide and Seek - Humble Bundle",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "e68461b3d4d44c9d9e90df6bfca124cf",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "morpho",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "EUR",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "name": "tinyBuild Games"
+      },
+      "effectiveDate": "2050-01-01T00:00:00.000Z",
+      "vatIncluded": true,
+      "numOfCodes": 1,
+      "isCodeRedemptionOnly": true,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-morpho_USD_0",
+      "urlSlug": "hello-neighbor-hide-and-seek-humble-bundle",
+      "roleNamesToGrant": [],
+      "tags": [],
+      "purchaseLimit": 1,
+      "ignoreOrder": true,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": false,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "releaseDate": "2019-02-06T10:38:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Hello Neighbor: Hide and Seek - Humble Bundle",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "5e13788bf93e43928e63a24ea657be94",
+      "title": "MorphoDevAudience",
+      "description": "MorphoDevAudience",
+      "keyImages": [],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-12T16:19:59.620Z",
+      "lastModifiedDate": "2020-04-29T00:38:36.810Z",
+      "internalName": "MorphoDevAudience",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "be54b2d375114c42927ecb8d79ece5a2",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "morpho",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "EUR",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "name": "tinyBuild Games"
+      },
+      "effectiveDate": "2018-12-12T11:19:00.000Z",
+      "vatIncluded": true,
+      "isCodeRedemptionOnly": true,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-morpho_USD_0",
+      "urlSlug": "morphodevaudience",
+      "roleNamesToGrant": [],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": false,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "title4Sort": "MorphoDevAudience",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "2259e15b6cd4436f9b918ae31b699fd5",
+      "title": "Hello Neighbor: Hide and Seek Demo",
+      "description": "Free Demo Version of Hello Neighbor: Hide and Seek gives you access to the first two acts of the game.",
+      "keyImages": [
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/morpho/Medium Size 1288 x 1450 (1)-1288x1450-89e000b255d99d495ba53b7d33b8f5c7_1288x1450-89e000b255d99d495ba53b7d33b8f5c7",
+          "md5": "89e000b255d99d495ba53b7d33b8f5c7",
+          "width": 1288,
+          "height": 1450,
+          "size": 1732674,
+          "uploadedDate": "2022-06-10T15:24:11.991Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/morpho/HelloNeighbor_HeroImage_1290x725-1290x725-ac10d115e946ba8f6329d8b354b11c71_1290x725-ac10d115e946ba8f6329d8b354b11c71",
+          "md5": "ac10d115e946ba8f6329d8b354b11c71",
+          "width": 1290,
+          "height": 725,
+          "size": 181702,
+          "uploadedDate": "2022-06-10T15:24:17.386Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/morpho/Medium Size 1288 x 1450 (1)-1288x1450-89e000b255d99d495ba53b7d33b8f5c7_1288x1450-89e000b255d99d495ba53b7d33b8f5c7",
+          "md5": "89e000b255d99d495ba53b7d33b8f5c7",
+          "width": 1288,
+          "height": 1450,
+          "size": 1732674,
+          "uploadedDate": "2022-06-10T15:24:22.427Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/offer/morpho/2018-12-06-540x336-b72da4a7d7637fbbf09c4061dde784ff_540x336-b72da4a7d7637fbbf09c4061dde784ff",
+          "md5": "b72da4a7d7637fbbf09c4061dde784ff",
+          "width": 540,
+          "height": 336,
+          "size": 60790,
+          "uploadedDate": "2022-06-10T15:24:04.174Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/demo" },
+        { "path": "applications" }
+      ],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-11T15:53:29.072Z",
+      "lastModifiedDate": "2022-06-10T15:33:05.836Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "isDemo": { "type": "STRING", "value": "true" },
+        "developerName": { "type": "STRING", "value": "tinyBuild" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "hello-neighbor-hide-and-seek/demo"
+        }
+      },
+      "internalName": "Hello Neighbor: Hide and Seek Demo",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "37d70869dc18486698d121ae59ddb224",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "morpho",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "EUR",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "name": "tinyBuild Games"
+      },
+      "effectiveDate": "2018-12-11T10:51:00.000Z",
+      "vatIncluded": true,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-morpho_USD_0",
+      "urlSlug": "hello-neighbor-hide-and-seek-demo",
+      "roleNamesToGrant": [],
+      "tags": [1216, 1370, 1084, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "releaseDate": "2018-12-11T10:51:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Hello Neighbor: Hide and Seek Demo",
+      "selfRefundable": false,
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "9b25216887da4b80af40769e6910cd20",
+      "title": "Hello Neighbor: Hide and Seek",
+      "description": "Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor’s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with a loss of a family member.",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/epic/offer/hnhs_logo-1013x682-4dca9e4b97d7480d76e741c728a534fd.png",
+          "md5": "4dca9e4b97d7480d76e741c728a534fd",
+          "width": 1013,
+          "height": 682,
+          "size": 111893,
+          "uploadedDate": "2018-12-17T20:16:40.539Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/HN_HS_Portrait-644x725-5afef6f77959d34a4b70e95410cc6277.jpg",
+          "md5": "5afef6f77959d34a4b70e95410cc6277",
+          "width": 644,
+          "height": 725,
+          "size": 118310,
+          "uploadedDate": "2018-12-17T20:16:52.829Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/hn_hs_wide-960x540-d93ca0022031d0baa3c42cf7e6621181.jpg",
+          "md5": "d93ca0022031d0baa3c42cf7e6621181",
+          "width": 960,
+          "height": 540,
+          "size": 208885,
+          "uploadedDate": "2019-03-27T17:19:18.724Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/HN_HS_Portrait-644x725-5afef6f77959d34a4b70e95410cc6277.jpg",
+          "md5": "5afef6f77959d34a4b70e95410cc6277",
+          "width": 644,
+          "height": 725,
+          "size": 118310,
+          "uploadedDate": "2018-12-17T20:16:52.829Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/morpho/offer/HelloNeighbor_Thumb-1288x1441-7d96c2c379d1f5e860d6f9757b41db05.png",
+          "md5": "7d96c2c379d1f5e860d6f9757b41db05",
+          "width": 1288,
+          "height": 1441,
+          "size": 1444841,
+          "uploadedDate": "2019-05-02T15:24:26.022Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/hn_hs_wide-960x540-d93ca0022031d0baa3c42cf7e6621181.jpg",
+          "md5": "d93ca0022031d0baa3c42cf7e6621181",
+          "width": 960,
+          "height": 540,
+          "size": 208885,
+          "uploadedDate": "2020-02-11T09:41:44.790Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition/base" },
+        { "path": "games/edition" },
+        { "path": "applications" }
+      ],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-28T21:51:19.875Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.485Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "tinyBuild" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "hello-neighbor-hide-and-seek/home"
+        }
+      },
+      "internalName": "Hello Neighbor: Hide and Seek",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "60517ad2be01459eb8d56af55ec755bb",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "morpho",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "EUR",
+      "currentPrice": 2499,
+      "price": 2499,
+      "basePrice": 2999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "name": "tinyBuild Games"
+      },
+      "effectiveDate": "2018-11-28T16:50:00.000Z",
+      "vatIncluded": true,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-morpho_USD_2999_29.99usdsrp",
+      "urlSlug": "hello-neighbor-hide-and-seek",
+      "roleNamesToGrant": [],
+      "tags": [1216, 21894, 1370, 9547, 1084, 1117],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2018-12-07T14:00:00.000Z",
+      "title4Sort": "Hello Neighbor Hide & Seek",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "0a4b437d7ffc411bb42d391a6a8ed2b0",
+      "title": "MorphoCodeRedemptionOnly",
+      "description": "MorphoCodeRedemptionOnly",
+      "keyImages": [],
+      "categories": [{ "path": "games" }],
+      "namespace": "morpho",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-28T18:07:00.135Z",
+      "lastModifiedDate": "2020-04-29T00:38:36.810Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" }
+      },
+      "internalName": "MorphoCodeRedemptionOnly",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "60517ad2be01459eb8d56af55ec755bb",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "morpho",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "EUR",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "name": "tinyBuild Games"
+      },
+      "effectiveDate": "2018-11-28T13:06:00.000Z",
+      "vatIncluded": true,
+      "numOfCodes": 1,
+      "isCodeRedemptionOnly": true,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-morpho_USD_0",
+      "urlSlug": "morpho",
+      "roleNamesToGrant": [],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": true,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "title4Sort": "MorphoCodeRedemptionOnly",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 5 }
+}

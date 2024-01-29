@@ -1,0 +1,133 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "497cdc35842e458ca10a1edae95ae181",
+      "title": "Shadow Complex Remastered",
+      "description": "SHADOW COMPLEX IS BACK....AND BETTER THAN EVER!",
+      "keyImages": [
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/EpicStore_Medium_NoLogo_1288x1450-1288x1450-784edc73d4f0d6b1fb992b9dcbd64c83.jpg",
+          "md5": "784edc73d4f0d6b1fb992b9dcbd64c83",
+          "width": 1288,
+          "height": 1450,
+          "size": 587672,
+          "uploadedDate": "2018-11-29T00:18:00.942Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/vprwide-960x540-ab9c6c9f4d2d7b8438047fcb8972876f.jpg",
+          "md5": "ab9c6c9f4d2d7b8438047fcb8972876f",
+          "width": 960,
+          "height": 540,
+          "size": 136114,
+          "uploadedDate": "2019-03-27T15:08:38.220Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/EpicStore_Medium_NoLogo_1288x1450-1288x1450-784edc73d4f0d6b1fb992b9dcbd64c83.jpg",
+          "md5": "784edc73d4f0d6b1fb992b9dcbd64c83",
+          "width": 1288,
+          "height": 1450,
+          "size": 587672,
+          "uploadedDate": "2018-11-29T00:18:00.942Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/vprwide-960x540-ab9c6c9f4d2d7b8438047fcb8972876f.jpg",
+          "md5": "ab9c6c9f4d2d7b8438047fcb8972876f",
+          "width": 960,
+          "height": 540,
+          "size": 136114,
+          "uploadedDate": "2020-02-11T09:41:44.790Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/vpr/offer/shadown_logo-548x552-907ea59706669232c47ceb46ac71956b-548x552-907ea59706669232c47ceb46ac71956b-548x552-393c35ae6d12a7edd0f81b91291cebe7.png",
+          "md5": "393c35ae6d12a7edd0f81b91291cebe7",
+          "width": 548,
+          "height": 552,
+          "size": 91301,
+          "uploadedDate": "2021-02-15T18:44:06.271Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition" },
+        { "path": "games/edition/base" },
+        { "path": "applications" }
+      ],
+      "namespace": "vpr",
+      "status": "ACTIVE",
+      "creationDate": "2015-07-30T18:15:59.033Z",
+      "lastModifiedDate": "2022-03-07T15:15:08.314Z",
+      "customAttributes": {
+        "developerName": { "type": "STRING", "value": "Epic Games" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "shadow-complex"
+        }
+      },
+      "internalName": "Shadow Complex Remastered",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "afa04be9e4e5416c8641cc0398889220",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "vpr",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "EUR",
+      "currentPrice": 1499,
+      "price": 1499,
+      "basePrice": 1499,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "name": "Epic Games"
+      },
+      "viewableDate": "2015-07-30T00:00:00.000Z",
+      "effectiveDate": "2015-07-30T00:00:00.000Z",
+      "expiryDate": "3000-09-01T15:00:00.000Z",
+      "vatIncluded": true,
+      "numOfCodes": 1,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "SC_Game",
+      "merchantGroup": "VPR_MKT",
+      "priceTier": "prod-vpr_USD_1499",
+      "urlSlug": "viperdevplaytest",
+      "roleNamesToGrant": [],
+      "tags": [1216, 21894, 1370, 9547, 9548, 10719],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": false,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2009-08-19T14:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Shadow Complex Remastered",
+      "countriesBlacklist": ["RU"],
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "pcReleaseDate": "2009-08-19T14:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 1 }
+}

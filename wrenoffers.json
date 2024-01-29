@@ -1,0 +1,257 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "cf6f3f919d2748ac8f5f189d57200129",
+      "title": "Nightstorm Isle - DLC",
+      "description": "The wanderer accompanies a mother on a quest to find her lost daughter. Venturing far from familiar ash covered shores, players descend into the perilous depths of Nightstorm Isle.",
+      "longDescription": "The wanderer accompanies a mother on a quest to find her lost daughter. Venturing far from familiar ash covered shores, players descend into the perilous depths of Nightstorm Isle. Countless horrors lurk below, yet nothing will prepare you for the ancient evil they imprison.",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg",
+          "md5": "05cc053e6b3219ae5e0cd3ee1ada34e1",
+          "width": 330,
+          "height": 440,
+          "size": 114345,
+          "uploadedDate": "2019-09-03T17:54:35.232Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg",
+          "md5": "05cc053e6b3219ae5e0cd3ee1ada34e1",
+          "width": 330,
+          "height": 440,
+          "size": 114345,
+          "uploadedDate": "2019-09-03T17:54:52.639Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/wren/offer/NightstormIsle_Landscape_2560x1440-2560x1440-052f4bec86970b527c884f6b487edc03.jpg",
+          "md5": "052f4bec86970b527c884f6b487edc03",
+          "width": 2560,
+          "height": 1440,
+          "size": 1680772,
+          "uploadedDate": "2020-02-27T14:21:57.854Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg",
+          "md5": "05cc053e6b3219ae5e0cd3ee1ada34e1",
+          "width": 330,
+          "height": 440,
+          "size": 114345,
+          "uploadedDate": "2020-04-10T00:20:10.478Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "games" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2019-09-03T17:08:45.735Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.696Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Annapurna Interactive" },
+        "developerName": { "type": "STRING", "value": "A44" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "ashen/dlc1"
+        }
+      },
+      "internalName": "Nightstorm Isle - DLC",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "4c01dfdcdcd14595a8581217f5f0a255",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "wren",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+        "name": "Annapurna Interactive"
+      },
+      "effectiveDate": "2019-09-03T14:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-wren_USD_999",
+      "urlSlug": "ashen--dlc1",
+      "roleNamesToGrant": [],
+      "tags": [1216, 1264, 1367, 9547],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": false,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2018-12-07T15:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Nightstorm Isle - DLC",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "32a37ec072474cf4a621d0ce28505f36",
+      "title": "Ashen",
+      "description": "Ashen is an open world co-op action RPG about a wanderer in search of a place to call home. Passive Co-Op Multiplayer As you adventure through Ashen, you'll occasionally encounter other players in a massive open world, akin to the passive multiplayer of Journey. It's up to y...",
+      "keyImages": [
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667.jpg",
+          "md5": "6dec56493dce61dd88c7e80052294667",
+          "width": 2580,
+          "height": 1450,
+          "size": 684727,
+          "uploadedDate": "2018-11-30T22:59:47.476Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-ce82217f72fb3ed06188d98dd7563f89.jpg",
+          "md5": "ce82217f72fb3ed06188d98dd7563f89",
+          "width": 1288,
+          "height": 1450,
+          "size": 102738,
+          "uploadedDate": "2018-12-07T18:47:58.258Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/epic/offer/Store_Ashen_logo-1850x461-09ebf4211fbf9acf6203b383f985216b.png",
+          "md5": "09ebf4211fbf9acf6203b383f985216b",
+          "width": 1850,
+          "height": 461,
+          "size": 42380,
+          "uploadedDate": "2019-08-02T19:41:12.312Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-ce82217f72fb3ed06188d98dd7563f89.jpg",
+          "md5": "ce82217f72fb3ed06188d98dd7563f89",
+          "width": 1288,
+          "height": 1450,
+          "size": 102738,
+          "uploadedDate": "2018-12-07T18:47:58.258Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/wren/offer/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667.jpg",
+          "md5": "6dec56493dce61dd88c7e80052294667",
+          "width": 2580,
+          "height": 1450,
+          "size": 684727,
+          "uploadedDate": "2018-11-30T23:04:42.997Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/wren/offer/Ashen_PurchaseImage-330x390-87c78443c03416cc4dec9dd9a0ac8239.jpg",
+          "md5": "87c78443c03416cc4dec9dd9a0ac8239",
+          "width": 330,
+          "height": 390,
+          "size": 52148,
+          "uploadedDate": "2019-04-29T14:26:39.384Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/wren/offer/Ashen_Landscape_2560x1440-2560x1440-f19f88cf4b60fd83c8c9cae10948931f.jpg",
+          "md5": "f19f88cf4b60fd83c8c9cae10948931f",
+          "width": 2560,
+          "height": 1440,
+          "size": 1216087,
+          "uploadedDate": "2020-02-27T14:20:13.336Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition/base" },
+        { "path": "games/edition" },
+        { "path": "applications" }
+      ],
+      "namespace": "wren",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-28T19:09:45.015Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.622Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Annapurna Interactive" },
+        "developerName": { "type": "STRING", "value": "A44" },
+        "com.epicgames.app.productSlug": { "type": "STRING", "value": "ashen" }
+      },
+      "internalName": "Ashen",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "f0cacc038f734388a2983c7b7100f0f3",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "wren",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 3999,
+      "price": 3999,
+      "basePrice": 3999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+        "name": "Annapurna Interactive"
+      },
+      "effectiveDate": "2018-11-28T14:09:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-wren_USD_3999_39.99usdsrp",
+      "urlSlug": "ashen",
+      "roleNamesToGrant": [],
+      "tags": [1216, 1264, 1367, 1370, 1307, 9547],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "MP_Game",
+      "shareRevenue": true,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2018-12-07T14:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Ashen",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 2 }
+}

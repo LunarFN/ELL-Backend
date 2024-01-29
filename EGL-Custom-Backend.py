@@ -176,6 +176,30 @@ def savedpayment():
         data = json.load(savedpayment_file)
     return jsonify(data)
 
+@app.route('/catalog/api/shared/namespace/ark/items', methods=['GET'])
+def arkitems():
+    with open('arkitems.json', 'r') as arkitems_file:
+        data = json.load(arkitems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/darkandlight/items', methods=['GET'])
+def darkandlightitems():
+    with open('darkandlightitems.json', 'r') as darkandlightitems_file:
+        data = json.load(darkandlightitems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/helloneighbor/items', methods=['GET'])
+def helloneighboritems():
+    with open('helloneighboritems.json', 'r') as helloneighboritems_file:
+        data = json.load(helloneighboritems_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/mars2030/items', methods=['GET'])
+def mars2030items():
+    with open('mars2030items.json', 'r') as mars2030items_file:
+        data = json.load(mars2030items_file)
+    return data
+
 @app.route('/catalog/api/shared/namespace/conanexiles/items', methods=['GET'])
 def conanexilesitems():
     with open('conanexilesitems.json', 'r') as conanexilesitems_file:
@@ -336,6 +360,42 @@ def squadoffers():
 def vrfunhouseoffers():
     with open('vrfunhouseoffers.json', 'r') as vrfunhouseoffers_file:
         data = json.load(vrfunhouseoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/wren/offers', methods=['GET'])
+def wrenoffers():
+    with open('wrenoffers.json', 'r') as wrenoffers_file:
+        data = json.load(wrenoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/vpr/offers', methods=['GET'])
+def vproffers():
+    with open('vproffers.json', 'r')as vproffers_file:
+        data = json.load(vproffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/morpho/offers', methods=['GET'])
+def morphooffers():
+    with open('morphooffers.json', 'r') as morphooffers_file:
+        data = json.load(morphooffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/min/offers', methods=['GET'])
+def minoffers():
+    with open('minoffers.json', 'r') as minoffers_file:
+        data = json.load(minoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/ut/offers', methods=['GET'])
+def utoffers():
+    with open('utoffers.json', 'r') as utoffers_file:
+        data = json.load(utoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/fn/offers', methods=['GET'])
+def fnoffers():
+    with open('fnoffers.json', 'r') as fnoffers_file:
+        data = json.load(fnoffers_file)
     return data
 
 @app.route('/priceengine/api/shared/offers/price', methods=['POST'])
