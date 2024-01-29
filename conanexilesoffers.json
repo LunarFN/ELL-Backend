@@ -1,0 +1,2695 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "ecd7456c8cc3411ebfc5d9a6dc27bf48",
+      "title": "Conan Exiles - 1,200 Crom Coins",
+      "description": "Purchase 1,200 Crom Coins, an in-game currency that can be spent to acquire the Battle Pass or items that are available on the Bazaar, which include various cosmetic armors and weapons, building pieces, decorations, mounts, saddles, and more.",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles1200CromCoins_Funcom_Packs_S2_1200x1600-613a3e6f685c6e0fb3e77c41f125dc6a_1200x1600-613a3e6f685c6e0fb3e77c41f125dc6a",
+          "md5": "613a3e6f685c6e0fb3e77c41f125dc6a",
+          "width": 1200,
+          "height": 1600,
+          "size": 517245,
+          "uploadedDate": "2022-08-30T18:07:51.441Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles1200CromCoins_Funcom_Packs_S2_1200x1600-613a3e6f685c6e0fb3e77c41f125dc6a_1200x1600-613a3e6f685c6e0fb3e77c41f125dc6a",
+          "md5": "613a3e6f685c6e0fb3e77c41f125dc6a",
+          "width": 1200,
+          "height": 1600,
+          "size": 517245,
+          "uploadedDate": "2022-08-30T18:07:54.004Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles1200CromCoins_Funcom_Packs_S1_2560x1440-51c9679e2d04e74753e57b1da6797ca7_2560x1440-51c9679e2d04e74753e57b1da6797ca7",
+          "md5": "51c9679e2d04e74753e57b1da6797ca7",
+          "width": 2560,
+          "height": 1440,
+          "size": 915890,
+          "uploadedDate": "2022-08-30T18:07:57.098Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles1200CromCoins_Funcom_Packs_S2_1200x1600-613a3e6f685c6e0fb3e77c41f125dc6a_1200x1600-613a3e6f685c6e0fb3e77c41f125dc6a",
+          "md5": "613a3e6f685c6e0fb3e77c41f125dc6a",
+          "width": 1200,
+          "height": 1600,
+          "size": 517245,
+          "uploadedDate": "2022-08-30T18:08:00.316Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles1200CromCoins_Funcom_Packs_S1_2560x1440-51c9679e2d04e74753e57b1da6797ca7_2560x1440-51c9679e2d04e74753e57b1da6797ca7",
+          "md5": "51c9679e2d04e74753e57b1da6797ca7",
+          "width": 2560,
+          "height": 1440,
+          "size": 915890,
+          "uploadedDate": "2022-08-30T18:08:03.165Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles1200CromCoins_Funcom_Packs_S2_1200x1600-613a3e6f685c6e0fb3e77c41f125dc6a_1200x1600-613a3e6f685c6e0fb3e77c41f125dc6a",
+          "md5": "613a3e6f685c6e0fb3e77c41f125dc6a",
+          "width": 1200,
+          "height": 1600,
+          "size": 517245,
+          "uploadedDate": "2022-08-30T18:08:05.921Z"
+        }
+      ],
+      "categories": [{ "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2022-01-20T19:36:59.330Z",
+      "lastModifiedDate": "2023-11-21T15:00:33.885Z",
+      "customAttributes": {},
+      "internalName": "Conan Exiles - 1,200 Crom Coins",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "ea180102b0404623a4c91950716bdb46",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2022-09-01T12:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_0_1642717628785",
+      "urlSlug": "conan-exiles-1200-crom-coins",
+      "roleNamesToGrant": [],
+      "tags": [9547, 29899],
+      "purchaseLimit": -1,
+      "ignoreOrder": true,
+      "fulfillToGroup": false,
+      "fraudItemType": "VCurrency",
+      "shareRevenue": true,
+      "offerType": "VIRTUAL_CURRENCY",
+      "unsearchable": false,
+      "releaseDate": "2022-09-01T12:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - 1,200 Crom Coins",
+      "selfRefundable": false,
+      "refundType": "NON_REFUNDABLE",
+      "pcReleaseDate": "2022-09-01T12:00:00.000Z",
+      "publisherDisplayName": "Funcom",
+      "developerDisplayName": "Funcom",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "39b859913f0e4846ab884117cc31e5b0",
+      "title": "Conan Exiles - 2,640 Crom Coins",
+      "description": "Purchase 2,640 Crom Coins, an in-game currency that can be spent to acquire the Battle Pass or items that are available on the Bazaar, which include various cosmetic armors and weapons, building pieces, decorations, mounts, saddles, and more.",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles2640CromCoins_Funcom_Packs_S2_1200x1600-7b2409fc18b206a7b170af313764294e_1200x1600-7b2409fc18b206a7b170af313764294e",
+          "md5": "7b2409fc18b206a7b170af313764294e",
+          "width": 1200,
+          "height": 1600,
+          "size": 557975,
+          "uploadedDate": "2022-08-30T18:13:47.695Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles2640CromCoins_Funcom_Packs_S2_1200x1600-7b2409fc18b206a7b170af313764294e_1200x1600-7b2409fc18b206a7b170af313764294e",
+          "md5": "7b2409fc18b206a7b170af313764294e",
+          "width": 1200,
+          "height": 1600,
+          "size": 557975,
+          "uploadedDate": "2022-08-30T18:13:51.645Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles2640CromCoins_Funcom_Packs_S1_2560x1440-5ad14648fc6cf772d9b744ec71abeb4c_2560x1440-5ad14648fc6cf772d9b744ec71abeb4c",
+          "md5": "5ad14648fc6cf772d9b744ec71abeb4c",
+          "width": 2560,
+          "height": 1440,
+          "size": 968903,
+          "uploadedDate": "2022-08-30T18:13:56.162Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles2640CromCoins_Funcom_Packs_S2_1200x1600-7b2409fc18b206a7b170af313764294e_1200x1600-7b2409fc18b206a7b170af313764294e",
+          "md5": "7b2409fc18b206a7b170af313764294e",
+          "width": 1200,
+          "height": 1600,
+          "size": 557975,
+          "uploadedDate": "2022-08-30T18:14:08.185Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles2640CromCoins_Funcom_Packs_S1_2560x1440-5ad14648fc6cf772d9b744ec71abeb4c_2560x1440-5ad14648fc6cf772d9b744ec71abeb4c",
+          "md5": "5ad14648fc6cf772d9b744ec71abeb4c",
+          "width": 2560,
+          "height": 1440,
+          "size": 968903,
+          "uploadedDate": "2022-08-30T18:14:11.693Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles2640CromCoins_Funcom_Packs_S2_1200x1600-7b2409fc18b206a7b170af313764294e_1200x1600-7b2409fc18b206a7b170af313764294e",
+          "md5": "7b2409fc18b206a7b170af313764294e",
+          "width": 1200,
+          "height": 1600,
+          "size": 557975,
+          "uploadedDate": "2022-08-30T18:14:14.532Z"
+        }
+      ],
+      "categories": [{ "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2022-01-20T19:37:51.565Z",
+      "lastModifiedDate": "2023-11-21T15:00:33.888Z",
+      "customAttributes": {},
+      "internalName": "Conan Exiles - 2,640 Crom Coins",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "dcea0fa484dc4f2bb7d629c34ab14024",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 1999,
+      "price": 1999,
+      "basePrice": 1999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2022-09-01T12:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_0_1642718086175",
+      "urlSlug": "conan-exiles-2640-crom-coins",
+      "roleNamesToGrant": [],
+      "tags": [9547, 29899],
+      "purchaseLimit": -1,
+      "ignoreOrder": true,
+      "fulfillToGroup": false,
+      "fraudItemType": "VCurrency",
+      "shareRevenue": true,
+      "offerType": "VIRTUAL_CURRENCY",
+      "unsearchable": false,
+      "releaseDate": "2022-09-01T12:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - 2,640 Crom Coins",
+      "selfRefundable": false,
+      "refundType": "NON_REFUNDABLE",
+      "pcReleaseDate": "2022-09-01T12:00:00.000Z",
+      "publisherDisplayName": "Funcom",
+      "developerDisplayName": "Funcom",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "fc5b57664e3e4c2fb9d4a9c0cd9e7782",
+      "title": "Conan Exiles - 5,040 Crom Coins",
+      "description": "Purchase 5,040 Crom Coins, an in-game currency that can be spent to acquire the Battle Pass or items that are available on the Bazaar, which include various cosmetic armors and weapons, building pieces, decorations, mounts, saddles, and more.",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles5040CromCoins_Funcom_Packs_S2_1200x1600-552c25a7d228c6bd593314149252aa97_1200x1600-552c25a7d228c6bd593314149252aa97",
+          "md5": "552c25a7d228c6bd593314149252aa97",
+          "width": 1200,
+          "height": 1600,
+          "size": 580323,
+          "uploadedDate": "2022-08-30T18:09:57.598Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles5040CromCoins_Funcom_Packs_S2_1200x1600-552c25a7d228c6bd593314149252aa97_1200x1600-552c25a7d228c6bd593314149252aa97",
+          "md5": "552c25a7d228c6bd593314149252aa97",
+          "width": 1200,
+          "height": 1600,
+          "size": 580323,
+          "uploadedDate": "2022-08-30T18:10:03.393Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles5040CromCoins_Funcom_Packs_S1_2560x1440-2a3210bc1cddde1f11fc27d809378eec_2560x1440-2a3210bc1cddde1f11fc27d809378eec",
+          "md5": "2a3210bc1cddde1f11fc27d809378eec",
+          "width": 2560,
+          "height": 1440,
+          "size": 968611,
+          "uploadedDate": "2022-08-30T18:10:06.592Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles5040CromCoins_Funcom_Packs_S2_1200x1600-552c25a7d228c6bd593314149252aa97_1200x1600-552c25a7d228c6bd593314149252aa97",
+          "md5": "552c25a7d228c6bd593314149252aa97",
+          "width": 1200,
+          "height": 1600,
+          "size": 580323,
+          "uploadedDate": "2022-08-30T18:10:52.969Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles5040CromCoins_Funcom_Packs_S1_2560x1440-2a3210bc1cddde1f11fc27d809378eec_2560x1440-2a3210bc1cddde1f11fc27d809378eec",
+          "md5": "2a3210bc1cddde1f11fc27d809378eec",
+          "width": 2560,
+          "height": 1440,
+          "size": 968611,
+          "uploadedDate": "2022-08-30T18:10:58.559Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles5040CromCoins_Funcom_Packs_S2_1200x1600-552c25a7d228c6bd593314149252aa97_1200x1600-552c25a7d228c6bd593314149252aa97",
+          "md5": "552c25a7d228c6bd593314149252aa97",
+          "width": 1200,
+          "height": 1600,
+          "size": 580323,
+          "uploadedDate": "2022-08-30T18:11:02.355Z"
+        }
+      ],
+      "categories": [{ "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2022-01-20T19:38:41.857Z",
+      "lastModifiedDate": "2023-11-21T15:00:33.885Z",
+      "customAttributes": {},
+      "internalName": "Conan Exiles - 5,040 Crom Coins",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "e5008aa2a74e4246afac33c9e2d135f9",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 3499,
+      "price": 3499,
+      "basePrice": 3499,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2022-09-01T12:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_0_1642718143554",
+      "urlSlug": "conan-exiles-5040-crom-coins",
+      "roleNamesToGrant": [],
+      "tags": [9547, 29899],
+      "purchaseLimit": -1,
+      "ignoreOrder": true,
+      "fulfillToGroup": false,
+      "fraudItemType": "VCurrency",
+      "shareRevenue": true,
+      "offerType": "VIRTUAL_CURRENCY",
+      "unsearchable": false,
+      "releaseDate": "2022-09-01T12:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - 5,040 Crom Coins",
+      "selfRefundable": false,
+      "refundType": "NON_REFUNDABLE",
+      "pcReleaseDate": "2022-09-01T12:00:00.000Z",
+      "publisherDisplayName": "Funcom",
+      "developerDisplayName": "Funcom",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "76182c9d6013411bb70e9d5e6257707b",
+      "title": "Conan Exiles - 7,800 Crom Coins",
+      "description": "Purchase 7,800 Crom Coins, an in-game currency that can be spent to acquire the Battle Pass or items that are available on the Bazaar, which include various cosmetic armors and weapons, building pieces, decorations, mounts, saddles, and more.",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles7800CromCoins_Funcom_Packs_S2_1200x1600-dfd710e822fcfbb53066671e01dddd5d_1200x1600-dfd710e822fcfbb53066671e01dddd5d",
+          "md5": "dfd710e822fcfbb53066671e01dddd5d",
+          "width": 1200,
+          "height": 1600,
+          "size": 562037,
+          "uploadedDate": "2022-08-30T18:03:48.611Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles7800CromCoins_Funcom_Packs_S2_1200x1600-dfd710e822fcfbb53066671e01dddd5d_1200x1600-dfd710e822fcfbb53066671e01dddd5d",
+          "md5": "dfd710e822fcfbb53066671e01dddd5d",
+          "width": 1200,
+          "height": 1600,
+          "size": 562037,
+          "uploadedDate": "2022-08-30T18:03:51.284Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles7800CromCoins_Funcom_Packs_S1_2560x1440-e180642bf21bac1e7002038ebec89c97_2560x1440-e180642bf21bac1e7002038ebec89c97",
+          "md5": "e180642bf21bac1e7002038ebec89c97",
+          "width": 2560,
+          "height": 1440,
+          "size": 970327,
+          "uploadedDate": "2022-08-30T18:03:54.104Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles7800CromCoins_Funcom_Packs_S2_1200x1600-dfd710e822fcfbb53066671e01dddd5d_1200x1600-dfd710e822fcfbb53066671e01dddd5d",
+          "md5": "dfd710e822fcfbb53066671e01dddd5d",
+          "width": 1200,
+          "height": 1600,
+          "size": 562037,
+          "uploadedDate": "2022-08-30T18:03:56.928Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles7800CromCoins_Funcom_Packs_S1_2560x1440-e180642bf21bac1e7002038ebec89c97_2560x1440-e180642bf21bac1e7002038ebec89c97",
+          "md5": "e180642bf21bac1e7002038ebec89c97",
+          "width": 2560,
+          "height": 1440,
+          "size": 970327,
+          "uploadedDate": "2022-08-30T18:03:59.987Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExiles7800CromCoins_Funcom_Packs_S2_1200x1600-dfd710e822fcfbb53066671e01dddd5d_1200x1600-dfd710e822fcfbb53066671e01dddd5d",
+          "md5": "dfd710e822fcfbb53066671e01dddd5d",
+          "width": 1200,
+          "height": 1600,
+          "size": 562037,
+          "uploadedDate": "2022-08-30T18:04:08.682Z"
+        }
+      ],
+      "categories": [{ "path": "applications" }],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2022-01-20T19:39:43.790Z",
+      "lastModifiedDate": "2023-11-21T15:00:33.888Z",
+      "customAttributes": {},
+      "internalName": "Conan Exiles - 7,800 Crom Coins",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "19e9f8e3e9d242a5b99a626c1655ee69",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 4999,
+      "price": 4999,
+      "basePrice": 4999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2022-09-01T12:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_0_1642718185101",
+      "urlSlug": "conan-exiles-7800-crom-coins",
+      "roleNamesToGrant": [],
+      "tags": [9547, 29899],
+      "purchaseLimit": -1,
+      "ignoreOrder": true,
+      "fulfillToGroup": false,
+      "fraudItemType": "VCurrency",
+      "shareRevenue": true,
+      "offerType": "VIRTUAL_CURRENCY",
+      "unsearchable": false,
+      "releaseDate": "2022-09-01T12:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - 7,800 Crom Coins",
+      "selfRefundable": false,
+      "refundType": "NON_REFUNDABLE",
+      "pcReleaseDate": "2022-09-01T12:00:00.000Z",
+      "publisherDisplayName": "Funcom",
+      "developerDisplayName": "Funcom",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "b9229b0d1167444f87b297d2ff0827bd",
+      "title": "Conan Exiles",
+      "description": "An online multiplayer survival game, now with sorcery, set in the lands of Conan the Barbarian. Survive in a vast open world sandbox, build your home into a kingdom, and dominate your enemies in single or multiplayer.",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-9ea137ed00375045b01fd5df036e9404",
+          "md5": "9ea137ed00375045b01fd5df036e9404",
+          "width": 1200,
+          "height": 1600,
+          "size": 603168,
+          "uploadedDate": "2022-08-31T19:01:47.972Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-9ea137ed00375045b01fd5df036e9404",
+          "md5": "9ea137ed00375045b01fd5df036e9404",
+          "width": 1200,
+          "height": 1600,
+          "size": 603168,
+          "uploadedDate": "2022-08-31T19:01:50.847Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-5664d4d48160d882c4f1b25d96dd9b68",
+          "md5": "5664d4d48160d882c4f1b25d96dd9b68",
+          "width": 2560,
+          "height": 1440,
+          "size": 598543,
+          "uploadedDate": "2022-08-31T19:01:53.598Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-9ea137ed00375045b01fd5df036e9404",
+          "md5": "9ea137ed00375045b01fd5df036e9404",
+          "width": 1200,
+          "height": 1600,
+          "size": 603168,
+          "uploadedDate": "2022-08-31T19:01:58.623Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-5664d4d48160d882c4f1b25d96dd9b68",
+          "md5": "5664d4d48160d882c4f1b25d96dd9b68",
+          "width": 2560,
+          "height": 1440,
+          "size": 598543,
+          "uploadedDate": "2022-08-31T19:02:03.781Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-9ea137ed00375045b01fd5df036e9404",
+          "md5": "9ea137ed00375045b01fd5df036e9404",
+          "width": 1200,
+          "height": 1600,
+          "size": 603168,
+          "uploadedDate": "2022-08-31T19:02:06.284Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition/base" },
+        { "path": "games/edition" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-09T19:51:59.604Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.607Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles"
+        }
+      },
+      "internalName": "Conan Exiles",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "8dac02d447a64fd9be5a10bc174e81f5",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 3999,
+      "price": 3999,
+      "basePrice": 3999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_3999",
+      "urlSlug": "conan-exiles",
+      "roleNamesToGrant": [],
+      "tags": [
+        21122, 1188, 21127, 9547, 9549, 21138, 1203, 21139, 21140, 21141, 1080,
+        1370, 1307, 21149
+      ],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "MP_Game",
+      "shareRevenue": true,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "pcReleaseDate": "2018-05-08T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "alias": "conan,conan exiles,exiles,funcom",
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "b4d32dc4d62b42e180d25c9e4be181d4",
+      "title": "Conan Exiles - Architects of Argos Pack",
+      "description": "Build stunning cities and gleaming temples of shining white marble with the Architects of Argos Pack. Adorn your base with elegant statues and refreshing fountains to make it look more impressive than ever!",
+      "longDescription": "+ 49 new and exclusive building pieces.\nOrnate pieces including beautiful vaulted ceilings.\n\n+ 18 new and elegant placeables.\nDecorate your base with classical statues and fountains.\n\n+ 3 new mount saddles.\nEquip your horse with the Argossean Warhorse saddle.\n\n+ 15 new armor pieces in three sets, such as the Phalanx armor.\nLight, medium and heavy sets with an epic end-game version of each.\n\n+ 9 new weapons in the Argossean set.\nSame power as iron weapons with an epic end-game version of each weapon\n\nAll the new content in the Architects of Argos Pack is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have comparable stats to existing items.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesarchitectsofargospack-funcom-dlc-s1-2560x1440-112940716-2560x1440-91c400ce6bcd7405a61b872c3ee62942.jpg",
+          "md5": "91c400ce6bcd7405a61b872c3ee62942",
+          "width": 2560,
+          "height": 1440,
+          "size": 488882,
+          "uploadedDate": "2020-06-16T18:18:09.833Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesarchitectsofargospack-funcom-dlc-s2-1200x1600-112941513-1200x1600-47e4291dfefa18aaac6971020475315e.jpg",
+          "md5": "47e4291dfefa18aaac6971020475315e",
+          "width": 1200,
+          "height": 1600,
+          "size": 274999,
+          "uploadedDate": "2020-06-16T18:18:18.358Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesarchitectsofargospack-funcom-dlc-s2-1200x1600-112941513-1200x1600-47e4291dfefa18aaac6971020475315e.jpg",
+          "md5": "47e4291dfefa18aaac6971020475315e",
+          "width": 1200,
+          "height": 1600,
+          "size": 274999,
+          "uploadedDate": "2020-06-16T18:18:29.514Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesarchitectsofargospack-funcom-dlc-s2-1200x1600-112941513-1200x1600-47e4291dfefa18aaac6971020475315e.jpg",
+          "md5": "47e4291dfefa18aaac6971020475315e",
+          "width": 1200,
+          "height": 1600,
+          "size": 274999,
+          "uploadedDate": "2020-06-16T18:18:39.670Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T21:17:20.244Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.637Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/architects-of-argos-pack"
+        }
+      },
+      "internalName": "Conan Exiles - Architects of Argos Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "ecf2d1addd70472389122ce12479fe11",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--architects-of-argos-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Architects of Argos Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2020-05-07T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "442a76953f06408f9be742af7ee0a26f",
+      "title": "Conan Exiles - Blood and Sand Pack",
+      "description": "The battle over the Exiled lands is brutal and relentless. With the all new Blood and Sand Pack you can crush your enemies wearing all new armor sets and wielding fearsome weapons while fighting in new vaulted tunnels and arenas.",
+      "longDescription": "+ 29 new arena building pieces\nA set of building pieces made for arenas and vaults \n\n+ 15 new armor pieces in three sets, such as the Bear Shaman armor\nLight, medium and heavy sets with an epic end-game version of each\n\n+ 19 new weapons in the Bloodletter set plus all new weapons\nSame power as iron weapons with an epic end-game version of each weapon\n\n+ 15 new war banner placeables\nDecorate your new arena or castle with all new war banners\n\nAll the new content in Blood and Sand is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have comparable stats to existing items.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesbloodandsandpack-funcom-dlc-s1-2560x1440-120634547-2560x1440-888b0397d38efff1827ab0265c265702.jpg",
+          "md5": "888b0397d38efff1827ab0265c265702",
+          "width": 2560,
+          "height": 1440,
+          "size": 510860,
+          "uploadedDate": "2020-06-12T17:04:12.198Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesbloodandsandpack-funcom-dlc-s2-1200x1600-120635756-1200x1600-0404493624d8541e5f771f9b1d282ced.jpg",
+          "md5": "0404493624d8541e5f771f9b1d282ced",
+          "width": 1200,
+          "height": 1600,
+          "size": 268732,
+          "uploadedDate": "2020-06-12T17:04:29.290Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesbloodandsandpack-funcom-dlc-s2-1200x1600-120635756-1200x1600-0404493624d8541e5f771f9b1d282ced.jpg",
+          "md5": "0404493624d8541e5f771f9b1d282ced",
+          "width": 1200,
+          "height": 1600,
+          "size": 268732,
+          "uploadedDate": "2020-06-12T17:04:43.413Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesbloodandsandpack-funcom-dlc-s2-1200x1600-120635756-1200x1600-0404493624d8541e5f771f9b1d282ced.jpg",
+          "md5": "0404493624d8541e5f771f9b1d282ced",
+          "width": 1200,
+          "height": 1600,
+          "size": 268732,
+          "uploadedDate": "2020-06-12T17:04:56.169Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T19:54:28.514Z",
+      "lastModifiedDate": "2023-12-13T16:11:39.887Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/blood-and-sand-pack"
+        }
+      },
+      "internalName": "Conan Exiles - Blood and Sand Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "4b4156348d4e45bca538ffc37da93ffd",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--blood-and-sand-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Blood and Sand Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2019-09-03T16:00:00.000Z",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "758258dc846944e5b48cdaf83ae91ccd",
+      "title": "Conan Exiles - Complete Edition",
+      "description": "Experience all the content released for Conan Exiles in a single mighty bundle containing the full game, the Isle of Siptah Expansion, and every DLC! Explore the Savage Exiled Lands as brutal barbarian and corrupted sorcerer.",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesCompleteEdition_Funcom_Bundles_S2_1200x1600-d3d36bb2784afe1a91f1df9939dcd8c0",
+          "md5": "d3d36bb2784afe1a91f1df9939dcd8c0",
+          "width": 1200,
+          "height": 1600,
+          "size": 423125,
+          "uploadedDate": "2022-08-31T21:23:34.533Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesCompleteEdition_Funcom_Bundles_S2_1200x1600-d3d36bb2784afe1a91f1df9939dcd8c0",
+          "md5": "d3d36bb2784afe1a91f1df9939dcd8c0",
+          "width": 1200,
+          "height": 1600,
+          "size": 423125,
+          "uploadedDate": "2022-08-31T21:23:37.373Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesCompleteEdition_Funcom_Bundles_S1_2560x1440-0c3f383d8ca90d00af37a91e582cf769",
+          "md5": "0c3f383d8ca90d00af37a91e582cf769",
+          "width": 2560,
+          "height": 1440,
+          "size": 386183,
+          "uploadedDate": "2022-08-31T21:23:40.187Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesCompleteEdition_Funcom_Bundles_S2_1200x1600-d3d36bb2784afe1a91f1df9939dcd8c0",
+          "md5": "d3d36bb2784afe1a91f1df9939dcd8c0",
+          "width": 1200,
+          "height": 1600,
+          "size": 423125,
+          "uploadedDate": "2022-08-31T21:23:43.525Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesCompleteEdition_Funcom_Bundles_S1_2560x1440-0c3f383d8ca90d00af37a91e582cf769",
+          "md5": "0c3f383d8ca90d00af37a91e582cf769",
+          "width": 2560,
+          "height": 1440,
+          "size": 386183,
+          "uploadedDate": "2022-08-31T21:23:46.410Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesCompleteEdition_Funcom_Bundles_S2_1200x1600-d3d36bb2784afe1a91f1df9939dcd8c0",
+          "md5": "d3d36bb2784afe1a91f1df9939dcd8c0",
+          "width": 1200,
+          "height": 1600,
+          "size": 423125,
+          "uploadedDate": "2022-08-31T21:23:50.010Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-09-28T16:11:18.220Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.574Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/complete-edition-october-2021"
+        }
+      },
+      "internalName": "Conan Exiles - Complete Edition",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "ca2adfbd3e7e43c4ad6b146bd39ea182",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 15018,
+      "price": 15018,
+      "basePrice": 15018,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_8299",
+      "urlSlug": "conan-exiles-complete-edition-october-2021",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "MP_Game",
+      "shareRevenue": true,
+      "offerType": "EDITION",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Complete Edition",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "pcReleaseDate": "2021-11-23T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "e57319e4846041bc93c4962b74cf6b41",
+      "title": "Conan Exiles - Debaucheries of Derketo Pack",
+      "description": "Build your own tavern with a host of new placeables. Let it overflow with drink, play games or craft a stage for seductive dancers and entertainers. Take your treetop buildings to a whole new level with the new tree hut foundation and rope bridges.",
+      "longDescription": "+ 10 new building pieces\nPieces to build rope bridges, stages and a tree hut foundation\n\n+ 10 new armor pieces in two sets, such as the Dark Templar armor\nTwo heavy sets with an epic end-game version of each\n\n+ 12 new exclusive emotes\nJuggle, drink beer, look nonchalant, angry and much more\n\n+ 10 new outfit pieces, such as the innkeeper and noble\nDecorative clothing perfect for roleplayers\n\n+ 6 new warpaints\nDecorative warpaints symbolizing emotions, like passion or lust\n\n+ 29 new placeables for building a tavern interior plus more\nCraft wine racks, curtains, tavern counters and chess sets\n\n+ 10 new jewelry pieces\nTwo sets of jewelry, one in gold and one in silver\n\nAll the new content from Debaucheries of Derketo is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have comparable stats to existing items.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesdebaucheriesofderketopack-funcom-dlc-s1-2560x1440-120793176-2560x1440-f25f8daf411e4dd95d3f1f8b974427a7.jpg",
+          "md5": "f25f8daf411e4dd95d3f1f8b974427a7",
+          "width": 2560,
+          "height": 1440,
+          "size": 504443,
+          "uploadedDate": "2020-06-12T16:13:05.280Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesdebaucheriesofderketopack-funcom-dlc-s2-1200x1600-120794015-1200x1600-1b6e753961507e7e7ef8e0fc89f797be.jpg",
+          "md5": "1b6e753961507e7e7ef8e0fc89f797be",
+          "width": 1200,
+          "height": 1600,
+          "size": 263866,
+          "uploadedDate": "2020-06-12T16:13:17.819Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesdebaucheriesofderketopack-funcom-dlc-s2-1200x1600-120794015-1200x1600-1b6e753961507e7e7ef8e0fc89f797be.jpg",
+          "md5": "1b6e753961507e7e7ef8e0fc89f797be",
+          "width": 1200,
+          "height": 1600,
+          "size": 263866,
+          "uploadedDate": "2020-06-12T16:13:26.922Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesdebaucheriesofderketopack-funcom-dlc-s2-1200x1600-120794015-1200x1600-1b6e753961507e7e7ef8e0fc89f797be.jpg",
+          "md5": "1b6e753961507e7e7ef8e0fc89f797be",
+          "width": 1200,
+          "height": 1600,
+          "size": 263866,
+          "uploadedDate": "2020-06-12T16:13:38.205Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T19:49:58.707Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.644Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/debaucheries-of-derketo-pack"
+        }
+      },
+      "internalName": "Conan Exiles - Debaucheries of Derketo Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "208f69d6c3014ae39efcde4560b0f1c4",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--debaucheries-of-derketo-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Debaucheries of Derketo Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2019-10-08T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "eef7b046db77484c964e1ba5b55db9bc",
+      "title": "Conan Exiles - Isle of Siptah Edition",
+      "description": "Get Conan Exiles base game and the Isle of Siptah expansion! Isle of Siptah is a massive expansion to the open world survival game Conan Exiles, featuring a vast new island to explore, new creatures to slay, new building sets and host of new features.",
+      "keyImages": [
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptahEdition_Funcom_Bundles_S2_1200x1600-7496ee4b607fe8207942acda36f1cce3",
+          "md5": "7496ee4b607fe8207942acda36f1cce3",
+          "width": 1200,
+          "height": 1600,
+          "size": 580890,
+          "uploadedDate": "2022-12-02T22:57:39.706Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptahEdition_Funcom_Bundles_S2_1200x1600-7496ee4b607fe8207942acda36f1cce3",
+          "md5": "7496ee4b607fe8207942acda36f1cce3",
+          "width": 1200,
+          "height": 1600,
+          "size": 580890,
+          "uploadedDate": "2022-12-02T22:57:43.216Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptahEdition_Funcom_Bundles_S1_2560x1440-3cb552fdd47a21ee59bc8f9be05ba98d",
+          "md5": "3cb552fdd47a21ee59bc8f9be05ba98d",
+          "width": 2560,
+          "height": 1440,
+          "size": 952943,
+          "uploadedDate": "2022-12-02T22:57:46.514Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptahEdition_Funcom_Bundles_S2_1200x1600-7496ee4b607fe8207942acda36f1cce3",
+          "md5": "7496ee4b607fe8207942acda36f1cce3",
+          "width": 1200,
+          "height": 1600,
+          "size": 580890,
+          "uploadedDate": "2022-12-02T22:57:49.477Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptahEdition_Funcom_Bundles_S1_2560x1440-3cb552fdd47a21ee59bc8f9be05ba98d",
+          "md5": "3cb552fdd47a21ee59bc8f9be05ba98d",
+          "width": 2560,
+          "height": 1440,
+          "size": 952943,
+          "uploadedDate": "2022-12-02T22:57:52.515Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptahEdition_Funcom_Bundles_S2_1200x1600-7496ee4b607fe8207942acda36f1cce3",
+          "md5": "7496ee4b607fe8207942acda36f1cce3",
+          "width": 1200,
+          "height": 1600,
+          "size": 580890,
+          "uploadedDate": "2022-12-02T22:57:55.852Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-09-28T15:13:10.818Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.675Z",
+      "customAttributes": {
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/isle-of-siptah-edition"
+        }
+      },
+      "internalName": "Conan Exiles - Isle of Siptah Edition",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "8dac02d447a64fd9be5a10bc174e81f5",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        },
+        {
+          "id": "eaa9a49f1985421b947f4b3c2878e8d1",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 5398,
+      "price": 5398,
+      "basePrice": 5398,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "viewableDate": "2021-11-23T16:00:00.000Z",
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_699",
+      "urlSlug": "conan-exiles-isle-of-siptah-edition",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "MP_Game",
+      "shareRevenue": true,
+      "offerType": "EDITION",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Isle of Siptah Edition",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "pcReleaseDate": "2021-05-27T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "d90c263712ca4df6a3cfbb0d71b1dd11",
+      "title": "Conan Exiles - Jewel of the West Pack",
+      "description": "Don three new armor sets like the Aquilonian Scout light armor and wield weapons like the lion-headed Aquilonian Mace. You can also craft many new placeables like Aquilonian statues, braziers and jars and use new warpaints to change your look.",
+      "longDescription": "+ 39 new Aquilonian building pieces.\nA full set of building pieces with the same stats as existing tier three. \n\n+ 15 new armor pieces in three sets, such as the Black Dragon armor.\nLight, medium and heavy sets with an epic end-game version of each.\n\n+ 9 new weapons in one Aquilonian weapon set.\nSame power as iron weapons with an epic end-game version of each weapon.\n\n+ 5 new Aquilonian warpaints.\nDecorative warpaints symbolizing for example rule and bravery.\n\n+ 25 new placeables, such as the harp and councilor chair.\nCraft them at the new Aquilonian Artisan table.\n\nAll the new content from Aquilonia is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have comparable stats to existing items.\n\n",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesjewelofthewestpack-funcom-dlc-s1-2560x1440-121163523-2560x1440-849faeeb0e93c5a9cad7949334389b22.jpg",
+          "md5": "849faeeb0e93c5a9cad7949334389b22",
+          "width": 2560,
+          "height": 1440,
+          "size": 385611,
+          "uploadedDate": "2020-06-12T16:01:26.543Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesjewelofthewestpack-funcom-dlc-s2-1200x1600-121164268-1200x1600-c26b219b00eca11cb502fb423cea8719.jpg",
+          "md5": "c26b219b00eca11cb502fb423cea8719",
+          "width": 1200,
+          "height": 1600,
+          "size": 238505,
+          "uploadedDate": "2020-06-12T16:01:37.755Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesjewelofthewestpack-funcom-dlc-s2-1200x1600-121164268-1200x1600-c26b219b00eca11cb502fb423cea8719.jpg",
+          "md5": "c26b219b00eca11cb502fb423cea8719",
+          "width": 1200,
+          "height": 1600,
+          "size": 238505,
+          "uploadedDate": "2020-06-12T16:01:49.873Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesjewelofthewestpack-funcom-dlc-s2-1200x1600-121164268-1200x1600-c26b219b00eca11cb502fb423cea8719.jpg",
+          "md5": "c26b219b00eca11cb502fb423cea8719",
+          "width": 1200,
+          "height": 1600,
+          "size": 238505,
+          "uploadedDate": "2020-06-12T16:02:01.296Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T20:17:52.695Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.499Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/jewel-of-the-west-pack"
+        }
+      },
+      "internalName": "Conan Exiles - Jewel of the West Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "9f868f6875b9429289422a9defec7a24",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--jewel-of-the-west-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Jewel of the West Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2018-08-02T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "a9c1eeff25684e6cbf583d5b9a30686c",
+      "title": "Conan Exiles - People of the Dragon Pack",
+      "description": "Build mighty castles and towering fortresses with the People of the Dragon Pack. Enjoy its exclusive medieval style with several brand-new building pieces, such as tall spires, a new type of fortified window and a sloped roof with window. ",
+      "longDescription": "",
+      "keyImages": [
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesPeopleoftheDragonPack_Funcom_DLC_S2_1200x1600-7cf45a84793c36a4977a7ae083045a54",
+          "md5": "7cf45a84793c36a4977a7ae083045a54",
+          "width": 1200,
+          "height": 1600,
+          "size": 429217,
+          "uploadedDate": "2021-11-23T05:37:18.798Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesPeopleoftheDragonPack_Funcom_DLC_S1_2560x1440-d98f78d545acb5c8970d55e647d0a1f5",
+          "md5": "d98f78d545acb5c8970d55e647d0a1f5",
+          "width": 2560,
+          "height": 1440,
+          "size": 942313,
+          "uploadedDate": "2021-11-23T05:37:22.241Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesPeopleoftheDragonPack_Funcom_DLC_S2_1200x1600-7cf45a84793c36a4977a7ae083045a54",
+          "md5": "7cf45a84793c36a4977a7ae083045a54",
+          "width": 1200,
+          "height": 1600,
+          "size": 429217,
+          "uploadedDate": "2021-11-23T05:37:25.225Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesPeopleoftheDragonPack_Funcom_DLC_S1_2560x1440-d98f78d545acb5c8970d55e647d0a1f5",
+          "md5": "d98f78d545acb5c8970d55e647d0a1f5",
+          "width": 2560,
+          "height": 1440,
+          "size": 942313,
+          "uploadedDate": "2021-11-23T05:37:29.053Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesPeopleoftheDragonPack_Funcom_DLC_S2_1200x1600-7cf45a84793c36a4977a7ae083045a54",
+          "md5": "7cf45a84793c36a4977a7ae083045a54",
+          "width": 1200,
+          "height": 1600,
+          "size": 429217,
+          "uploadedDate": "2021-11-23T05:37:32.299Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesPeopleoftheDragonPack_Funcom_DLC_S2_1200x1600-7cf45a84793c36a4977a7ae083045a54",
+          "md5": "7cf45a84793c36a4977a7ae083045a54",
+          "width": 1200,
+          "height": 1600,
+          "size": 429217,
+          "uploadedDate": "2021-11-23T05:37:35.345Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2021-11-03T03:33:12.043Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.683Z",
+      "customAttributes": {},
+      "internalName": "Conan Exiles - People of the Dragon Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "2ce95efccf244b3a82d6bd7e6d7c344a",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "viewableDate": "2021-11-23T16:00:00.000Z",
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--people-of-the-dragon-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - People of the Dragon Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2021-10-21T16:00:00.000Z",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "publisherDisplayName": "Funcom",
+      "developerDisplayName": "Funcom",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "66499d911e7d4f86844a0f7ed76a2c58",
+      "title": "Conan Exiles - Riders of Hyboria Pack",
+      "description": "With the Riders of Hyboria Pack you can equip your horse with unique new saddles, gear yourself up in armors from the region of Poitain, build a stable with new building pieces and decorate it with placeables such as carts, haystacks and wheel barrows.",
+      "longDescription": "\n+ 2 exclusive mount skins\nRide around on a black or white horse\n\n+ 6 new mount saddles\nEquip your horse with the Silent Legion saddle\n\n+ 25 new mounts related building pieces\nBuilding pieces especially made for stables\n\n+ 15 new armor pieces in three sets, such as the Poitain Cavalier armor\nLight, medium and heavy sets with an epic end-game version of each\n\n+ 11 new weapons in the Poitain set, including lances\nSame power as iron weapons with an epic end-game version of each weapon\n\n+ 14 new stable placeables\nDecorate your stable with all new placeables, such as weather vanes\n\nAll the new content in Riders of Hyboria Pack is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have comparable stats to existing items.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesridersofhyboriapack-funcom-dlc-s1-2560x1440-112427530-2560x1440-0f96994d6433f341d87a5a3d87084ebd.jpg",
+          "md5": "0f96994d6433f341d87a5a3d87084ebd",
+          "width": 2560,
+          "height": 1440,
+          "size": 288291,
+          "uploadedDate": "2020-06-12T15:47:30.804Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesridersofhyboriapack-funcom-dlc-s2-1200x1600-112428336-1200x1600-7dc7b453247c2f80e8af43758753d4b7.jpg",
+          "md5": "7dc7b453247c2f80e8af43758753d4b7",
+          "width": 1200,
+          "height": 1600,
+          "size": 190395,
+          "uploadedDate": "2020-06-12T15:47:48.380Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesridersofhyboriapack-funcom-dlc-s2-1200x1600-112428336-1200x1600-7dc7b453247c2f80e8af43758753d4b7.jpg",
+          "md5": "7dc7b453247c2f80e8af43758753d4b7",
+          "width": 1200,
+          "height": 1600,
+          "size": 190395,
+          "uploadedDate": "2020-06-12T15:47:59.392Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesridersofhyboriapack-funcom-dlc-s2-1200x1600-112428336-1200x1600-7dc7b453247c2f80e8af43758753d4b7.jpg",
+          "md5": "7dc7b453247c2f80e8af43758753d4b7",
+          "width": 1200,
+          "height": 1600,
+          "size": 190395,
+          "uploadedDate": "2020-06-12T15:54:28.378Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T19:43:54.138Z",
+      "lastModifiedDate": "2023-12-13T16:10:50.975Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/riders-of-hyboria-pack"
+        }
+      },
+      "internalName": "Conan Exiles - Riders of Hyboria Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "e2de9ef597ff4c60a905bec8c40975f8",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--riders-of-hyboria-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Riders of Hyboria Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2019-12-05T16:00:00.000Z",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "6e5642adbc624c7da9a8d27e045d0d0b",
+      "title": "Conan Exiles - Seekers of the Dawn Pack",
+      "description": "Craft three new armor sets, like the fearsome Yamatai Demon medium armor and twelve new weapons, including three Katanas! Decorate your body with five new warpaints and own five unique pets which can be tamed through the new pet system.",
+      "longDescription": "+ 39 new Yamatai building pieces.\nA full set of building pieces with the same stats as existing tier three. \n\n+ 15 new armor pieces in three sets, such as the Yamatai Warlord heavy armor.\nLight, medium and heavy sets with an epic end-game version of each.\n\n+ 12 new stylish Yamatai weapons.\nSame power as iron weapons with an epic end-game version of each weapon.\n\n+ 5 exclusive pet skins.\nHave your own unique looking sabretooth, tiger or crocodile.\n\n+ 5 new Yamatai warpaints.\nCool looking warpaints of the moon, crane or dragon.\n\nAll the new content from Seekers of the Dawn Pack is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have comparable stats to existing items.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesseekersofthedawnpack-funcom-dlc-s1-2560x1440-121033590-2560x1440-09a7974d257b44e1ef25c19471da582d.jpg",
+          "md5": "09a7974d257b44e1ef25c19471da582d",
+          "width": 2560,
+          "height": 1440,
+          "size": 354044,
+          "uploadedDate": "2020-06-12T16:09:45.959Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesseekersofthedawnpack-funcom-dlc-s2-1200x1600-121035426-1200x1600-e5d71834b53d80555612e7773f43888f.jpg",
+          "md5": "e5d71834b53d80555612e7773f43888f",
+          "width": 1200,
+          "height": 1600,
+          "size": 229223,
+          "uploadedDate": "2020-06-12T16:10:00.768Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesseekersofthedawnpack-funcom-dlc-s2-1200x1600-121035426-1200x1600-e5d71834b53d80555612e7773f43888f.jpg",
+          "md5": "e5d71834b53d80555612e7773f43888f",
+          "width": 1200,
+          "height": 1600,
+          "size": 229223,
+          "uploadedDate": "2020-06-12T16:10:12.255Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesseekersofthedawnpack-funcom-dlc-s2-1200x1600-121035426-1200x1600-e5d71834b53d80555612e7773f43888f.jpg",
+          "md5": "e5d71834b53d80555612e7773f43888f",
+          "width": 1200,
+          "height": 1600,
+          "size": 229223,
+          "uploadedDate": "2020-06-12T16:10:23.513Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T20:11:58.651Z",
+      "lastModifiedDate": "2023-12-13T16:10:35.187Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/seekers-of-the-dawn-pack"
+        }
+      },
+      "internalName": "Conan Exiles - Seekers of the Dawn Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "ed3170feaa0d4730a2e5a250bee85cb7",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--seekers-of-the-dawn-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Seekers of the Dawn Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2018-12-12T16:00:00.000Z",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "424a230eaa294ec2acabecc19d32c87b",
+      "title": "Conan Exiles - The Imperial East Pack",
+      "description": "Get ready for battle in three new armors and one new weapon set. Decorate your home with many new placeables, such as cauldrons, carpets, tables and braziers and customize your look with new warpaints.",
+      "longDescription": "+ 39 new Khitan building pieces.\nA full set of building pieces with the same stats as existing tier three. \n\n+ 15 new armor pieces in three sets, such as the Khitan Officer Armor.\nLight, medium and heavy sets with an epic end-game version of each.\n\n+ 9 new weapons in one Khitan weapon set.\nSame power as iron weapons with an epic end-game version of each weapon.\n\n+ 5 new warpaints in Khitan style.\nDecorative warpaints in jade, black, white and red.\n\n+ 25 new placeables, such as a dragon idol and hanging lamps.\nCan be created at an all new Khitan Artisan station.\n\nAll the new content from Khitai is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have the comparable stats to existing items.\n",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestheimperialeastpack-funcom-dlc-s1-2560x1440-121107108-2560x1440-1bf3028f39d648719d25220c69aad0a9.jpg",
+          "md5": "1bf3028f39d648719d25220c69aad0a9",
+          "width": 2560,
+          "height": 1440,
+          "size": 335918,
+          "uploadedDate": "2020-06-12T16:53:03.302Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestheimperialeastpack-funcom-dlc-s2-1200x1600-121107910-1200x1600-3e3d93dbf1987f0997823413dce9c890.jpg",
+          "md5": "3e3d93dbf1987f0997823413dce9c890",
+          "width": 1200,
+          "height": 1600,
+          "size": 239810,
+          "uploadedDate": "2020-06-12T16:53:16.777Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestheimperialeastpack-funcom-dlc-s2-1200x1600-121107910-1200x1600-3e3d93dbf1987f0997823413dce9c890.jpg",
+          "md5": "3e3d93dbf1987f0997823413dce9c890",
+          "width": 1200,
+          "height": 1600,
+          "size": 239810,
+          "uploadedDate": "2020-06-12T16:53:27.753Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestheimperialeastpack-funcom-dlc-s2-1200x1600-121107910-1200x1600-3e3d93dbf1987f0997823413dce9c890.jpg",
+          "md5": "3e3d93dbf1987f0997823413dce9c890",
+          "width": 1200,
+          "height": 1600,
+          "size": 239810,
+          "uploadedDate": "2020-06-12T16:53:44.421Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T20:29:42.145Z",
+      "lastModifiedDate": "2023-12-13T16:11:55.535Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/the-imperial-east-pack"
+        }
+      },
+      "internalName": "Conan Exiles - The Imperial East Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "f802b0a15d284e458810fc31be588a7e",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--the-imperial-east-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - The Imperial East Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2018-06-22T16:00:00.000Z",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "eaf144ea98fb4c3ebb3b81b684d5bf4e",
+      "title": "Conan Exiles - The Riddle of Steel",
+      "description": "Place statues of Arnold Schwarzenegger as Conan the Barbarian in your castle and sit upon the magnificent Lion Throne from the movie! Equip yourself with Conan’s helmet and put on warpaint just like the heroes from the movie.",
+      "longDescription": "+ 18 Statues and figurines of Arnold Schwarzenegger as Conan\n\n+ 5 iconic helmets from the movie, of characters such as Thulsa Doom and Rexor\n\n+ 5 unique placeables from the movie, such as the Atlantean Throne\n\n+ 6 statues and figurines of Valeria from the movie Conan the Barbarian\n\n+ 6 statues and figurines of Subotai the Hyrkanian archer\n\n+ 3 decorative warpaints from the movie\n\nAll content from The Riddle of Steel is exclusive to this DLC and adds many new visual options but does not give any in-game advantage in power. All new items have comparable stats to existing items.\n",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesriddleofsteel-funcom-dlc-s1-2560x1440-112789919-2560x1440-2f004da9a06d3c889df175dea3ddadfc.jpg",
+          "md5": "2f004da9a06d3c889df175dea3ddadfc",
+          "width": 2560,
+          "height": 1440,
+          "size": 292659,
+          "uploadedDate": "2020-06-12T16:20:47.909Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesriddleofsteel-funcom-dlc-s2-1200x1600-112790823-1200x1600-6c4655308cdc94fba2c48ef0f06acd87.jpg",
+          "md5": "6c4655308cdc94fba2c48ef0f06acd87",
+          "width": 1200,
+          "height": 1600,
+          "size": 257477,
+          "uploadedDate": "2020-06-12T16:20:59.252Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesriddleofsteel-funcom-dlc-s2-1200x1600-112790823-1200x1600-6c4655308cdc94fba2c48ef0f06acd87.jpg",
+          "md5": "6c4655308cdc94fba2c48ef0f06acd87",
+          "width": 1200,
+          "height": 1600,
+          "size": 257477,
+          "uploadedDate": "2020-06-12T16:21:11.291Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesriddleofsteel-funcom-dlc-s2-1200x1600-112790823-1200x1600-6c4655308cdc94fba2c48ef0f06acd87.jpg",
+          "md5": "6c4655308cdc94fba2c48ef0f06acd87",
+          "width": 1200,
+          "height": 1600,
+          "size": 257477,
+          "uploadedDate": "2020-06-12T16:21:21.542Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T19:57:57.334Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.528Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/riddle-of-steel"
+        }
+      },
+      "internalName": "Conan Exiles - The Riddle of Steel",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "e388ad5ca4c0443e8a27ac67a9724058",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 699,
+      "price": 699,
+      "basePrice": 699,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_0_1637644239625",
+      "urlSlug": "conan-exiles--riddle-of-steel",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - The Riddle of Steel",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2019-05-09T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "2784e488321f4f408f278a2d262f1c69",
+      "title": "Conan Exiles - The Savage Frontier Pack",
+      "description": "Build your settlement and fortress from the new Frontier set of building pieces, made to repel ruthless Pict raiders in the frontier lands of Aquilonia. Equip yourself with brand new Pictish armor sets, like the Pictish Wizard armor.",
+      "longDescription": "+ 39 new Frontier building pieces.\nA full set of building pieces with the same stats as existing tier three. \n\n+ 15 new armor pieces in three sets, such as the Pictish Warchief Heavy Armor.\nLight, medium and heavy sets with an epic end-game version of each.\n\n+ 9 new fearsome Pictish weapons.\nSame power as iron weapons with an epic end-game version of each weapon.\n\n+ 5 all new pet skins which can be used with the new pet system.\nHave your own exclusive looking wolf, bear or panther pet.\n\n+ 5 new warpaints in Pictish style.\nCool looking warpaints of the crocodile, snake or raven.\n\nAll the new content from The Savage Frontier Pack is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have comparable stats to existing items.\n\n",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesthesavagefrontierpack-funcom-dlc-s1-2560x1440-120961985-2560x1440-976e5126e0a566e842c011a064801db5.jpg",
+          "md5": "976e5126e0a566e842c011a064801db5",
+          "width": 2560,
+          "height": 1440,
+          "size": 324163,
+          "uploadedDate": "2020-06-12T15:52:28.057Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesthesavagefrontierpack-funcom-dlc-s2-1200x1600-120962935-1200x1600-8e34b066f62d725aae480380c49f7f78.jpg",
+          "md5": "8e34b066f62d725aae480380c49f7f78",
+          "width": 1200,
+          "height": 1600,
+          "size": 211143,
+          "uploadedDate": "2020-06-12T15:52:38.742Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesthesavagefrontierpack-funcom-dlc-s2-1200x1600-120962935-1200x1600-8e34b066f62d725aae480380c49f7f78.jpg",
+          "md5": "8e34b066f62d725aae480380c49f7f78",
+          "width": 1200,
+          "height": 1600,
+          "size": 211143,
+          "uploadedDate": "2020-06-12T15:52:57.729Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesthesavagefrontierpack-funcom-dlc-s2-1200x1600-120962935-1200x1600-8e34b066f62d725aae480380c49f7f78.jpg",
+          "md5": "8e34b066f62d725aae480380c49f7f78",
+          "width": 1200,
+          "height": 1600,
+          "size": 211143,
+          "uploadedDate": "2020-06-12T15:53:07.710Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T20:16:04.654Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.610Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/the-savage-frontier-pack"
+        }
+      },
+      "internalName": "Conan Exiles - The Savage Frontier Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "c5b3dcc830564014a2ba2d1bf10cc242",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--the-savage-frontier-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - The Savage Frontier Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2018-10-09T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "aefb1bcd104f471eaf81d4bb4b5497fe",
+      "title": "Conan Exiles - Treasures of Turan Pack",
+      "description": "The riches of the eastern kingdom of Turan await! Build opulent palaces adorned with glittering statues, tame rhinos and elephants as pack animals and dress yourself in the dazzling Turanian Phalanx armor.",
+      "longDescription": "+ 39 new Turanian building pieces.\nA full set of building pieces with the same stats as existing tier three\n\n+ 15 new armor pieces in three sets, such as the Turanian Mercenary armor\nLight, medium and heavy sets with an epic end-game version of each\n\n+ 9 new weapons in one Turanian weapon set\nSame power as iron weapons with an epic end-game version of each weapon\n\n+ 5 new Turanian warpaints\nDecorative warpaints symbolizing for example opulence and glory\n\n+ 9 new placeables, such as the standing lamp and brazier\nCraft them at the new Turanian Artisan table\n\n+ 2 new exclusive pack animal pets\nThe richly adorned caravan rhino and elephant\n\nAll the new content from Turan is exclusive to this DLC and adds a host of new visual options but does not give any in-game advantage in power. All the new items have comparable stats to existing items.\n\n",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestreasuresofturanpack-funcom-dlc-s1-2560x1440-120836329-2560x1440-476ae69f5d113574f192d4a6386b67da.jpg",
+          "md5": "476ae69f5d113574f192d4a6386b67da",
+          "width": 2560,
+          "height": 1440,
+          "size": 560874,
+          "uploadedDate": "2020-06-12T16:17:29.555Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestreasuresofturanpack-funcom-dlc-s2-1200x1600-120837146-1200x1600-77929ee4feeeb4f04ac15a24c6ba4b91.jpg",
+          "md5": "77929ee4feeeb4f04ac15a24c6ba4b91",
+          "width": 1200,
+          "height": 1600,
+          "size": 282358,
+          "uploadedDate": "2020-06-12T16:17:40.093Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestreasuresofturanpack-funcom-dlc-s2-1200x1600-120837146-1200x1600-77929ee4feeeb4f04ac15a24c6ba4b91.jpg",
+          "md5": "77929ee4feeeb4f04ac15a24c6ba4b91",
+          "width": 1200,
+          "height": 1600,
+          "size": 282358,
+          "uploadedDate": "2020-06-12T16:17:49.673Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestreasuresofturanpack-funcom-dlc-s2-1200x1600-120837146-1200x1600-77929ee4feeeb4f04ac15a24c6ba4b91.jpg",
+          "md5": "77929ee4feeeb4f04ac15a24c6ba4b91",
+          "width": 1200,
+          "height": 1600,
+          "size": 282358,
+          "uploadedDate": "2020-06-12T16:18:00.391Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-03-24T20:09:07.059Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.491Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/treasures-of-turan-pack"
+        }
+      },
+      "internalName": "Conan Exiles - Treasures of Turan Pack",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "5af671c567e74ab7a0af245f2cc8e18e",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 999,
+      "price": 999,
+      "basePrice": 999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_999",
+      "urlSlug": "conan-exiles--treasures-of-turan-pack",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Treasures of Turan Pack",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2019-04-15T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "4e10a9f9661444fdb5c242e2acf8122b",
+      "title": "Conan Exiles - Year 1 DLC Bundle",
+      "description": "Get all four Conan Exiles DLCs released in 2018!",
+      "longDescription": "+ The Imperial East Pack\n+ Jewel of the West Pack\n+ The Savage Frontier Pack\n+ Seekers of the Dawn Pack\n\nThe four core DLCs add tons of new content and allow you to build great and unique strongholds with a host of new building pieces from different cultures. You can also dress yourself in exotic armors and wield fearsome weapons and get your hands on exclusive pets and decorative tattoos.\n",
+      "keyImages": [
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear1DLCBundle_Funcom_Bundles_S2_1200x1600-3e78a04219792e5b239a30669abdc43b",
+          "md5": "3e78a04219792e5b239a30669abdc43b",
+          "width": 1200,
+          "height": 1600,
+          "size": 461280,
+          "uploadedDate": "2021-11-12T05:42:49.059Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear1DLCBundle_Funcom_Bundles_S1_2560x1440-7c7504f50cc5a7945c7f62a041d2792f",
+          "md5": "7c7504f50cc5a7945c7f62a041d2792f",
+          "width": 2560,
+          "height": 1440,
+          "size": 885872,
+          "uploadedDate": "2021-11-12T05:42:52.206Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear1DLCBundle_Funcom_Bundles_S2_1200x1600-3e78a04219792e5b239a30669abdc43b",
+          "md5": "3e78a04219792e5b239a30669abdc43b",
+          "width": 1200,
+          "height": 1600,
+          "size": 461280,
+          "uploadedDate": "2021-11-12T05:42:55.150Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear1DLCBundle_Funcom_Bundles_S1_2560x1440-7c7504f50cc5a7945c7f62a041d2792f",
+          "md5": "7c7504f50cc5a7945c7f62a041d2792f",
+          "width": 2560,
+          "height": 1440,
+          "size": 885872,
+          "uploadedDate": "2021-11-12T05:42:58.383Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear1DLCBundle_Funcom_Bundles_S2_1200x1600-3e78a04219792e5b239a30669abdc43b",
+          "md5": "3e78a04219792e5b239a30669abdc43b",
+          "width": 1200,
+          "height": 1600,
+          "size": 461280,
+          "uploadedDate": "2021-11-12T05:43:01.077Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear1DLCBundle_Funcom_Bundles_S2_1200x1600-3e78a04219792e5b239a30669abdc43b",
+          "md5": "3e78a04219792e5b239a30669abdc43b",
+          "width": 1200,
+          "height": 1600,
+          "size": 461280,
+          "uploadedDate": "2021-11-12T05:43:04.597Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-06-12T01:42:16.923Z",
+      "lastModifiedDate": "2023-12-13T16:11:19.739Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/year-1-dlc-bundle"
+        }
+      },
+      "internalName": "Conan Exiles - Year 1 DLC Bundle",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "c13ea90f83ad4eb888dcbe8f429d8461",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 2999,
+      "price": 2999,
+      "basePrice": 2999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_3599",
+      "urlSlug": "conan-exiles--year-1-dlc-bundle",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Year 1 DLC Bundle",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2021-11-23T16:00:00.000Z",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "5643266a4f2e4e329c943cfdd58b0c7d",
+      "title": "Conan Exiles - Year 2 DLC Bundle",
+      "description": "Conan Exiles – Year 2 DLC Bundle contains:",
+      "longDescription": "Ride around on exclusive mounts and equip them with unique armors, build opulent Turanian palaces, construct your very own gladiatorial arena, dress yourself in ostentatious outfits and perform unique emotes.\n\nConan Exiles – Year 2 DLC Bundle contains:\n+ Treasures of Turan Pack\n+ Riders of Hyboria Pack\n+ Blood and Sand Pack\n+ Debaucheries of Derketo Pack\n",
+      "keyImages": [
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear2DLCBundle_Funcom_Bundles_S2_1200x1600-8661b7f6c8380f68868fd3b2acadc80b",
+          "md5": "8661b7f6c8380f68868fd3b2acadc80b",
+          "width": 1200,
+          "height": 1600,
+          "size": 461897,
+          "uploadedDate": "2021-11-12T05:58:23.239Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear2DLCBundle_Funcom_Bundles_S1_2560x1440-1be45eba2c5a4f9dac3cf28b93e57af3",
+          "md5": "1be45eba2c5a4f9dac3cf28b93e57af3",
+          "width": 2560,
+          "height": 1440,
+          "size": 887419,
+          "uploadedDate": "2021-11-12T05:58:26.591Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear2DLCBundle_Funcom_Bundles_S2_1200x1600-8661b7f6c8380f68868fd3b2acadc80b",
+          "md5": "8661b7f6c8380f68868fd3b2acadc80b",
+          "width": 1200,
+          "height": 1600,
+          "size": 461897,
+          "uploadedDate": "2021-11-12T05:58:29.809Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear2DLCBundle_Funcom_Bundles_S1_2560x1440-1be45eba2c5a4f9dac3cf28b93e57af3",
+          "md5": "1be45eba2c5a4f9dac3cf28b93e57af3",
+          "width": 2560,
+          "height": 1440,
+          "size": 887419,
+          "uploadedDate": "2021-11-12T05:58:32.919Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear2DLCBundle_Funcom_Bundles_S2_1200x1600-8661b7f6c8380f68868fd3b2acadc80b",
+          "md5": "8661b7f6c8380f68868fd3b2acadc80b",
+          "width": 1200,
+          "height": 1600,
+          "size": 461897,
+          "uploadedDate": "2021-11-12T05:58:36.028Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesYear2DLCBundle_Funcom_Bundles_S2_1200x1600-8661b7f6c8380f68868fd3b2acadc80b",
+          "md5": "8661b7f6c8380f68868fd3b2acadc80b",
+          "width": 1200,
+          "height": 1600,
+          "size": 461897,
+          "uploadedDate": "2021-11-12T05:58:39.093Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-06-12T01:59:12.684Z",
+      "lastModifiedDate": "2023-12-13T16:11:07.571Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/year-2-dlc-bundle"
+        }
+      },
+      "internalName": "Conan Exiles - Year 2 DLC Bundle",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "3d3eccb3206a4bab8247d8994f1fd560",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 2999,
+      "price": 2999,
+      "basePrice": 2999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_3599",
+      "urlSlug": "conan-exiles--year-2-dlc-bundle",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles - Year 2 DLC Bundle",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2021-11-23T16:00:00.000Z",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "005e465caa88467295daebfc1c55f662",
+      "title": "Conan Exiles: Isle of Siptah",
+      "description": "Isle of Siptah is a massive expansion to the open world survival game Conan Exiles, featuring a vast new island to explore, vile new creatures to slay, new building sets and a host of new features.",
+      "keyImages": [
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptah_Funcom_Expansion_S2_1200x1600-5af56e292f1923558b00217151b4f25d",
+          "md5": "5af56e292f1923558b00217151b4f25d",
+          "width": 1200,
+          "height": 1600,
+          "size": 718054,
+          "uploadedDate": "2021-11-23T05:43:31.651Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptah_Funcom_Expansion_S1_2560x1440-31ec0cab2c657ced3c2e3e2c96e17c98",
+          "md5": "31ec0cab2c657ced3c2e3e2c96e17c98",
+          "width": 2560,
+          "height": 1440,
+          "size": 997580,
+          "uploadedDate": "2021-11-23T05:43:35.327Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptah_Funcom_Expansion_S2_1200x1600-5af56e292f1923558b00217151b4f25d",
+          "md5": "5af56e292f1923558b00217151b4f25d",
+          "width": 1200,
+          "height": 1600,
+          "size": 718054,
+          "uploadedDate": "2021-11-23T05:43:38.706Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptah_Funcom_Expansion_S1_2560x1440-31ec0cab2c657ced3c2e3e2c96e17c98",
+          "md5": "31ec0cab2c657ced3c2e3e2c96e17c98",
+          "width": 2560,
+          "height": 1440,
+          "size": 997580,
+          "uploadedDate": "2021-11-23T05:43:42.085Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptah_Funcom_Expansion_S2_1200x1600-5af56e292f1923558b00217151b4f25d",
+          "md5": "5af56e292f1923558b00217151b4f25d",
+          "width": 1200,
+          "height": 1600,
+          "size": 718054,
+          "uploadedDate": "2021-11-23T05:43:45.653Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesIsleofSiptah_Funcom_Expansion_S2_1200x1600-5af56e292f1923558b00217151b4f25d",
+          "md5": "5af56e292f1923558b00217151b4f25d",
+          "width": 1200,
+          "height": 1600,
+          "size": 718054,
+          "uploadedDate": "2021-11-23T05:43:49.387Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2020-08-27T17:16:54.469Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.556Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "Funcom" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/isle-of-siptah"
+        }
+      },
+      "internalName": "Conan Exiles: Isle of Siptah",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "eaa9a49f1985421b947f4b3c2878e8d1",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 1999,
+      "price": 1999,
+      "basePrice": 1999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "effectiveDate": "2021-11-23T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_0_error",
+      "urlSlug": "conan-exiles--isle-of-siptah",
+      "roleNamesToGrant": [],
+      "tags": [1203, 1080, 1370, 1307, 9547, 9549, 1279],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2021-11-23T16:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles: Isle of Siptah",
+      "selfRefundable": false,
+      "refundType": "REFUNDABLE",
+      "pcReleaseDate": "2021-05-27T16:00:00.000Z",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "1bf1c664fc664ac88733e46da2297f8e",
+      "title": "Conan Exiles Modkit",
+      "description": "Conan Exiles is an open world survival game set in the lands of Conan the Barbarian. Survive in a savage world, build a home and a kingdom, and dominate your enemies in epic warfare.",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
+          "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
+          "width": 1200,
+          "height": 1600,
+          "size": 955277,
+          "uploadedDate": "2020-06-12T15:41:31.121Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
+          "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
+          "width": 1200,
+          "height": 1600,
+          "size": 955277,
+          "uploadedDate": "2020-06-12T15:41:50.900Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S5-1920x1080-80181a084cf786f9aa8e81190f8725be.jpg",
+          "md5": "80181a084cf786f9aa8e81190f8725be",
+          "width": 1920,
+          "height": 1080,
+          "size": 849966,
+          "uploadedDate": "2020-06-12T15:42:16.917Z"
+        }
+      ],
+      "categories": [
+        { "path": "engines" },
+        { "path": "editors" },
+        { "path": "applications" }
+      ],
+      "namespace": "conanexiles",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-17T16:24:12.686Z",
+      "lastModifiedDate": "2021-08-25T16:43:37.933Z",
+      "customAttributes": {
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "conan-exiles/modkit"
+        }
+      },
+      "internalName": "Conan Exiles Modkit",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "4b24951512584889ad1224b8efb49bb1",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "conanexiles",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "name": "Funcom Oslo AS"
+      },
+      "viewableDate": "2017-01-17T10:42:00.000Z",
+      "effectiveDate": "2017-01-17T11:22:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-conanexiles_USD_0",
+      "urlSlug": "conan-exiles-unreal-editor",
+      "roleNamesToGrant": [],
+      "tags": [9559],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": true,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "releaseDate": "2017-01-17T11:22:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Conan Exiles Modkit",
+      "selfRefundable": false,
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 22 }
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "74447ad08cc34e2e8ca18a2651abacae",
+      "title": "Dark and Light Editor",
+      "description": "Forge your own Dark and Light realms!! With the Dark and Light Dev Kit, a streamlined version of the Unreal Engine 4 Editor, you have the power to create and distribute your own designs within the environs of Archos. We can’t wait to see what amazing worlds you create! (The Ki...",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/epic/offer/DarkLight__White-993x398-81593dccc12d9dddebfbfe9fb3309e13.png",
+          "md5": "81593dccc12d9dddebfbfe9fb3309e13",
+          "width": 993,
+          "height": 398,
+          "size": 47472,
+          "uploadedDate": "2018-11-14T00:48:11.488Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/darkandlight/offer/Diesel_product_darkandlight_HighresScreenshot00057-1920x1080-2b389915fee892d321685d7c14298fbab047de43-1920x1080-b8c5c7c66ab8d1d01e2c3cde1702a8a6.png",
+          "md5": "b8c5c7c66ab8d1d01e2c3cde1702a8a6",
+          "width": 1920,
+          "height": 1080,
+          "size": 661108,
+          "uploadedDate": "2020-02-27T15:04:19.238Z"
+        }
+      ],
+      "categories": [
+        { "path": "engines" },
+        { "path": "editors" },
+        { "path": "applications" }
+      ],
+      "namespace": "darkandlight",
+      "status": "ACTIVE",
+      "creationDate": "2018-03-06T20:17:32.231Z",
+      "lastModifiedDate": "2021-08-25T16:43:39.269Z",
+      "customAttributes": {
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "dark-and-light"
+        }
+      },
+      "internalName": "Dark and Light Editor",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "d9e2844f41154a6986b9ef6d11811726",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "darkandlight",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+        "name": "Snail Games USA"
+      },
+      "effectiveDate": "2018-03-06T15:16:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-darkandlight_USD_0",
+      "urlSlug": "dark-and-light-editor",
+      "roleNamesToGrant": [],
+      "tags": [9559],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": true,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "title4Sort": "Dark and Light Editor",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 1 }
+}

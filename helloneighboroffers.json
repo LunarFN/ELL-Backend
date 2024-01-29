@@ -1,0 +1,333 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "2bb789800d224643a15cc490896029b1",
+      "title": "UrsusDevAudience",
+      "description": "UrsusDevAudience",
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "helloneighbor",
+      "status": "ACTIVE",
+      "creationDate": "2019-12-18T23:06:27.962Z",
+      "lastModifiedDate": "2020-04-29T00:46:44.892Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "KR,CN" },
+        "publisherName": { "type": "STRING", "value": "[]" },
+        "developerName": { "type": "STRING", "value": "[]" }
+      },
+      "internalName": "UrsusDevAudience",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "53ddda2fd83746739ce05b2b891cf4c3",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "helloneighbor",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "name": "Epic Dev Test Account"
+      },
+      "effectiveDate": "2099-01-01T00:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": true,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-helloneighbor_USD_0",
+      "urlSlug": "ursusdevaudience",
+      "roleNamesToGrant": [],
+      "purchaseLimit": 1,
+      "ignoreOrder": true,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": false,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "releaseDate": "2050-12-01T18:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "UrsusDevAudience",
+      "countriesBlacklist": ["KR", "CN"],
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "d76580cab11b4216bfa1a16ee820d680",
+      "title": "Hello Neighbor",
+      "description": "Hello Neighbor is a Stealth Horror Game about sneaking into your neighbor's house and figuring out what he's hiding in the basement. Play against an advanced AI that learns from your actions.",
+      "keyImages": [
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/EGS_DynamicPixels_HelloNeighbor_S4-510x680-09f69dd598670e106f801668fbc31760.jpg",
+          "md5": "09f69dd598670e106f801668fbc31760",
+          "width": 510,
+          "height": 680,
+          "size": 88618,
+          "uploadedDate": "2019-12-19T03:57:40.098Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/EGS_DynamicPixels_HelloNeighbor_S7-1360x766-52e8b99d3c35840b10322e9ad0465a08.jpg",
+          "md5": "52e8b99d3c35840b10322e9ad0465a08",
+          "width": 1360,
+          "height": 766,
+          "size": 179494,
+          "uploadedDate": "2019-12-19T03:57:48.410Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/EGS_DynamicPixels_HelloNeighbor_S4-510x680-09f69dd598670e106f801668fbc31760.jpg",
+          "md5": "09f69dd598670e106f801668fbc31760",
+          "width": 510,
+          "height": 680,
+          "size": 88618,
+          "uploadedDate": "2019-12-19T03:57:40.098Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/helloneighbor/offer/EGS_DynamicPixels_HelloNeighbor_S4-510x680-09f69dd598670e106f801668fbc31760.jpg",
+          "md5": "09f69dd598670e106f801668fbc31760",
+          "width": 510,
+          "height": 680,
+          "size": 88618,
+          "uploadedDate": "2019-12-19T03:59:17.168Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/helloneighbor/offer/EGS_DynamicPixels_HelloNeighbor_S4-510x680-09f69dd598670e106f801668fbc31760.jpg",
+          "md5": "09f69dd598670e106f801668fbc31760",
+          "width": 510,
+          "height": 680,
+          "size": 88618,
+          "uploadedDate": "2019-12-19T03:59:26.178Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/EGS_DynamicPixels_HelloNeighbor_S7-1360x766-52e8b99d3c35840b10322e9ad0465a08.jpg",
+          "md5": "52e8b99d3c35840b10322e9ad0465a08",
+          "width": 1360,
+          "height": 766,
+          "size": 179494,
+          "uploadedDate": "2020-02-11T09:41:44.790Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition/base" },
+        { "path": "games/edition" },
+        { "path": "applications" }
+      ],
+      "namespace": "helloneighbor",
+      "status": "ACTIVE",
+      "creationDate": "2019-12-18T23:06:27.851Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.532Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "tinyBuild" },
+        "developerName": { "type": "STRING", "value": "Dynamic Pixels" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "hello-neighbor/home"
+        }
+      },
+      "internalName": "Hello Neighbor",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "5dc8181899434dcbba188006a48ad52d",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "helloneighbor",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 2999,
+      "price": 2999,
+      "basePrice": 2999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "name": "tinyBuild Games"
+      },
+      "effectiveDate": "2019-12-30T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-helloneighbor_USD_2999",
+      "urlSlug": "ursusgeneralaudience",
+      "roleNamesToGrant": [],
+      "tags": [
+        1218, 1188, 21127, 9547, 1263, 21138, 21139, 21140, 21141, 1370, 1084,
+        21149, 21119
+      ],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2018-12-08T12:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Hello Neighbor",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "b1e57a8fa2074f669abfbb294fd8e59e",
+      "title": "Hello Neighbor Mod Kit",
+      "description": "Hello Mod Kit",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/epic/offer/Hello_Neighbor_White-1160x687-604322be0404b78cc0f0d590b4009ce6.png",
+          "md5": "604322be0404b78cc0f0d590b4009ce6",
+          "width": 1160,
+          "height": 687,
+          "size": 84545,
+          "uploadedDate": "2018-11-14T00:48:45.594Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/HelloN_tall-852x960-89d276410d4b9b4d216059c6d1a95055.png",
+          "md5": "89d276410d4b9b4d216059c6d1a95055",
+          "width": 852,
+          "height": 960,
+          "size": 261224,
+          "uploadedDate": "2019-03-27T14:59:48.490Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/HelloN_wide-960x540-f5061daa1792e8c6288e1ed177a32c7d.png",
+          "md5": "f5061daa1792e8c6288e1ed177a32c7d",
+          "width": 960,
+          "height": 540,
+          "size": 197188,
+          "uploadedDate": "2019-03-27T14:59:57.476Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/HelloN_tall-852x960-89d276410d4b9b4d216059c6d1a95055.png",
+          "md5": "89d276410d4b9b4d216059c6d1a95055",
+          "width": 852,
+          "height": 960,
+          "size": 261224,
+          "uploadedDate": "2019-03-27T14:59:48.490Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/helloneighbor/offer/Medium Size 1288 x 1450-1288x1450-d77019177a5159c4197466bc298eb810.png",
+          "md5": "d77019177a5159c4197466bc298eb810",
+          "width": 1288,
+          "height": 1450,
+          "size": 2067855,
+          "uploadedDate": "2018-12-05T00:57:47.365Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/HelloN_wide-960x540-f5061daa1792e8c6288e1ed177a32c7d.png",
+          "md5": "f5061daa1792e8c6288e1ed177a32c7d",
+          "width": 960,
+          "height": 540,
+          "size": 197188,
+          "uploadedDate": "2020-02-11T09:41:44.790Z"
+        }
+      ],
+      "categories": [
+        { "path": "engines" },
+        { "path": "editors" },
+        { "path": "applications" }
+      ],
+      "namespace": "helloneighbor",
+      "status": "ACTIVE",
+      "creationDate": "2017-09-22T20:56:54.904Z",
+      "lastModifiedDate": "2020-05-12T18:25:55.406Z",
+      "customAttributes": {
+        "publisherName": { "type": "STRING", "value": "tinyBuild" },
+        "developerName": { "type": "STRING", "value": "Dynamic Pixels" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "hello-neighbor/modkit"
+        }
+      },
+      "internalName": "Hello Neighbor Mod Kit",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "098f795d4a9f4b108ca211f6b3e90a01",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "helloneighbor",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "name": "tinyBuild Games"
+      },
+      "effectiveDate": "2017-09-22T16:55:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-helloneighbor_USD_0",
+      "urlSlug": "hello-mod-kit",
+      "roleNamesToGrant": [],
+      "tags": [9559],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": true,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "releaseDate": "2019-12-18T21:49:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Hello Neighbor Mod Kit",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 3 }
+}

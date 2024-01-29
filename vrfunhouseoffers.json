@@ -1,0 +1,96 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "f00a248b062a4adca9360c2c7d679237",
+      "title": "VR Funhouse",
+      "description": "Step right up to VR Funhouse mods! Download the VR Funhouse Mod Kit, create your own mods, and share them with the world. We can’t wait to see the amazing experiences you’ll create!",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/epic/offer/VRFun_White_updated-1524x806-c84231b103834f4fffba22943d1bd92c.png",
+          "md5": "c84231b103834f4fffba22943d1bd92c",
+          "width": 1524,
+          "height": 806,
+          "size": 152029,
+          "uploadedDate": "2018-11-16T00:53:17.851Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/vrfunhouse/offer/vrfunhouse_bg-430x250-430x250-57255897027311603ba44be29809e86b.jpg",
+          "md5": "57255897027311603ba44be29809e86b",
+          "width": 430,
+          "height": 250,
+          "size": 113047,
+          "uploadedDate": "2020-03-28T16:53:30.977Z"
+        }
+      ],
+      "categories": [
+        { "path": "engines" },
+        { "path": "editors" },
+        { "path": "applications" }
+      ],
+      "namespace": "vrfunhouse",
+      "status": "ACTIVE",
+      "creationDate": "2016-08-31T15:39:36.507Z",
+      "lastModifiedDate": "2021-08-25T16:43:49.230Z",
+      "customAttributes": {
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "vr-funhouse"
+        }
+      },
+      "internalName": "VR Funhouse",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "3be791725c2f4716bcaecb0197549993",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "vrfunhouse",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "name": "Epic Games"
+      },
+      "effectiveDate": "2016-08-31T11:38:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-vrfunhouse_USD_0",
+      "urlSlug": "vr-funhouse-editor-01",
+      "roleNamesToGrant": [],
+      "tags": [9559],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": true,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "releaseDate": "2016-08-31T11:38:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "VR Funhouse Editor",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 1 }
+}

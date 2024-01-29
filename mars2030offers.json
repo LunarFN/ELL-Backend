@@ -1,0 +1,98 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "fd7b726f8d81401ba83fda5226407a17",
+      "title": "Mars 2030 Editor",
+      "description": "The Mars 2030 Editor is an open source version of Mars 2030 that contains all of the content and systems found in the VR project to develop your own space concepts using real NASA data! Build your own space habitat designs, create your own robotic NPC companion using NASA’s Va...",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/epic/offer/Mars_White-783x105-e7c151a7b1e06d0181a2c18f78965ed5.png",
+          "md5": "e7c151a7b1e06d0181a2c18f78965ed5",
+          "width": 783,
+          "height": 105,
+          "size": 11955,
+          "uploadedDate": "2018-11-14T00:49:46.110Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/mars2030/offer/mars2030_bg-430x250-261a916534206de2029fc4577384447a-430x250-261a916534206de2029fc4577384447a.jpg",
+          "md5": "261a916534206de2029fc4577384447a",
+          "width": 430,
+          "height": 250,
+          "size": 117425,
+          "uploadedDate": "2020-02-24T15:58:15.081Z"
+        }
+      ],
+      "categories": [
+        { "path": "engines" },
+        { "path": "editors" },
+        { "path": "applications" }
+      ],
+      "namespace": "mars2030",
+      "status": "ACTIVE",
+      "creationDate": "2018-02-08T16:29:38.313Z",
+      "lastModifiedDate": "2021-08-25T16:43:43.097Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "CN" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "mars-2030"
+        }
+      },
+      "internalName": "Mars 2030 Editor",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "6b73eb7d981d45d6825c794a78985f72",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "mars2030",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-v8ctg8jgjafjpj27mwqxqzcmgmkzrf",
+        "name": "Fusion Media Group"
+      },
+      "effectiveDate": "2018-02-08T11:28:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-mars2030_USD_0",
+      "urlSlug": "mars-2030-editor",
+      "roleNamesToGrant": [],
+      "tags": [9559],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": true,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "releaseDate": "2020-02-08T12:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Mars 2030 Editor",
+      "countriesBlacklist": ["CN"],
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 1 }
+}

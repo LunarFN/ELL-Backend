@@ -1,0 +1,114 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "cb264aabd7574ccb933ddf780325ec33",
+      "title": "Robo Recall Mod Kit",
+      "description": "SHOOT EVERYTHING",
+      "keyImages": [
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/epic/offer/logo_RR_white-384x100-9c25ec0e5d809814699475d183cb08f7.png",
+          "md5": "9c25ec0e5d809814699475d183cb08f7",
+          "width": 384,
+          "height": 100,
+          "size": 9846,
+          "uploadedDate": "2018-11-15T17:34:56.276Z"
+        },
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/fb_rr-1920x1080-5f7d6bc442e88fa501f9279fd3c903c8.jpg",
+          "md5": "5f7d6bc442e88fa501f9279fd3c903c8",
+          "width": 1920,
+          "height": 1080,
+          "size": 403592,
+          "uploadedDate": "2018-11-17T20:21:09.475Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/fb_rr-1920x1080-5f7d6bc442e88fa501f9279fd3c903c8.jpg",
+          "md5": "5f7d6bc442e88fa501f9279fd3c903c8",
+          "width": 1920,
+          "height": 1080,
+          "size": 403592,
+          "uploadedDate": "2018-11-17T20:21:09.475Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/odin/offer/thumbnail1-1500x843-ef7b9837a78805fa0f2864fc9bcdb4b1-1500x843-06bb66075842c760862a7b467793abc8.jpg",
+          "md5": "06bb66075842c760862a7b467793abc8",
+          "width": 1500,
+          "height": 843,
+          "size": 245681,
+          "uploadedDate": "2020-02-24T16:26:48.041Z"
+        }
+      ],
+      "categories": [
+        { "path": "engines" },
+        { "path": "editors" },
+        { "path": "applications" }
+      ],
+      "namespace": "odin",
+      "status": "ACTIVE",
+      "creationDate": "2017-01-17T19:03:47.890Z",
+      "lastModifiedDate": "2021-08-25T16:43:44.439Z",
+      "customAttributes": {
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "robo-recall"
+        }
+      },
+      "internalName": "Robo Recall Mod Kit",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "577992887048448fa933f9c645680d43",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "odin",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "name": "Epic Games"
+      },
+      "viewableDate": "2017-01-17T10:41:00.000Z",
+      "effectiveDate": "2017-01-17T14:02:00.000Z",
+      "vatIncluded": false,
+      "numOfCodes": 1,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "ODIN_Game",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-odin_USD_0",
+      "urlSlug": "odin-editor",
+      "roleNamesToGrant": [],
+      "tags": [9559],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": false,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "title4Sort": "Robo Recall Mod Kit",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 1 }
+}

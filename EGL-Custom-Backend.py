@@ -176,12 +176,6 @@ def savedpayment():
         data = json.load(savedpayment_file)
     return jsonify(data)
 
-@app.route('/catalog/api/shared/namespace/bussim18/offers', methods=['GET'])
-def bussim18offers():
-    with open('bussim18offers.json', 'r') as bussim18offers_file:
-        data = json.load(bussim18offers_file)
-    return jsonify(data)
-
 @app.route('/catalog/api/shared/namespace/conanexiles/items', methods=['GET'])
 def conanexilesitems():
     with open('conanexilesitems.json', 'r') as conanexilesitems_file:
@@ -272,6 +266,78 @@ def arkoffers():
         data = json.load(arkoffers_file)
     return data
 
+@app.route('/catalog/api/shared/namespace/darkandlight/offers', methods=['GET'])
+def darkandlightoffers():
+    with open('darkandlightoffers.json', 'r') as darkandlightoffers_file:
+        data = json.load(darkandlightoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/helloneighbor/offers', methods=['GET'])
+def helloneighboroffers():
+    with open('helloneighboroffers.json', 'r') as helloneighboroffers_file:
+        data = json.load(helloneighboroffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/mars2030/offers', methods=['GET'])
+def mars2030offers():
+    with open('mars2030offers.json', 'r') as mars2030offers_file:
+        data = json.load(mars2030offers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/bussim18/offers', methods=['GET'])
+def bussim18offers():
+    with open('bussim18offers.json', 'r') as bussim18offers_file:
+        data = json.load(bussim18offers_file)
+    return jsonify(data)
+
+@app.route('/catalog/api/shared/namespace/conanexiles/offers', methods=['GET'])
+def conanexilesoffers():
+    with open('conanexilesoffers.json', 'r') as conanexilesoffers_file:
+        data = json.load(conanexilesoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/springbok/offers', methods=['GET'])
+def springbokoffers():
+    with open('springbokoffers.json', 'r') as springbokoffers_file:
+        data = json.load(springbokoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/jaguar/offers', methods=['GET'])
+def jaguaroffers():
+    with open('jaguaroffers.json', 'r') as jaguaroffers_file:
+        data = json.load(jaguaroffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/odin/offers', methods=['GET'])
+def odinoffers():
+    with open('odinoffers.json', 'r') as odinoffers_file:
+        data = json.load(odinoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/pixark/offers', methods=['GET'])
+def pixarkoffers():
+    with open('pixarkoffers.json', 'r') as pixarkoffers_file:
+        data = json.load(pixarkoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/showmaker/offers', methods=['GET'])
+def showmakeroffers():
+    with open('showmakeroffers.json', 'r') as showmakeroffers_file:
+        data = json.load(showmakeroffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/squad/offers', methods=['GET'])
+def squadoffers():
+    with open('squadoffers.json', 'r') as squadoffers_file:
+        data = json.load(squadoffers_file)
+    return data
+
+@app.route('/catalog/api/shared/namespace/vrfunhouse/offers', methods=['GET'])
+def vrfunhouseoffers():
+    with open('vrfunhouseoffers.json', 'r') as vrfunhouseoffers_file:
+        data = json.load(vrfunhouseoffers_file)
+    return data
+
 @app.route('/priceengine/api/shared/offers/price', methods=['POST'])
 def priceengine():
     try:
@@ -294,6 +360,7 @@ def priceengine():
         # Handle exceptions, if any
         return jsonify({"error": str(e)})
     
+@app.route('/catalog/api/shared/bulk/items')
 
 def run_flask():
     print(f'EGL-Custom-Backend Running on Port 3551')

@@ -1,0 +1,198 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "9ac2b841932448aeb5fc370907c8c0b3",
+      "title": "Subnautica",
+      "description": "Prepare to dive",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/offer/jaguar/SN_EpicPortrait_1200x1800-f5ebad930a2f6eb715579a056807033f",
+          "md5": "f5ebad930a2f6eb715579a056807033f",
+          "width": 1200,
+          "height": 1800,
+          "size": 1598169,
+          "uploadedDate": "2023-06-20T22:30:28.210Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/offer/jaguar/SN_EpicLandscape_2560x1440-68271847bd0a1a7adac3992f9d2a996a",
+          "md5": "68271847bd0a1a7adac3992f9d2a996a",
+          "width": 2560,
+          "height": 1440,
+          "size": 919144,
+          "uploadedDate": "2023-06-20T22:30:30.977Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/offer/jaguar/SN_EpicPortrait_1200x1800-f5ebad930a2f6eb715579a056807033f",
+          "md5": "f5ebad930a2f6eb715579a056807033f",
+          "width": 1200,
+          "height": 1800,
+          "size": 1598169,
+          "uploadedDate": "2023-06-20T22:30:35.383Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition" },
+        { "path": "games/edition/base" },
+        { "path": "applications" }
+      ],
+      "namespace": "jaguar",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-29T23:29:48.658Z",
+      "lastModifiedDate": "2023-06-20T22:30:41.182Z",
+      "customAttributes": {
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "subnautica"
+        }
+      },
+      "internalName": "Subnautica",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "7e5369e3011744fabe5408c6af531063",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "jaguar",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 2999,
+      "price": 2999,
+      "basePrice": 2999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+        "name": "Unknown Worlds Entertainment"
+      },
+      "viewableDate": "2018-11-28T19:45:00.000Z",
+      "effectiveDate": "2018-12-14T16:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-jaguar_USD_2999",
+      "urlSlug": "subnautica",
+      "roleNamesToGrant": [],
+      "tags": [
+        1188, 21127, 9547, 9549, 21138, 21139, 21140, 21141, 1080, 1370, 21146,
+        1307, 1117, 21149, 10719, 21119
+      ],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2018-01-23T14:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Subnautica",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "priceCalculationMode": "FIXED",
+      "assembleMode": "SINGLE",
+      "publisherDisplayName": "Unknown Worlds",
+      "developerDisplayName": "Unknown Worlds",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "alias": "Subnautica",
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "e296ebc04b884153a141bf83ca495e9d",
+      "title": "JaguarDevAudience",
+      "description": "JaguarDevAudience",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-1288x1450-67f4ca0e9f3906e8eabba048335963b8-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg",
+          "md5": "67f4ca0e9f3906e8eabba048335963b8",
+          "width": 1288,
+          "height": 1450,
+          "size": 284580,
+          "uploadedDate": "2018-12-14T15:45:48.088Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-340x440-887597aab0b08b00c006ace3435a91af.jpg",
+          "md5": "887597aab0b08b00c006ace3435a91af",
+          "width": 340,
+          "height": 440,
+          "size": 58033,
+          "uploadedDate": "2018-12-14T15:48:14.930Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "jaguar",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-12T16:51:49.387Z",
+      "lastModifiedDate": "2020-04-29T00:38:38.497Z",
+      "customAttributes": {
+        "developerName": { "type": "STRING", "value": "Unknown Worlds" }
+      },
+      "internalName": "JaguarDevAudience",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "760fd4f4758443c4b54778a38194558d",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "jaguar",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+        "name": "Unknown Worlds Entertainment"
+      },
+      "effectiveDate": "2018-12-12T11:51:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": true,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-jaguar_USD_0",
+      "urlSlug": "jaguardevaudience",
+      "roleNamesToGrant": [],
+      "purchaseLimit": 1,
+      "ignoreOrder": true,
+      "fulfillToGroup": false,
+      "fraudItemType": "OTHERS",
+      "shareRevenue": false,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "title4Sort": "JaguarDevAudience",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 2 }
+}

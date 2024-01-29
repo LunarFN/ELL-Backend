@@ -1,0 +1,512 @@
+{
+  "metadata": {},
+  "elements": [
+    {
+      "id": "1079068ba1144d60967b171b446492b2",
+      "title": "Darksiders III DLC - Keepers of the Void",
+      "description": "On a quest from Vulgrim, Fury must travel into the Serpent Holes to remove an ancient threat that resides there. All new locations, puzzles, and enemies await the chance to test Fury’s abilities. As a reward, she can unlock all new weapon forms for the Hollows as well as the...",
+      "longDescription": "On a quest from Vulgrim, Fury must travel into the Serpent Holes to remove an ancient threat that resides there. All new locations, puzzles, and enemies await the chance to test Fury’s abilities. As a reward, she can unlock all new weapon forms for the Hollows as well as the biggest prize of them all: The Abyssal Armor.",
+      "keyImages": [
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/springbok/offer/DLC2_Keyart-1920x1095-42760e1a67838827d98843d1b06729dc94b76703.jpg",
+          "md5": "61f24cec5c28812145ee9ca2a1a25827",
+          "width": 1920,
+          "height": 1095,
+          "size": 254626,
+          "uploadedDate": "2020-02-12T09:41:44.790Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+          "md5": "acb9ad88419d3f09a2d29b582324161f",
+          "width": 330,
+          "height": 440,
+          "size": 100477,
+          "uploadedDate": "2020-04-20T14:22:28.244Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+          "md5": "acb9ad88419d3f09a2d29b582324161f",
+          "width": 330,
+          "height": 440,
+          "size": 100477,
+          "uploadedDate": "2020-04-20T14:22:36.636Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "games" },
+        { "path": "applications" }
+      ],
+      "namespace": "springbok",
+      "status": "ACTIVE",
+      "creationDate": "2019-07-15T20:21:44.582Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.649Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "THQ Nordic" },
+        "developerName": { "type": "STRING", "value": "Gunfire Games" },
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "darksiders3/dlc-2"
+        }
+      },
+      "internalName": "Darksiders III DLC - Keepers of the Void",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "8e59126e53c14346af5c48380a449281",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "springbok",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 1299,
+      "price": 1299,
+      "basePrice": 1299,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+        "name": "THQ Nordic GmbH"
+      },
+      "effectiveDate": "2019-07-15T00:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-springbok_USD_1299_12.99[usd]-final",
+      "urlSlug": "darksiders3--dlc",
+      "roleNamesToGrant": [],
+      "tags": [1216, 19847, 1370, 9547, 1117, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2019-07-16T12:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Darksiders III DLC - Keepers of the Void",
+      "refundType": "REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "9136099a91ec47ebb5d1e5eae00cbe0a",
+      "title": "Darksiders DLC1",
+      "description": "Darksiders DLC1",
+      "keyImages": [],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "springbok",
+      "status": "ACTIVE",
+      "creationDate": "2019-02-14T18:00:53.612Z",
+      "lastModifiedDate": "2023-12-13T08:54:28.656Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" }
+      },
+      "internalName": "Darksiders DLC1",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "e6c3d328b391451a971bfb145160cb2c",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "springbok",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+        "name": "THQ Nordic GmbH"
+      },
+      "effectiveDate": "2019-02-14T13:00:00.000Z",
+      "vatIncluded": false,
+      "numOfCodes": 1,
+      "isCodeRedemptionOnly": true,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-springbok_USD_0",
+      "urlSlug": "darksiders-dlc1",
+      "roleNamesToGrant": [],
+      "tags": [19847, 9547],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": false,
+      "offerType": "UNLOCKABLE",
+      "unsearchable": false,
+      "title4Sort": "Darksiders DLC1",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "e2180aefb2b44aa0b290377b0fd5986b",
+      "title": "Darksiders III DLC - The Crucible",
+      "description": "In this mighty morsel of digital wonderment, competitors can expect to receive a truly earth-shattering experience: The Crucible!",
+      "longDescription": "In this mighty morsel of digital wonderment, competitors can expect to receive a truly earth-shattering experience: The Crucible!\n \nA legendary challenge whispered with reverence across the universe. Not even the Creator could have envisioned such glorious spectacle as that which is found in this fabled arena.\n\n• 101 Waves of grueling combat, fit only for the toughest and most steadfast of warriors. \n• New armor sets to don as proof of your superiority. \n• New Enchantments never seen until now. \n• Rare crafting materials to improve your weapons and enhancements.\n\nAll provided by the generous, steady hand of the Crucible’s Overseer. \n\nThat’s right, it is I! Targon! Founder of this stupendous arena, and the only one ever to conquer it. \n\nSo what say you, challenger? Do you have what it takes to surpass me?",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+          "md5": "acb9ad88419d3f09a2d29b582324161f",
+          "width": 330,
+          "height": 440,
+          "size": 100477,
+          "uploadedDate": "2019-04-23T20:32:55.900Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/springbok/offer/DS3_TheCrucibleDLC_KeyArt-2175x1285-9c5dff5431ca2330a5e3d7a93dda34e54bc77d46.jpg",
+          "md5": "53b131fe808542001476462089ab43d0",
+          "width": 2175,
+          "height": 1285,
+          "size": 262025,
+          "uploadedDate": "2020-02-12T09:41:44.790Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+          "md5": "acb9ad88419d3f09a2d29b582324161f",
+          "width": 330,
+          "height": 440,
+          "size": 100477,
+          "uploadedDate": "2020-04-20T14:15:05.291Z"
+        }
+      ],
+      "categories": [
+        { "path": "addons" },
+        { "path": "addons/durable" },
+        { "path": "games" },
+        { "path": "applications" }
+      ],
+      "namespace": "springbok",
+      "status": "ACTIVE",
+      "creationDate": "2019-02-04T20:19:27.913Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.631Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "THQ Nordic" },
+        "developerName": { "type": "STRING", "value": "Gunfire Games" },
+        "SupportedPlatforms": { "type": "STRING", "value": "Windows" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "darksiders3/dlc"
+        }
+      },
+      "internalName": "Darksiders III DLC - The Crucible",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "a46ef9792391432c82cf18321a553fc8",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "springbok",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 699,
+      "price": 699,
+      "basePrice": 699,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+        "name": "THQ Nordic GmbH"
+      },
+      "effectiveDate": "2019-02-04T15:17:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-springbok_USD_699",
+      "urlSlug": "darksiders3--dlc-01",
+      "roleNamesToGrant": [],
+      "tags": [1216, 19847, 1370, 9547, 1117, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "DLC",
+      "shareRevenue": true,
+      "offerType": "DLC",
+      "unsearchable": false,
+      "releaseDate": "2019-02-26T12:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Darksiders III DLC - The Crucible",
+      "refundType": "REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "95e743aa01c6410680916acb796246b5",
+      "title": "Darksiders III",
+      "description": "Return to an apocalyptic Earth in Darksiders III, a hack-n-slash Action Adventure where players assume the role of FURY in her quest to hunt down and dispose of the Seven Deadly Sins. The most unpredictable and enigmatic of the Four Horsemen, FURY must succeed where many have...",
+      "keyImages": [
+        {
+          "type": "DieselStoreFrontTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg",
+          "md5": "864bba556f317c24eb047db8ee19a260",
+          "width": 1288,
+          "height": 1450,
+          "size": 178886,
+          "uploadedDate": "2018-12-06T21:37:09.089Z"
+        },
+        {
+          "type": "DieselStoreFrontWide",
+          "url": "https://cdn1.epicgames.com/epic/offer/Darksiders3_wide-960x542-0df0d90a521994e320793355832a5924.jpg",
+          "md5": "0df0d90a521994e320793355832a5924",
+          "width": 960,
+          "height": 542,
+          "size": 248248,
+          "uploadedDate": "2019-03-27T17:12:40.868Z"
+        },
+        {
+          "type": "DieselGameBoxLogo",
+          "url": "https://cdn1.epicgames.com/epic/offer/DarksidersIII_Logo_White-1500x281-84fba9f14ba587a4b067bd14de325479.png",
+          "md5": "84fba9f14ba587a4b067bd14de325479",
+          "width": 1500,
+          "height": 281,
+          "size": 24085,
+          "uploadedDate": "2019-04-08T13:59:23.392Z"
+        },
+        {
+          "type": "OfferImageTall",
+          "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg",
+          "md5": "864bba556f317c24eb047db8ee19a260",
+          "width": 1288,
+          "height": 1450,
+          "size": 178886,
+          "uploadedDate": "2018-12-06T21:37:09.089Z"
+        },
+        {
+          "type": "DieselGameBox",
+          "url": "https://cdn1.epicgames.com/springbok/item/Primary_Promo2-2580x1456-f4e5599e662277ab74bd924adc2b13f2.jpg",
+          "md5": "f4e5599e662277ab74bd924adc2b13f2",
+          "width": 2580,
+          "height": 1456,
+          "size": 3186075,
+          "uploadedDate": "2018-11-29T23:19:05.024Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/springbok/offer/coderedemption-340x440-e43ab51858d0c4fdcb74a63590343ef5.jpg",
+          "md5": "e43ab51858d0c4fdcb74a63590343ef5",
+          "width": 340,
+          "height": 440,
+          "size": 78086,
+          "uploadedDate": "2018-12-14T15:50:37.903Z"
+        },
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+          "md5": "acb9ad88419d3f09a2d29b582324161f",
+          "width": 330,
+          "height": 440,
+          "size": 100477,
+          "uploadedDate": "2019-04-23T20:31:46.362Z"
+        },
+        {
+          "type": "OfferImageWide",
+          "url": "https://cdn1.epicgames.com/springbok/offer/DS3_Horizontal-2560x1440-417a54a752a7aecb70c340872fc77e74.jpg",
+          "md5": "417a54a752a7aecb70c340872fc77e74",
+          "width": 2560,
+          "height": 1440,
+          "size": 3640850,
+          "uploadedDate": "2020-02-28T13:51:24.078Z"
+        }
+      ],
+      "categories": [
+        { "path": "games" },
+        { "path": "games/edition/base" },
+        { "path": "games/edition" },
+        { "path": "applications" }
+      ],
+      "namespace": "springbok",
+      "status": "ACTIVE",
+      "creationDate": "2018-11-29T23:21:51.529Z",
+      "lastModifiedDate": "2024-01-11T08:16:33.543Z",
+      "customAttributes": {
+        "com.epicgames.app.blacklist": { "type": "STRING", "value": "[]" },
+        "publisherName": { "type": "STRING", "value": "THQ Nordic" },
+        "developerName": { "type": "STRING", "value": "Gunfire Games" },
+        "com.epicgames.app.productSlug": {
+          "type": "STRING",
+          "value": "darksiders3"
+        }
+      },
+      "internalName": "Darksiders III",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "cd95e989ab994d439b41ad4dbb80a856",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "springbok",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 3999,
+      "price": 3999,
+      "basePrice": 3999,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+        "name": "THQ Nordic GmbH"
+      },
+      "effectiveDate": "2018-12-14T00:00:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": false,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-springbok_USD_3999_1664299341127",
+      "urlSlug": "darksiders",
+      "roleNamesToGrant": [],
+      "tags": [1216, 21109, 21894, 19847, 1370, 9547, 1117, 9549],
+      "purchaseLimit": 1,
+      "ignoreOrder": false,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": true,
+      "offerType": "BASE_GAME",
+      "unsearchable": false,
+      "releaseDate": "2018-11-27T14:00:00.000Z",
+      "releaseOffer": "",
+      "title4Sort": "Darksiders III",
+      "selfRefundable": true,
+      "refundType": "SELF_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": true,
+      "platformWhitelist": [],
+      "platformBlacklist": [],
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    },
+    {
+      "id": "9f466200def04ccb9670a54e81b1d550",
+      "title": "SpringbokDevAudience",
+      "description": "SpringbokDevAudience",
+      "keyImages": [
+        {
+          "type": "Thumbnail",
+          "url": "https://cdn1.epicgames.com/springbok/offer/Portrait-Promo-1288x1450-864bba556f317c24eb047db8ee19a260-1288x1450-864bba556f317c24eb047db8ee19a260-1288x1450-864bba556f317c24eb047db8ee19a260.jpg",
+          "md5": "864bba556f317c24eb047db8ee19a260",
+          "width": 1288,
+          "height": 1450,
+          "size": 178886,
+          "uploadedDate": "2018-12-14T15:51:38.166Z"
+        },
+        {
+          "type": "CodeRedemption_340x440",
+          "url": "https://cdn1.epicgames.com/springbok/offer/coderedemption-340x440-e43ab51858d0c4fdcb74a63590343ef5.jpg",
+          "md5": "e43ab51858d0c4fdcb74a63590343ef5",
+          "width": 340,
+          "height": 440,
+          "size": 78086,
+          "uploadedDate": "2018-12-14T15:51:45.328Z"
+        }
+      ],
+      "categories": [{ "path": "games" }, { "path": "applications" }],
+      "namespace": "springbok",
+      "status": "ACTIVE",
+      "creationDate": "2018-12-12T16:08:43.712Z",
+      "lastModifiedDate": "2023-12-13T08:54:28.645Z",
+      "customAttributes": {
+        "publisherName": { "type": "STRING", "value": "THQ Nordic" },
+        "developerName": { "type": "STRING", "value": "Gunfire Games" }
+      },
+      "internalName": "SpringbokDevAudience",
+      "recurrence": "ONCE",
+      "items": [
+        {
+          "id": "9897c41b360b4e4cadd733a6e814bc7e",
+          "keyImages": [],
+          "categories": [],
+          "namespace": "springbok",
+          "unsearchable": false
+        }
+      ],
+      "currencyCode": "USD",
+      "currentPrice": 0,
+      "price": 0,
+      "basePrice": 0,
+      "basePriceCurrencyCode": "USD",
+      "recurringPrice": 0,
+      "freeDays": 0,
+      "maxBillingCycles": 0,
+      "seller": {
+        "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+        "name": "THQ Nordic GmbH"
+      },
+      "effectiveDate": "2018-12-12T11:08:00.000Z",
+      "vatIncluded": false,
+      "isCodeRedemptionOnly": true,
+      "isFeatured": false,
+      "taxSkuId": "DS_Diesel",
+      "merchantGroup": "EGS_MKT",
+      "priceTier": "prod-springbok_USD_0",
+      "urlSlug": "darksidersiiidevaudience",
+      "roleNamesToGrant": [],
+      "tags": [19847],
+      "purchaseLimit": 1,
+      "ignoreOrder": true,
+      "fulfillToGroup": false,
+      "fraudItemType": "SP_Game",
+      "shareRevenue": false,
+      "offerType": "OTHERS",
+      "unsearchable": false,
+      "title4Sort": "SpringbokDevAudience",
+      "refundType": "NON_REFUNDABLE",
+      "visibilityType": "IS_LISTED",
+      "currencyDecimals": 2,
+      "allowPurchaseForPartialOwned": true,
+      "shareRevenueWithUnderageAffiliates": false,
+      "partialItemPrerequisiteCheck": false,
+      "upgradeMode": "UPGRADED_WITH_PRICE_FULL"
+    }
+  ],
+  "paging": { "count": 100, "start": 0, "total": 5 }
+}
