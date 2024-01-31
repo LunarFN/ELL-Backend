@@ -394,9 +394,14 @@ def utoffers():
 
 @app.route('/catalog/api/shared/namespace/fn/offers', methods=['GET'])
 def fnoffers():
-    with open('fnoffers.json', 'r') as fnoffers_file:
-        data = json.load(fnoffers_file)
-    return data
+    try:
+        with open('fnoffers.json', 'r', encoding='utf-8') as fnoffers_file:
+            data = json.load(fnoffers_file)
+        return jsonify(data)
+    except json.JSONDecodeError as e:
+        return jsonify({"error": f"JSON decoding error: {str(e)}"}), 500
+    except UnicodeDecodeError as e:
+        return jsonify({"error": f"Unicode decoding error: {str(e)}"}), 500
 
 @app.route('/priceengine/api/shared/offers/price', methods=['POST'])
 def priceengine():
