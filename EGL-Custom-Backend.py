@@ -208,9 +208,14 @@ def conanexilesitems():
 
 @app.route('/catalog/api/shared/namespace/odin/items', methods=['GET'])
 def odinitems():
-    with open('odinitems.json', 'r') as odinitems_file:
-        data = json.load(odinitems_file)
-    return data
+    try:
+        with open('odinitems.json', 'r', encoding='utf-8') as odinitems_file:
+            data = json.load(odinitems_file)
+        return jsonify(data)
+    except json.JSONDecodeError as e:
+        return jsonify({"error": f"JSON decoding error: {str(e)}"}), 500
+    except UnicodeDecodeError as e:
+        return jsonify({"error": f"Unicode decoding error: {str(e)}"}), 500
 
 @app.route('/catalog/api/shared/namespace/pixark/items', methods=['GET'])
 def pixarkitems():
