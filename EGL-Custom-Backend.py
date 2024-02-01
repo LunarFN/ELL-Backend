@@ -9,109 +9,109 @@ app = Flask(__name__)
 CORS(app)
 
 def process_ark():
-    json_file_path = os.path.join('priceengine', 'arkpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'arkpriceengine.json')
     with open(json_file_path, 'r') as arkpriceengine_file:
         data = json.load(arkpriceengine_file)
     return data
 
 def process_squad():
-    json_file_path = os.path.join('priceengine', 'squadpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'squadpriceengine.json')
     with open(json_file_path, 'r') as squadpriceengine_file:
         data = json.load(squadpriceengine_file)
     return data
 
 def process_mars2030():
-    json_file_path = os.path.join('priceengine', 'mars2030priceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'mars2030priceengine.json')
     with open(json_file_path, 'r') as mars2030priceengine_file:
         data = json.load(mars2030priceengine_file)
     return data
 
 def process_jaguar():
-    json_file_path = os.path.join('priceengine', 'jaguarpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'jaguarpriceengine.json')
     with open(json_file_path, 'r') as jaguarpriceengine_file:
         data = json.load(jaguarpriceengine_file)
     return data
 
 def process_helloneigbor():
-    json_file_path = os.path.join('priceengine', 'helloneighborpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'helloneighborpriceengine.json')
     with open(json_file_path, 'r') as helloneighborpriceengine_file:
         data = json.load(helloneighborpriceengine_file)
     return data
 
 def process_darkandlight():
-    json_file_path = os.path.join('priceengine', 'darkandlightpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'darkandlightpriceengine.json')
     with open(json_file_path, 'r') as darkandlightpriceengine_file:
         data = json.load(darkandlightpriceengine_file)
     return data
 
 def process_min():
-    json_file_path = os.path.join('priceengine', 'minpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'minpriceengine.json')
     with open(json_file_path, 'r') as minpriceengine_file:
         data = json.load(minpriceengine_file)
     return data
 
 def process_vrfunhouse():
-    json_file_path = os.path.join('priceengine', 'vrfunhousepriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'vrfunhousepriceengine.json')
     with open(json_file_path, 'r') as vrfunhousepriceengine_file:
         data = json.load(vrfunhousepriceengine_file)
     return data
 
 def process_springbok():
-    json_file_path = os.path.join('priceengine', 'springbokpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'springbokpriceengine.json')
     with open(json_file_path, 'r') as springbokpriceengine_file:
         data = json.load(springbokpriceengine_file)
     return data
 
 def process_bussim18():
-    json_file_path = os.path.join('priceengine', 'bussim18priceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'bussim18priceengine.json')
     with open(json_file_path, 'r') as bussim18priceengine_file:
         data = json.load(bussim18priceengine_file)
     return data
 
 def process_showmaker():
-    json_file_path = os.path.join('priceengine', 'showmakerpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'showmakerpriceengine.json')
     with open(json_file_path, 'r') as showmakerpriceengine_file:
         data = json.load(showmakerpriceengine_file)
     return data
 
 def process_pixark():
-    json_file_path = os.path.join('priceengine', 'pixarkpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'pixarkpriceengine.json')
     with open(json_file_path, 'r') as pixarkpriceengine_file:
         data = json.load(pixarkpriceengine_file)
     return data
 
 def process_odin():
-    json_file_path = os.path.join('priceengine', 'odinpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'odinpriceengine.json')
     with open(json_file_path, 'r') as odinpriceengine_file:
         data = json.load(odinpriceengine_file)
     return data
 
 def process_wren():
-    json_file_path = os.path.join('priceengine', 'wrenpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'wrenpriceengine.json')
     with open(json_file_path, 'r') as wrenpriceengine_file:
         data = json.load(wrenpriceengine_file)
     return data
 
 def process_vpr():
-    json_file_path = os.path.join('priceengine', 'vprpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'vprpriceengine.json')
     with open(json_file_path, 'r') as vprpriceengine_file:
         data = json.load(vprpriceengine_file)
     return data
 
 def process_morpho():
-    json_file_path = os.path.join('priceengine', 'morphopriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'morphopriceengine.json')
     with open(json_file_path, 'r') as morphopriceengine_file:
         data = json.load(morphopriceengine_file)
     return data
 
 def process_conanexiles():
-    json_file_path = os.path.join('priceengine', 'conanexilespriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'conanexilespriceengine.json')
     with open(json_file_path, 'r') as conanexilespriceengine_file:
         data = json.load(conanexilespriceengine_file)
     return data
 
 def process_fn():
-    json_file_path = os.path.join('priceengine', 'fnpriceengine.json')
+    json_file_path = os.path.join('responses/priceengine', 'fnpriceengine.json')
     with open(json_file_path, 'r') as fnpriceengine_file:
         data = json.load(fnpriceengine_file)
     return data
@@ -154,8 +154,9 @@ def token():
     form_data = request.form  # If the data is in form format
     print(f"Received POST request on /your_endpoint:")
     print(f"Form Data: {form_data}")
-    with open('token_response.json', 'r') as token_file:
-        data = json.load(token_file)
+    json_file_path = os.path.join('responses/account', 'static_token_response.json')
+    with open(json_file_path, 'r') as static_token_file:
+        data = json.load(static_token_file)
     return jsonify(data)
 
 @app.route('/launcher/api/cloudstorage/system', methods=['GET'])
@@ -172,66 +173,70 @@ def test():
 
 @app.route('/account/api/public/account/r54hre45h4r5th48r5hrhr54h56rhr', methods=['GET'])
 def account():
-    with open('account_response.json', 'r') as account_file:
-        data = json.load(account_file)
+    json_file_path = os.path.join('responses/account', 'static_account_response.json')
+    with open(json_file_path, 'r') as static_account_file:
+        data = json.load(static_account_file)
     return jsonify(data)
 
 @app.route('/account/api/public/account/r54hre45h4r5th48r5hrhr54h56rhr/externalAuths', methods=['GET'])
 def externalauths():
-    with open('externalAuths.json', 'r') as externalauths_file:
-        data = json.load(externalauths_file)
+    json_file_path = os.path.join('responses/account', 'static_externalAuths.json')
+    with open(json_file_path, 'r') as static_externalAuths_file:
+        data = json.load(static_externalAuths_file)
     return jsonify(data)
 
 @app.route('/account/api/epicdomains/ssodomains', methods=['GET'])
 def ssdomains():
-    with open('ssdomains.json', 'r') as ssdomains_file:
-        data = json.load(ssdomains_file)
+    json_file_path = os.path.join('responses/ssdomains', 'static_ssdomains.json')
+    with open(json_file_path, 'r') as static_ssdomains_file:
+        data = json.load(static_ssdomains_file)
     return jsonify(data)
 
 @app.route('/launcher/api/public/payment/accounts/r54hre45h4r5th48r5hrhr54h56rhr/billingaccounts/default', methods=['GET'])
 def savedpayment():
-    with open('savedpayment.json') as savedpayment_file:
-        data = json.load(savedpayment_file)
+    json_file_path = os.path.join('responses/account', 'static_savedpayment.json')
+    with open(json_file_path, 'r') as static_savedpayment_file:
+        data = json.load(static_savedpayment_file)
     return jsonify(data)
 
 @app.route('/catalog/api/shared/namespace/bussim18/items', methods=['GET'])
 def bussim18items():
-    json_file_path = os.path.join('items', 'bussim18items.json')
+    json_file_path = os.path.join('responses/items', 'bussim18items.json')
     with open(json_file_path, 'r') as bussim18items_file:
         data = json.load(bussim18items_file)
     return jsonify(data)
 
 @app.route('/catalog/api/shared/namespace/ark/items', methods=['GET'])
 def arkitems():
-    json_file_path = os.path.join('items', 'arkitems.json')
+    json_file_path = os.path.join('responses/items', 'arkitems.json')
     with open(json_file_path, 'r') as arkitems_file:
         data = json.load(arkitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/darkandlight/items', methods=['GET'])
 def darkandlightitems():
-    json_file_path = os.path.join('items', 'darkandlightitems.json')
+    json_file_path = os.path.join('responses/items', 'darkandlightitems.json')
     with open(json_file_path, 'r') as darkandlightitems_file:
         data = json.load(darkandlightitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/helloneighbor/items', methods=['GET'])
 def helloneighboritems():
-    json_file_path = os.path.join('items', 'helloneighboritems.json')
+    json_file_path = os.path.join('responses/items', 'helloneighboritems.json')
     with open(json_file_path, 'r') as helloneighboritems_file:
         data = json.load(helloneighboritems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/mars2030/items', methods=['GET'])
 def mars2030items():
-    json_file_path = os.path.join('items', 'mars2030items.json')
+    json_file_path = os.path.join('responses/items', 'mars2030items.json')
     with open(json_file_path, 'r') as mars2030items_file:
         data = json.load(mars2030items_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/conanexiles/items', methods=['GET'])
 def conanexilesitems():
-    json_file_path = os.path.join('items', 'conanexilesitems.json')
+    json_file_path = os.path.join('responses/items', 'conanexilesitems.json')
     with open(json_file_path, 'r') as conanexilesitems_file:
         data = json.load(conanexilesitems_file)
     return data
@@ -239,7 +244,7 @@ def conanexilesitems():
 @app.route('/catalog/api/shared/namespace/odin/items', methods=['GET'])
 def odinitems():
     try:
-        json_file_path = os.path.join('items', 'odinitems.json')
+        json_file_path = os.path.join('responses/items', 'odinitems.json')
         with open(json_file_path, 'r') as odinitems_file:
             data = json.load(odinitems_file)
         return jsonify(data)
@@ -250,210 +255,210 @@ def odinitems():
 
 @app.route('/catalog/api/shared/namespace/pixark/items', methods=['GET'])
 def pixarkitems():
-    json_file_path = os.path.join('items', 'pixarkitems.json')
+    json_file_path = os.path.join('responses/items', 'pixarkitems.json')
     with open(json_file_path, 'r') as pixarkitems_file:
         data = json.load(pixarkitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/showmaker/items', methods=['GET'])
 def showmakeritems():
-    json_file_path = os.path.join('items', 'showmakeritems.json')
+    json_file_path = os.path.join('responses/items', 'showmakeritems.json')
     with open(json_file_path, 'r') as showmakeritems_file:
         data = json.load(showmakeritems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/squad/items', methods=['GET'])
 def squaditems():
-    json_file_path = os.path.join('items', 'squaditems.json')
+    json_file_path = os.path.join('responses/items', 'squaditems.json')
     with open(json_file_path, 'r') as squaditems_file:
         data = json.load(squaditems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/vrfunhouse/items', methods=['GET'])
 def vrfunhouseitems():
-    json_file_path = os.path.join('items', 'vrfunhouseitems.json')
+    json_file_path = os.path.join('responses/items', 'vrfunhouseitems.json')
     with open(json_file_path, 'r') as vrfunhouseitems_file:
         data = json.load(vrfunhouseitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/fn/items', methods=['GET'])
 def fnitems():
-    json_file_path = os.path.join('items', 'fnitems.json')
+    json_file_path = os.path.join('responses/items', 'fnitems.json')
     with open(json_file_path, 'r') as fnitems_file:
         data = json.load(fnitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/jaguar/items', methods=['GET'])
 def jaguaritems():
-    json_file_path = os.path.join('items', 'jaguaritems.json')
+    json_file_path = os.path.join('responses/items', 'jaguaritems.json')
     with open(json_file_path, 'r') as jaguaritems_file:
         data = json.load(jaguaritems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/min/items', methods=['GET'])
 def minitems():
-    json_file_path = os.path.join('items', 'minitems.json')
+    json_file_path = os.path.join('responses/items', 'minitems.json')
     with open(json_file_path, 'r') as minitems_file:
         data = json.load(minitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/morpho/items', methods=['GET'])
 def morphoitems():
-    json_file_path = os.path.join('items', 'morphoitems.json')
+    json_file_path = os.path.join('responses/items', 'morphoitems.json')
     with open(json_file_path, 'r') as morphoitems_file:
         data = json.load(morphoitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/springbok/items', methods=['GET'])
 def springbokitems():
-    json_file_path = os.path.join('items', 'springbokitems.json')
+    json_file_path = os.path.join('responses/items', 'springbokitems.json')
     with open(json_file_path, 'r') as springbokitems_file:
         data = json.load(springbokitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/ut/items', methods=['GET'])
 def utitems():
-    json_file_path = os.path.join('items', 'utitems.json')
+    json_file_path = os.path.join('responses/items', 'utitems.json')
     with open(json_file_path, 'r') as utitems_file:
         data = json.load(utitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/vpr/items', methods=['GET'])
 def vpritems():
-    json_file_path = os.path.join('items', 'vpritems.json')
+    json_file_path = os.path.join('responses/items', 'vpritems.json')
     with open(json_file_path, 'r') as vpritems_file:
         data = json.load(vpritems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/wren/items', methods=['GET'])
 def wrenitems():
-    json_file_path = os.path.join('items', 'wrenitems.json')
+    json_file_path = os.path.join('responses/items', 'wrenitems.json')
     with open(json_file_path, 'r') as wrenitems_file:
         data = json.load(wrenitems_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/ark/offers', methods=['GET'])
 def arkoffers():
-    json_file_path = os.path.join('offers', 'arkoffers.json')
+    json_file_path = os.path.join('responses/offers', 'arkoffers.json')
     with open(json_file_path, 'r') as arkoffers_file:
         data = json.load(arkoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/darkandlight/offers', methods=['GET'])
 def darkandlightoffers():
-    json_file_path = os.path.join('offers', 'darkandlightoffers.json')
+    json_file_path = os.path.join('responses/offers', 'darkandlightoffers.json')
     with open(json_file_path, 'r') as darkandlightoffers_file:
         data = json.load(darkandlightoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/helloneighbor/offers', methods=['GET'])
 def helloneighboroffers():
-    json_file_path = os.path.join('offers', 'helloneighboroffers.json')
+    json_file_path = os.path.join('responses/offers', 'helloneighboroffers.json')
     with open(json_file_path, 'r') as helloneighboroffers_file:
         data = json.load(helloneighboroffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/mars2030/offers', methods=['GET'])
 def mars2030offers():
-    json_file_path = os.path.join('offers', 'mars2030offers.json')
+    json_file_path = os.path.join('responses/offers', 'mars2030offers.json')
     with open(json_file_path, 'r') as mars2030offers_file:
         data = json.load(mars2030offers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/bussim18/offers', methods=['GET'])
 def bussim18offers():
-    json_file_path = os.path.join('offers', 'bussim18offers.json')
+    json_file_path = os.path.join('responses/offers', 'bussim18offers.json')
     with open(json_file_path, 'r') as bussim18offers_file:
         data = json.load(bussim18offers_file)
     return jsonify(data)
 
 @app.route('/catalog/api/shared/namespace/conanexiles/offers', methods=['GET'])
 def conanexilesoffers():
-    json_file_path = os.path.join('offers', 'conanexilesoffers.json')
+    json_file_path = os.path.join('responses/offers', 'conanexilesoffers.json')
     with open(json_file_path, 'r') as conanexilesoffers_file:
         data = json.load(conanexilesoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/springbok/offers', methods=['GET'])
 def springbokoffers():
-    json_file_path = os.path.join('offers', 'springbokoffers.json')
+    json_file_path = os.path.join('responses/offers', 'springbokoffers.json')
     with open(json_file_path, 'r') as springbokoffers_file:
         data = json.load(springbokoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/jaguar/offers', methods=['GET'])
 def jaguaroffers():
-    json_file_path = os.path.join('offers', 'jaguaroffers.json')
+    json_file_path = os.path.join('responses/offers', 'jaguaroffers.json')
     with open(json_file_path, 'r') as jaguaroffers_file:
         data = json.load(jaguaroffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/odin/offers', methods=['GET'])
 def odinoffers():
-    json_file_path = os.path.join('offers', 'odinoffers.json')
+    json_file_path = os.path.join('responses/offers', 'odinoffers.json')
     with open(json_file_path, 'r') as odinoffers_file:
         data = json.load(odinoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/pixark/offers', methods=['GET'])
 def pixarkoffers():
-    json_file_path = os.path.join('offers', 'pixarkoffers.json')
+    json_file_path = os.path.join('responses/offers', 'pixarkoffers.json')
     with open(json_file_path, 'r') as pixarkoffers_file:
         data = json.load(pixarkoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/showmaker/offers', methods=['GET'])
 def showmakeroffers():
-    json_file_path = os.path.join('offers', 'showmakeroffers.json')
+    json_file_path = os.path.join('responses/offers', 'showmakeroffers.json')
     with open(json_file_path, 'r') as showmakeroffers_file:
         data = json.load(showmakeroffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/squad/offers', methods=['GET'])
 def squadoffers():
-    json_file_path = os.path.join('offers', 'squadoffers.json')
+    json_file_path = os.path.join('responses/offers', 'squadoffers.json')
     with open(json_file_path, 'r') as squadoffers_file:
         data = json.load(squadoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/vrfunhouse/offers', methods=['GET'])
 def vrfunhouseoffers():
-    json_file_path = os.path.join('offers', 'vrfunhouseoffers.json')
+    json_file_path = os.path.join('responses/offers', 'vrfunhouseoffers.json')
     with open(json_file_path, 'r') as vrfunhouseoffers_file:
         data = json.load(vrfunhouseoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/wren/offers', methods=['GET'])
 def wrenoffers():
-    json_file_path = os.path.join('offers', 'wrenoffers.json')
+    json_file_path = os.path.join('responses/offers', 'wrenoffers.json')
     with open(json_file_path, 'r') as wrenoffers_file:
         data = json.load(wrenoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/vpr/offers', methods=['GET'])
 def vproffers():
-    json_file_path = os.path.join('offers', 'vproffers.json')
+    json_file_path = os.path.join('responses/offers', 'vproffers.json')
     with open(json_file_path, 'r') as vproffers_file:
         data = json.load(vproffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/morpho/offers', methods=['GET'])
 def morphooffers():
-    json_file_path = os.path.join('offers', 'morphooffers.json')
+    json_file_path = os.path.join('responses/offers', 'morphooffers.json')
     with open(json_file_path, 'r') as morphooffers_file:
         data = json.load(morphooffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/min/offers', methods=['GET'])
 def minoffers():
-    json_file_path = os.path.join('offers', 'minoffers.json')
+    json_file_path = os.path.join('responses/offers', 'minoffers.json')
     with open(json_file_path, 'r') as minoffers_file:
         data = json.load(minoffers_file)
     return data
 
 @app.route('/catalog/api/shared/namespace/ut/offers', methods=['GET'])
 def utoffers():
-    json_file_path = os.path.join('offers', 'utoffers.json')
+    json_file_path = os.path.join('responses/offers', 'utoffers.json')
     with open(json_file_path, 'r') as utoffers_file:
         data = json.load(utoffers_file)
     return data
@@ -461,7 +466,7 @@ def utoffers():
 @app.route('/catalog/api/shared/namespace/fn/offers', methods=['GET'])
 def fnoffers():
     try:
-        json_file_path = os.path.join('offers', 'fnoffers.json')
+        json_file_path = os.path.join('responses/offers', 'fnoffers.json')
         with open(json_file_path, 'r') as fnoffers_file:
             data = json.load(fnoffers_file)
         return jsonify(data)
