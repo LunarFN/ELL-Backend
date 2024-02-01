@@ -1,4 +1,4 @@
-from flask import Flask, make_response, jsonify, request
+from flask import Flask, make_response, jsonify, request, send_file
 from flask_cors import CORS
 import json
 import os
@@ -136,6 +136,12 @@ namespace_handlers = {
     'conanexiles': process_conanexiles,
     'fn': process_fn,
 }
+
+@app.route('/custom/public/images/lunarwidetrans.png')
+def customlunarwidetrans():
+    image_file_path = os.path.join('custom/images', 'lunarwidetrans.png')
+    content_type = 'image/png'
+    return send_file(image_file_path, mimetype=content_type)
 
 @app.route('/waitingroom/api/waitingroom', methods=['GET'])
 def waitingroomskip():
