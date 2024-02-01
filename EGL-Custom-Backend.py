@@ -9,92 +9,110 @@ app = Flask(__name__)
 CORS(app)
 
 def process_ark():
-    with open('arkpriceengine.json', 'r') as arkpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'arkpriceengine.json')
+    with open(json_file_path, 'r') as arkpriceengine_file:
         data = json.load(arkpriceengine_file)
     return data
 
 def process_squad():
-    with open('squadpriceengine.json', 'r') as squadpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'squadpriceengine.json')
+    with open(json_file_path, 'r') as squadpriceengine_file:
         data = json.load(squadpriceengine_file)
     return data
 
 def process_mars2030():
-    with open('mars2030priceengine.json', 'r') as mars2030priceengine_file:
+    json_file_path = os.path.join('priceengine', 'mars2030priceengine.json')
+    with open(json_file_path, 'r') as mars2030priceengine_file:
         data = json.load(mars2030priceengine_file)
     return data
 
 def process_jaguar():
-    with open('jaguarpriceengine.json', 'r') as jaguarpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'jaguarpriceengine.json')
+    with open(json_file_path, 'r') as jaguarpriceengine_file:
         data = json.load(jaguarpriceengine_file)
     return data
 
 def process_helloneigbor():
-    with open('helloneighborpriceengine.json', 'r') as helloneighborpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'helloneighborpriceengine.json')
+    with open(json_file_path, 'r') as helloneighborpriceengine_file:
         data = json.load(helloneighborpriceengine_file)
     return data
 
 def process_darkandlight():
-    with open('darkandlightpriceengine.json', 'r') as darkandlightpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'darkandlightpriceengine.json')
+    with open(json_file_path, 'r') as darkandlightpriceengine_file:
         data = json.load(darkandlightpriceengine_file)
     return data
 
 def process_min():
-    with open('minpriceengine.json', 'r') as minpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'minpriceengine.json')
+    with open(json_file_path, 'r') as minpriceengine_file:
         data = json.load(minpriceengine_file)
     return data
 
 def process_vrfunhouse():
-    with open('vrfunhousepriceengine.json', 'r') as vrfunhousepriceengine_file:
+    json_file_path = os.path.join('priceengine', 'vrfunhousepriceengine.json')
+    with open(json_file_path, 'r') as vrfunhousepriceengine_file:
         data = json.load(vrfunhousepriceengine_file)
     return data
 
 def process_springbok():
-    with open('springbokpriceengine.json', 'r') as springbokpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'springbokpriceengine.json')
+    with open(json_file_path, 'r') as springbokpriceengine_file:
         data = json.load(springbokpriceengine_file)
     return data
 
 def process_bussim18():
-    with open('bussim18priceengine.json', 'r') as bussim18priceengine_file:
+    json_file_path = os.path.join('priceengine', 'bussim18priceengine.json')
+    with open(json_file_path, 'r') as bussim18priceengine_file:
         data = json.load(bussim18priceengine_file)
     return data
 
 def process_showmaker():
-    with open('showmakerpriceengine.json', 'r') as showmakerpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'showmakerpriceengine.json')
+    with open(json_file_path, 'r') as showmakerpriceengine_file:
         data = json.load(showmakerpriceengine_file)
     return data
 
 def process_pixark():
-    with open('pixarkpriceengine.json', 'r') as pixarkpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'pixarkpriceengine.json')
+    with open(json_file_path, 'r') as pixarkpriceengine_file:
         data = json.load(pixarkpriceengine_file)
     return data
 
 def process_odin():
-    with open('odinpriceengine.json', 'r') as odinpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'odinpriceengine.json')
+    with open(json_file_path, 'r') as odinpriceengine_file:
         data = json.load(odinpriceengine_file)
     return data
 
 def process_wren():
-    with open('wrenpriceengine.json', 'r') as wrenpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'wrenpriceengine.json')
+    with open(json_file_path, 'r') as wrenpriceengine_file:
         data = json.load(wrenpriceengine_file)
     return data
 
 def process_vpr():
-    with open('vprpriceengine.json', 'r') as vprpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'vprpriceengine.json')
+    with open(json_file_path, 'r') as vprpriceengine_file:
         data = json.load(vprpriceengine_file)
     return data
 
 def process_morpho():
-    with open('morphopriceengine.json', 'r') as morphopriceengine_file:
+    json_file_path = os.path.join('priceengine', 'morphopriceengine.json')
+    with open(json_file_path, 'r') as morphopriceengine_file:
         data = json.load(morphopriceengine_file)
     return data
 
 def process_conanexiles():
-    with open('conanexilespriceengine.json', 'r') as conanexilespriceengine_file:
+    json_file_path = os.path.join('priceengine', 'conanexilespriceengine.json')
+    with open(json_file_path, 'r') as conanexilespriceengine_file:
         data = json.load(conanexilespriceengine_file)
     return data
 
 def process_fn():
-    with open('fnpriceengine.json') as fnpriceengine_file:
+    json_file_path = os.path.join('priceengine', 'fnpriceengine.json')
+    with open(json_file_path, 'r') as fnpriceengine_file:
         data = json.load(fnpriceengine_file)
     return data
 
