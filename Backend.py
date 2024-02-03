@@ -4,6 +4,8 @@ import json
 import os
 
 launcher_port = "3551"
+username_email = {}
+email = {}
 
 app = Flask(__name__)
 CORS(app)
@@ -152,18 +154,55 @@ def waitingroomskip():
 @app.route('/datarouter/api/v1/public/data', methods=['POST'])
 def datarouter():
     response = make_response('response', 204)
+    form_data = request.form  # If the data is in form format
 
     return response
 
 @app.route('/account/api/oauth/token', methods=['POST'])
 def token():
-    form_data = request.form  # If the data is in form format
-    print(f"Received POST request on /your_endpoint:")
-    print(f"Form Data: {form_data}")
-    json_file_path = os.path.join('responses/account', 'static_token_response.json')
-    with open(json_file_path, 'r') as static_token_file:
-        data = json.load(static_token_file)
-    return jsonify(data)
+    # Assuming the data is sent as form data
+    form_data = request.form
+
+    # Check for the specific conditions in the form data
+    if form_data.get('grant_type') == 'client_credentials':
+        json_file_path = os.path.join('responses/account', 'static_token_response.json')
+        with open(json_file_path, 'r') as static_account_file:
+            data = json.load(static_account_file)
+        return data
+
+    elif form_data.get('grant_type') == 'password' and 'username' in form_data and 'password' in form_data and form_data.get('includePerms') == 'true':
+        # Extract username from email
+        global email
+        email = form_data['username']
+        global username_email
+        username_email = email.split('@')[0]
+
+        # Create the JSON response
+        json_response = {
+            "access_token": "eg1~h1e35h4tr5h456r4h75r4h8r4h5r45h4r5",
+            "expires_in": 28800,
+            "expires_at": "2050-01-01T00:00:00.000Z",
+            "token_type": "bearer",
+            "refresh_token": "hjbehjiptjhioptrjhiojeroih",
+            "refresh_expires": 86400,
+            "refresh_expires_at": "2050-01-01T00:00:00.000Z",
+            "account_id": "r54hre45h4r5th48r5hrhr54h56rhr",
+            "client_id": "he454e5h48te77h48eh",
+            "internal_client": True,
+            "client_service": "prod-fn",
+            "displayName": f"{username_email}",
+            "app": "EpicPortal",
+            "in_app_id": "r54hre45h4r5th48r5hrhr54h56rhr",
+            "device_id": "he75h4et7hr52h"
+        }
+
+        # Respond with the JSON response and 200 status
+        return jsonify(json_response), 200
+
+    else:
+        # Respond with an error or handle other cases as needed
+        return 'Invalid request data', 400
+
 
 @app.route('/launcher/api/cloudstorage/system', methods=['GET'])
 def syscount():
@@ -179,10 +218,38 @@ def test():
 
 @app.route('/account/api/public/account/r54hre45h4r5th48r5hrhr54h56rhr', methods=['GET'])
 def account():
-    json_file_path = os.path.join('responses/account', 'static_account_response.json')
-    with open(json_file_path, 'r') as static_account_file:
-        data = json.load(static_account_file)
-    return jsonify(data)
+    # Assuming the data is sent as form data
+    form_data = request.form
+    print(f"Form Data: {form_data}")
+    global username_email
+    global email
+
+    # Create the JSON response
+    json_response = {
+        "id": "r54hre45h4r5th48r5hrhr54h56rhr",
+        "displayName": f"{username_email}",
+        "name": f"{username_email}",
+        "email": f"{email}",
+        "failedLoginAttempts": 0,
+        "lastLogin": "2020-01-01T00:00:00.000Z",
+        "numberOfDisplayNameChanges": 0,
+        "ageGroup": "UNKNOWN",
+        "headless": "false",
+        "country": "US",
+        "lastName": "Server",
+        "preferredLanguage": "en",
+        "canUpdateDisplayName": "false",
+        "tfaEnabled": "false",
+        "emailVerified": "true",
+        "minorVerified": "false",
+        "minorExpected": "false",
+        "minorStatus": "NOT_MINOR",
+        "cabinedMode": "false",
+        "hasHashedEmail": "false"
+        }
+
+        
+    return jsonify(json_response), 200
 
 @app.route('/account/api/public/account/r54hre45h4r5th48r5hrhr54h56rhr/externalAuths', methods=['GET'])
 def externalauths():
